@@ -2254,7 +2254,16 @@
                 }
             ]
         },
-        "grass_top_carried": {
+        "grass_carried_side": {
+            "textures": {
+                "overlay_color": "#79c05a",
+                "path": "textures/blocks/grass_side"
+            }
+        },
+        "grass_carried_bottom": {
+            "textures": "textures/blocks/dirt"
+        },
+        "grass_carried_top": {
             "textures": {
                 "overlay_color": "#79c05a",
                 "path": "textures/blocks/grass_block_top"
