@@ -2,12 +2,12 @@
     "format_version": 2,
     "header": {
         "description": "§l§6by XeKr & OEOTYAN",
-        "name": "§lXeKrSquarePattern-BE v1.0",
-        "uuid": "95b11544-f1fa-4988-af26-268c9f3f0f72",
+        "name": "§lXeKrSquarePattern-BE v1.01",
+        "uuid": "d77d062b-0add-4e0b-a1eb-a9d5a76d5a29",
         "version": [
             1,
             0,
-            0
+            1
         ],
         "min_engine_version": [
             1,
@@ -19,11 +19,11 @@
         {
             "description": "§l§6by XeKr & OEOTYAN",
             "type": "resources",
-            "uuid": "3db74ff0-d2d8-4086-b171-87f7d8706e4f",
+            "uuid": "df01f249-7ba6-4490-a334-df9969bf9f22",
             "version": [
                 1,
                 0,
-                0
+                1
             ]
         }
     ]
