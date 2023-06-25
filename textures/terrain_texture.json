@@ -3918,51 +3918,6 @@
         "purple_glazed_terracotta": {
             "textures": "textures/blocks/purple_glazed_terracotta"
         },
-        "purpur_block_bottom": {
-            "textures": [
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/purpur_block",
-                            "weight": 6
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block2",
-                            "weight": 4
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block3",
-                            "weight": 4
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/purpur_block",
-                            "weight": 6
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block2",
-                            "weight": 4
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block3",
-                            "weight": 4
-                        },
-                        {
-                            "path": "textures/blocks/purpur_block4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                "textures/blocks/purpur_pillar_top"
-            ]
-        },
         "purpur_block_side": {
             "textures": [
                 {
@@ -4005,7 +3960,13 @@
                         }
                     ]
                 },
-                "textures/blocks/purpur_pillar"
+                "textures/blocks/purpur_pillar",
+                // "textures/blocks/purpur_side",
+                "textures/blocks/purpur_top",
+                "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_pillar_top"
             ]
         },
         "purpur_block_top": {
@@ -4050,6 +4011,12 @@
                         }
                     ]
                 },
+                "textures/blocks/purpur_pillar_top",
+                // "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_top",
+                "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_pillar_top",
+                "textures/blocks/purpur_pillar_top",
                 "textures/blocks/purpur_pillar_top"
             ]
         },
@@ -4479,9 +4446,12 @@
                         }
                     ]
                 },
-                "textures/blocks/granite","textures/blocks/polished_granite",
-                "textures/blocks/diorite","textures/blocks/polished_diorite",
-                "textures/blocks/andesite","textures/blocks/polished_andesite"
+                "textures/blocks/granite",
+                "textures/blocks/polished_granite",
+                "textures/blocks/diorite",
+                "textures/blocks/polished_diorite",
+                "textures/blocks/andesite",
+                "textures/blocks/polished_andesite"
             ]
         },
         "slime_block": {

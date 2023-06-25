@@ -1993,7 +1993,7 @@
     "purpur_block": {
         "textures": {
             "up": "purpur_block_top",
-            "down": "purpur_block_bottom",
+            "down": "purpur_block_top",
             "side": "purpur_block_side"
         }
     },
