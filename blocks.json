@@ -1180,7 +1180,7 @@
     "sandstone": {
         "isotropic": {
             "up": true,
-            "down": true
+            "down": false
         },
         "textures": {
             "up": "sandstone_top",
@@ -1892,7 +1892,7 @@
     "sandstone_stairs": {
         "isotropic": {
             "up": true,
-            "down": true
+            "down": false
         },
         "textures": {
             "up": "sandstone_top",
@@ -2111,7 +2111,7 @@
     "red_sandstone": {
         "isotropic": {
             "up": true,
-            "down": true
+            "down": false
         },
         "textures": {
             "up": "redsandstone_top",
@@ -2122,7 +2122,7 @@
     "red_sandstone_stairs": {
         "isotropic": {
             "up": true,
-            "down": true
+            "down": false
         },
         "textures": {
             "up": "redsandstone_top",

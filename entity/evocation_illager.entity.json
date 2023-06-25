@@ -1,9 +1,8 @@
 {
-    "format_version": "1.10.0",
+    "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
             "identifier": "minecraft:evocation_illager",
-            "min_engine_version": "1.8.0",
             "spawn_egg": {
                 "texture": "evoker_egg",
                 "texture_index": 0

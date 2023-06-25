@@ -1,9 +1,8 @@
 {
-    "format_version": "1.10.0",
+    "format_version": "1.8.0",
     "minecraft:client_entity": {
         "description": {
             "identifier": "minecraft:mule",
-            "min_engine_version": "1.8.0",
             "spawn_egg": {
                 "texture": "mule_egg",
                 "texture_index": 0
