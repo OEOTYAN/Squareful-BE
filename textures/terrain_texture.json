@@ -1772,6 +1772,18 @@
         "dark_oak_planks": {
             "textures": "textures/blocks/dark_oak_planks"
         },
+        "daylight_detector_side": {
+            "textures": [
+                "textures/blocks/daylight_detector_side",
+                "textures/blocks/daylight_detector_inverted_side"
+            ]
+        },
+        "daylight_detector_top": {
+            "textures": [
+                "textures/blocks/daylight_detector_top",
+                "textures/blocks/daylight_detector_inverted_top"
+            ]
+        },
         "daylight_detector_inverted_side": {
             "textures": [
                 "textures/blocks/daylight_detector_inverted_side"
@@ -2242,7 +2254,7 @@
                 }
             ]
         },
-        "grass_block_top_carried": {
+        "grass_top_carried": {
             "textures": {
                 "overlay_color": "#79c05a",
                 "path": "textures/blocks/grass_block_top"
@@ -2637,7 +2649,7 @@
                 "textures/blocks/grass_block_snow"
             ]
         },
-        "grass_block_top": {
+        "grass_top": {
             "textures": [
                 {
                     "variations": [
@@ -5532,6 +5544,15 @@
         },
         "torchflower": {
             "textures": "textures/blocks/torchflower"
+        },
+        "dragon_egg": {
+            "textures": "textures/blocks/dragon_egg"
+        },
+        "dragon_egg_top": {
+            "textures": "textures/blocks/dragon_egg_top"
+        },
+        "item_frame": {
+            "textures": "textures/blocks/item_frame"
         },
         "torch": {
             "textures": "textures/blocks/torch"

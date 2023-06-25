@@ -990,12 +990,12 @@
             "down": true
         },
         "textures": {
-            "up": "grass_block_top",
+            "up": "grass_top",
             "down": "grass_bottom",
             "side": "grass_side"
         },
         "carried_textures": {
-            "up": "grass_block_top_carried",
+            "up": "grass_top_carried",
             "down": "grass_carried_bottom",
             "side": "grass_carried"
         }
@@ -2139,7 +2139,11 @@
         "textures": "blue_ice"
     },
     "dragon_egg": {
-        "textures": "dragon_egg"
+        "textures": {
+            "up": "dragon_egg_top",
+            "down": "dragon_egg_top",
+            "side": "dragon_egg"
+        },
     },
     "double_plant": {
         "textures": {
@@ -2282,7 +2286,7 @@
         }
     },
     "frame": {
-        "textures": "itemframe_background"
+        "textures": "item_frame"
     },
     "podzol": {
         "isotropic": {
