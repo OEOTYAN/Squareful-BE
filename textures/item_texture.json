@@ -1,0 +1,458 @@
+{
+    "resource_pack_name": "XeKrSquare",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "bucket": {
+            "textures": [
+                "textures/items/bucket",
+                "textures/items/milk_bucket",
+                "textures/items/water_bucket",
+                "textures/items/lava_bucket",
+                "textures/items/cod_bucket",
+                "textures/items/salmon_bucket",
+                "textures/items/tropical_fish_bucket",
+                "textures/items/pufferfish_bucket",
+                "textures/items/powder_snow_bucket",
+                "textures/items/axolotl_bucket",
+                "textures/items/tadpole_bucket"
+            ]
+        },
+        "boat": {
+            "textures": [
+                "textures/items/oak_boat",
+                "textures/items/spruce_boat",
+                "textures/items/birch_boat",
+                "textures/items/jungle_boat",
+                "textures/items/acacia_boat",
+                "textures/items/dark_oak_boat"
+            ]
+        },
+        "axe": {
+            "textures": [
+                "textures/items/wooden_axe",
+                "textures/items/stone_axe",
+                "textures/items/iron_axe",
+                "textures/items/golden_axe",
+                "textures/items/diamond_axe",
+                "textures/items/netherite_axe"
+            ]
+        },
+        "boots": {
+            "textures": [
+                "textures/items/leather_boots",
+                "textures/items/chainmail_boots",
+                "textures/items/iron_boots",
+                "textures/items/golden_boots",
+                "textures/items/diamond_boots",
+                "textures/items/netherite_boots"
+            ]
+        },
+        "chestplate": {
+            "textures": [
+                "textures/items/leather_chestplate",
+                "textures/items/chainmail_chestplate",
+                "textures/items/iron_chestplate",
+                "textures/items/golden_chestplate",
+                "textures/items/diamond_chestplate",
+                "textures/items/netherite_chestplate"
+            ]
+        },
+        "helmet": {
+            "textures": [
+                "textures/items/leather_helmet",
+                "textures/items/chainmail_helmet",
+                "textures/items/iron_helmet",
+                "textures/items/golden_helmet",
+                "textures/items/diamond_helmet",
+                "textures/items/netherite_helmet"
+            ]
+        },
+        "hoe": {
+            "textures": [
+                "textures/items/wooden_hoe",
+                "textures/items/stone_hoe",
+                "textures/items/iron_hoe",
+                "textures/items/golden_hoe",
+                "textures/items/diamond_hoe",
+                "textures/items/netherite_hoe"
+            ]
+        },
+        "leggings": {
+            "textures": [
+                "textures/items/leather_leggings",
+                "textures/items/chainmail_leggings",
+                "textures/items/iron_leggings",
+                "textures/items/golden_leggings",
+                "textures/items/diamond_leggings",
+                "textures/items/netherite_leggings"
+            ]
+        },
+        "pickaxe": {
+            "textures": [
+                "textures/items/wooden_pickaxe",
+                "textures/items/stone_pickaxe",
+                "textures/items/iron_pickaxe",
+                "textures/items/golden_pickaxe",
+                "textures/items/diamond_pickaxe",
+                "textures/items/netherite_pickaxe"
+            ]
+        },
+        "shovel": {
+            "textures": [
+                "textures/items/wooden_shovel",
+                "textures/items/stone_shovel",
+                "textures/items/iron_shovel",
+                "textures/items/golden_shovel",
+                "textures/items/diamond_shovel",
+                "textures/items/netherite_shovel"
+            ]
+        },
+        "sword": {
+            "textures": [
+                "textures/items/wooden_sword",
+                "textures/items/stone_sword",
+                "textures/items/iron_sword",
+                "textures/items/golden_sword",
+                "textures/items/diamond_sword",
+                "textures/items/netherite_sword"
+            ]
+        },
+        "gold_horse_armor": {
+            "textures": "textures/items/golden_horse_armor"
+        },
+        "netherite_ingot": {
+            "textures": "textures/items/netherite_ingot"
+        },
+        "netherite_scrap": {
+            "textures": "textures/items/netherite_scrap"
+        },
+        "warped_sign_item": {
+            "textures": "textures/items/warped_sign"
+        },
+        "crimson_sign_item": {
+            "textures": "textures/items/crimson_sign"
+        },
+        "sign_acacia": {
+            "textures": "textures/items/acacia_sign"
+        },
+        "sign_birch": {
+            "textures": "textures/items/birch_sign"
+        },
+        "sign_darkoak": {
+            "textures": "textures/items/dark_oak_sign"
+        },
+        "sign_jungle": {
+            "textures": "textures/items/jungle_sign"
+        },
+        "sign_spruce": {
+            "textures": "textures/items/spruce_sign"
+        },
+        "iron_door": {
+            "textures": "textures/items/iron_door"
+        },
+        "wooden_door": {
+            "textures": "textures/items/oak_door"
+        },
+        "spruce_door": {
+            "textures": "textures/items/spruce_door"
+        },
+        "birch_door": {
+            "textures": "textures/items/birch_door"
+        },
+        "jungle_door": {
+            "textures": "textures/items/jungle_door"
+        },
+        "acacia_door": {
+            "textures": "textures/items/acacia_door"
+        },
+        "dark_oak_door": {
+            "textures": "textures/items/dark_oak_door"
+        },
+        "crimson_door": {
+            "textures": "textures/items/crimson_door"
+        },
+        "warped_door": {
+            "textures": "textures/items/warped_door"
+        },
+        "mangrove_door": {
+            "textures": "textures/items/mangrove_door"
+        },
+        "lodestonecompass_item": {
+            "textures": "textures/items/compass_item"
+        },
+        "warped_fungus_on_a_stick": {
+            "textures": "textures/items/warped_fungus_on_a_stick"
+        },
+        "chain": {
+            "textures": "textures/items/chain"
+        },
+        "soul_campfire": {
+            "textures": "textures/items/soul_campfire"
+        },
+        "record_pigstep": {
+            "textures": "textures/items/record_pigstep"
+        },
+        "nether_sprouts": {
+            "textures": "textures/items/nether_sprouts"
+        },
+        "dye_powder": {
+            "textures": [
+                "textures/items/ink_sac",
+                "textures/items/red_dye",
+                "textures/items/green_dye",
+                "textures/items/cocoa_beans",
+                "textures/items/lapis_lazuli",
+                "textures/items/purple_dye",
+                "textures/items/cyan_dye",
+                "textures/items/light_gray_dye",
+                "textures/items/gray_dye",
+                "textures/items/pink_dye",
+                "textures/items/lime_dye",
+                "textures/items/yellow_dye",
+                "textures/items/light_blue_dye",
+                "textures/items/magenta_dye",
+                "textures/items/orange_dye",
+                "textures/items/bone_meal",
+                "textures/items/black_dye",
+                "textures/items/brown_dye",
+                "textures/items/blue_dye",
+                "textures/items/white_dye",
+                "textures/items/glow_ink_sac"
+            ]
+        },
+        "potion_bottle_drinkable": {
+            "textures": [
+                "textures/items/potion_bottle_drinkable",
+                "textures/potions/normal/speed",
+                "textures/potions/normal/slowness",
+                "textures/items/potion_bottle_digSpeed",
+                "textures/items/potion_bottle_digSlowdown",
+                "textures/potions/normal/strength",
+                "textures/potions/normal/instant_health",
+                "textures/potions/normal/instant_damage",
+                "textures/potions/normal/jump_boost",
+                "textures/items/potion_bottle_confusion",
+                "textures/potions/normal/regeneration",
+                "textures/items/potion_bottle_splash_resistance",
+                "textures/potions/normal/fire_resistance",
+                "textures/potions/normal/water_breathing",
+                "textures/potions/normal/invisibility",
+                "textures/items/potion_bottle_blindness",
+                "textures/potions/normal/night_vision",
+                "textures/items/potion_bottle_hunger",
+                "textures/potions/normal/weakness",
+                "textures/potions/normal/poison",
+                "textures/potions/normal/wither",
+                "textures/items/potion_bottle_healthBoost",
+                "textures/items/potion_bottle_absorption",
+                "textures/items/potion_bottle_saturation",
+                "textures/items/potion_bottle_levitation",
+                "textures/potions/normal/turtle_master",
+                "textures/potions/normal/slow_falling"
+            ]
+        },
+        "potion_bottle_empty": {
+            "textures": "textures/items/potion_bottle_empty"
+        },
+        "potion_bottle_lingering": {
+            "textures": [
+                "textures/items/potion_bottle_lingering",
+                "textures/potions/linger/speed",
+                "textures/potions/linger/slowness",
+                "textures/potions/linger/strength",
+                "textures/potions/linger/instant_health",
+                "textures/potions/linger/instant_damage",
+                "textures/potions/linger/jump_boost",
+                "textures/potions/linger/regeneration",
+                "textures/potions/linger/fire_resistance",
+                "textures/potions/linger/water_breathing",
+                "textures/potions/linger/invisibility",
+                "textures/potions/linger/night_vision",
+                "textures/potions/linger/weakness",
+                "textures/potions/linger/poison",
+                "textures/potions/linger/wither",
+                "textures/potions/linger/turtle_master",
+                "textures/potions/linger/slow_falling"
+            ]
+        },
+        "potion_bottle_splash": {
+            "textures": [
+                "textures/items/potion_bottle_splash",
+                "textures/potions/splash/speed",
+                "textures/potions/splash/slowness",
+                "textures/items/potion_bottle_splash_digSpeed",
+                "textures/items/potion_bottle_splash_digSlowdown",
+                "textures/potions/splash/strength",
+                "textures/potions/splash/instant_health",
+                "textures/potions/splash/instant_damage",
+                "textures/potions/splash/jump_boost",
+                "textures/items/potion_bottle_splash_confusion",
+                "textures/potions/splash/regeneration",
+                "textures/items/potion_bottle_splash_resistance",
+                "textures/potions/splash/fire_resistance",
+                "textures/potions/splash/water_breathing",
+                "textures/potions/splash/invisibility",
+                "textures/items/potion_bottle_splash_blindness",
+                "textures/potions/splash/night_vision",
+                "textures/items/potion_bottle_splash_hunger",
+                "textures/potions/splash/weakness",
+                "textures/potions/splash/poison",
+                "textures/potions/splash/wither",
+                "textures/items/potion_bottle_splash_healthBoost",
+                "textures/items/potion_bottle_splash_absorption",
+                "textures/items/potion_bottle_splash_saturation",
+                "textures/potions/splash/turtle_master",
+                "textures/potions/splash/slow_falling"
+            ]
+        },
+        "potion_overlay": {
+            "textures": "textures/items/potion_overlay"
+        },
+        "book_enchanted": {
+            "textures": "textures/items/book_enchanted"
+        },
+        "suspicious_stew": {
+            "textures": "textures/items/suspicious_stew"
+        },
+        "spawn_egg": {
+            "textures": [
+                "textures/spawn_egg/chicken",
+                "textures/spawn_egg/cow",
+                "textures/spawn_egg/pig",
+                "textures/spawn_egg/sheep",
+                "textures/spawn_egg/wolf",
+                "textures/spawn_egg/mooshroom",
+                "textures/spawn_egg/creeper",
+                "textures/spawn_egg/enderman",
+                "textures/spawn_egg/silverfish",
+                "textures/spawn_egg/skeleton",
+                "textures/spawn_egg/slime",
+                "textures/spawn_egg/spider",
+                "textures/spawn_egg/zombie",
+                "textures/spawn_egg/zombified_piglin",
+                "textures/spawn_egg/villager",
+                "textures/spawn_egg/squid",
+                "textures/spawn_egg/ocelot",
+                "textures/spawn_egg/witch",
+                "textures/spawn_egg/bat",
+                "textures/spawn_egg/ghast",
+                "textures/spawn_egg/magma",
+                "textures/spawn_egg/blaze",
+                "textures/spawn_egg/cave_spider",
+                "textures/spawn_egg/horse",
+                "textures/spawn_egg/rabbit",
+                "textures/spawn_egg/endermite",
+                "textures/spawn_egg/guardian",
+                "textures/spawn_egg/stray",
+                "textures/spawn_egg/husk",
+                "textures/spawn_egg/wither_skeleton",
+                "textures/spawn_egg/donkey",
+                "textures/spawn_egg/mule",
+                "textures/spawn_egg/skeleton_horse",
+                "textures/spawn_egg/zombie_horse",
+                "textures/spawn_egg/shulker",
+                "textures/spawn_egg/npc",
+                "textures/spawn_egg/elder_guardian",
+                "textures/spawn_egg/polar_bear",
+                "textures/spawn_egg/llama",
+                "textures/spawn_egg/vindicator",
+                "textures/spawn_egg/evoker",
+                "textures/spawn_egg/vex",
+                "textures/spawn_egg/zombie_villager",
+                "textures/spawn_egg/parrot",
+                "textures/spawn_egg/tropical_fish",
+                "textures/spawn_egg/cod",
+                "textures/spawn_egg/pufferfish",
+                "textures/spawn_egg/salmon",
+                "textures/spawn_egg/drowned",
+                "textures/spawn_egg/dolphin",
+                "textures/spawn_egg/turtle",
+                "textures/spawn_egg/phantom",
+                "textures/spawn_egg/agent",
+                "textures/spawn_egg/cat",
+                "textures/spawn_egg/panda",
+                "textures/spawn_egg/fox",
+                "textures/spawn_egg/pillager",
+                "textures/spawn_egg/ravager",
+                "textures/spawn_egg/spawn_egg",
+                "textures/spawn_egg/egg_mask"
+            ]
+        },
+        "spawn_egg_bee": {
+            "textures": "textures/spawn_egg/bee"
+        },
+        "spawn_egg_wandering_trader": {
+            "textures": "textures/spawn_egg/wandering_trader"
+        },
+        "egg_bee": {
+            "textures": [
+                "textures/spawn_egg/bee"
+            ]
+        },
+        "axolotl_egg": {
+            "textures": [
+                "textures/spawn_egg/axolotl"
+            ]
+        },
+        "glow_squid_egg": {
+            "textures": [
+                "textures/spawn_egg/glow_squid"
+            ]
+        },
+        "goat_egg": {
+            "textures": [
+                "textures/spawn_egg/goat"
+            ]
+        },
+        "hoglin_egg": {
+            "textures": [
+                "textures/spawn_egg/hoglin"
+            ]
+        },
+        "piglin_egg": {
+            "textures": [
+                "textures/spawn_egg/piglin"
+            ]
+        },
+        "piglin_brute_egg": {
+            "textures": [
+                "textures/spawn_egg/piglin_brute"
+            ]
+        },
+        "strider_egg": {
+            "textures": [
+                "textures/spawn_egg/strider"
+            ]
+        },
+        "zoglin_egg": {
+            "textures": [
+                "textures/spawn_egg/zoglin"
+            ]
+        },
+        "warden_egg": {
+            "textures": [
+                "textures/spawn_egg/warden"
+            ]
+        },
+        "tadpole_egg": {
+            "textures": [
+                "textures/spawn_egg/tadpole"
+            ]
+        },
+        "frog_egg": {
+            "textures": [
+                "textures/spawn_egg/frog"
+            ]
+        },
+        "allay_egg": {
+            "textures": [
+                "textures/spawn_egg/allay"
+            ]
+        },
+        "trader_llama_egg": {
+            "textures": [
+                "textures/spawn_egg/trader_llama"
+            ]
+        }
+    }
+}
