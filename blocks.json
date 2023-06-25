@@ -2741,6 +2741,10 @@
         "sound": "stone",
         "textures": "light_blue_glazed_terracotta"
     },
+    "light_block": {
+        "carried_textures": "light_block_carried",
+        "textures": "light_block"
+    },
     "lime_glazed_terracotta": {
         "sound": "stone",
         "textures": "lime_glazed_terracotta"

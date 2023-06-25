@@ -5458,6 +5458,26 @@
         "mud_bricks_side": {
             "textures": "textures/blocks/mud_bricks_side"
         },
+        "light_block": {
+            "textures": [
+                "textures/blocks/light_00",
+                "textures/blocks/light_01",
+                "textures/blocks/light_02",
+                "textures/blocks/light_03",
+                "textures/blocks/light_04",
+                "textures/blocks/light_05",
+                "textures/blocks/light_06",
+                "textures/blocks/light_07",
+                "textures/blocks/light_08",
+                "textures/blocks/light_09",
+                "textures/blocks/light_10",
+                "textures/blocks/light_11",
+                "textures/blocks/light_12",
+                "textures/blocks/light_13",
+                "textures/blocks/light_14",
+                "textures/blocks/light_15"
+            ]
+        },
         "light_block_carried": {
             "textures": [
                 "textures/items/light_block_0",
