@@ -458,6 +458,15 @@
         "renderer": "horse_jump_renderer",
         "layer": 1
     },
+    "dash_renderer": {
+        "type": "custom",
+        "size": [
+            1,
+            1
+        ],
+        "renderer": "dash_renderer",
+        "layer": 1
+    },
     "hunger_renderer": {
         "type": "custom",
         "size": [
@@ -489,6 +498,11 @@
     },
     "vignette_renderer": {
         "ignored": true
+    },
+    "editor_gizmo_renderer": {
+        "type": "custom",
+        "renderer": "editor_gizmo_renderer",
+        "layer": 1
     },
     "cursor_renderer": {
         "type": "custom",
@@ -731,221 +745,6 @@
             }
         ]
     },
-    //Control customization Modal
-    "welcome_to_control_background_panel": {
-        "type": "panel",
-        "size": [
-            "100%c",
-            "100%c"
-        ],
-        "controls": [
-            {
-                "background_image_border": {
-                    "type": "image",
-                    "size": [
-                        "100%c + 4px",
-                        "100%c + 4px"
-                    ],
-                    "texture": "textures/ui/dropdown_background",
-                    "color": [
-                        0.2,
-                        0.2,
-                        0.2
-                    ],
-                    "controls": [
-                        {
-                            "background_image": {
-                                "type": "image",
-                                "size": [
-                                    "100%c",
-                                    "100%c"
-                                ],
-                                "layer": 20,
-                                "texture": "textures/ui/dropdown_background",
-                                "color": [
-                                    0.6,
-                                    0.6,
-                                    0.6
-                                ],
-                                "controls": [
-                                    {
-                                        "welcome_to_control_main_panel@welcome_to_control_customization_panel": {}
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-    "welcome_to_control_customization_panel": {
-        "type": "stack_panel",
-        "orientation": "vertical",
-        "size": [
-            "100%cm",
-            "100%c"
-        ],
-        "use_child_anchors": true,
-        "controls": [
-            {
-                "spacer": {
-                    "type": "panel",
-                    "size": [
-                        200,
-                        4
-                    ]
-                }
-            },
-            {
-                "label_panel@common.single_line_label": {
-                    "$font_type": "MinecraftTen",
-                    "$single_line_label_text": "hudScreen.controlCustomization.welcome",
-                    "$label_text_alignment": "right",
-                    "anchor_to": "top_middle",
-                    "anchor_from": "top_middle"
-                }
-            },
-            {
-                "spacer_two": {
-                    "type": "panel",
-                    "size": [
-                        0,
-                        15
-                    ]
-                }
-            },
-            {
-                "welcome_to_customization_image_panel@hud.welcome_to_control_customization_image_panel": {
-                    "anchor_to": "top_middle",
-                    "anchor_from": "top_middle"
-                }
-            },
-            {
-                "spacer_three": {
-                    "type": "panel",
-                    "size": [
-                        0,
-                        8
-                    ]
-                }
-            }
-        ]
-    },
-    "welcome_to_control_customization_image_panel": {
-        "type": "stack_panel",
-        "orientation": "horizontal",
-        "size": [
-            "100%c",
-            "100%cm"
-        ],
-        "controls": [
-            {
-                "spacer_one": {
-                    "type": "panel",
-                    "size": [
-                        3,
-                        0
-                    ]
-                }
-            },
-            {
-                "button_screenshot_image@hud.welcome_to_control_customization_image_stack_panel": {
-                    "$label_text": "hudScreen.controlCustomization.instructions",
-                    "offset": [
-                        5,
-                        0
-                    ]
-                }
-            },
-            {
-                "spacer_two": {
-                    "type": "panel",
-                    "size": [
-                        5,
-                        0
-                    ]
-                }
-            },
-            {
-                "controls_screenshot_image@hud.welcome_to_control_customization_image_stack_panel": {
-                    "$label_text": "hudScreen.controlCustomization.modify",
-                    "offset": [
-                        -5,
-                        0
-                    ]
-                }
-            },
-            {
-                "spacer_three": {
-                    "type": "panel",
-                    "size": [
-                        3,
-                        0
-                    ]
-                }
-            }
-        ]
-    },
-    "welcome_to_control_customization_image_stack_panel": {
-        "type": "stack_panel",
-        "orientation": "vertical",
-        "use_child_anchors": true,
-        "size": [
-            "100%cm",
-            "100%c"
-        ],
-        "$label_text": "",
-        "controls": [
-            {
-                "image": {
-                    "type": "image",
-                    "layer": 1,
-                    "texture": "textures/ui/background",
-                    "size": [
-                        60,
-                        60
-                    ]
-                }
-            },
-            {
-                "label_panel@common.single_line_label": {
-                    "$font_type": "MinecraftTen",
-                    "$single_label_size": [
-                        80,
-                        30
-                    ],
-                    "$single_line_label_text": "$label_text"
-                }
-            }
-        ]
-    },
-    "Control_customization_trick_panel": {
-        "type": "panel",
-        "size": [
-            "100%sm",
-            "100%sm"
-        ],
-        "layer": 20,
-        "controls": [
-            {
-                "lets_go_button@pause.pause_button_template": {
-                    "$pressed_button_name": "button.panel_continue",
-                    "$button_text": "hudScreen.controlCustomization.continue",
-                    "$default_button_texture": "textures/ui/button_borderless_lighthover",
-                    "$default_text_color": "$light_button_hover_text_color",
-                    "$font_type": "MinecraftTen",
-                    "anchor_to": "center",
-                    "anchor_from": "bottom_middle",
-                    "$anchor": "top_middle",
-                    "size": [
-                        80,
-                        20
-                    ]
-                }
-            }
-        ]
-    },
     // Displays player's position in the form "Position: 0, 0, 0", as well as "Agent Pos: 0, 0, 0" if an owned agent is present
     "player_position": {
         "type": "image",
@@ -1055,8 +854,8 @@
                     "alpha": 0.7,
                     "size": [
                         "100%",
-                        "100%c + 4px"
-                    ], // Wee bit of padding to account for emoticons 
+                        "100%c"
+                    ],
                     "anims": [
                         "@hud.anim_chat_bg_wait"
                     ],
@@ -1067,7 +866,7 @@
                                 "anchor_to": "top_left",
                                 "offset": [
                                     2,
-                                    2
+                                    0
                                 ]
                             }
                         }
@@ -1111,6 +910,10 @@
         "$durability_bar_required|default": true,
         "$item_collection_name": "$hotbar_collection_name"
     },
+    "item_storage@common.storage_bar": {
+        "$storage_bar_required|default": true,
+        "$item_collection_name": "$hotbar_collection_name"
+    },
     "container_item_lock_overlay@common.container_item_lock_overlay": {
         "$item_collection_name": "$hotbar_collection_name"
     },
@@ -1128,6 +931,7 @@
         "anchor_from": "top_left",
         "$stack_count_required|default": true,
         "$durability_bar_required|default": true,
+        "$storage_bar_required|default": true,
         "controls": [
             {
                 "hotbar_slot_selected_image@hotbar_slot_selected_image": {}
@@ -1173,7 +977,15 @@
                             }
                         },
                         {
+                            "hotbar_hint@edu_common.hotbar_hint": {}
+                        },
+                        {
                             "item_dura@item_durability": {
+                                "layer": 5
+                            }
+                        },
+                        {
+                            "item_store@item_storage": {
                                 "layer": 5
                             }
                         },
@@ -1212,6 +1024,7 @@
         "anchor_from": "top_left",
         "$stack_count_required|default": true,
         "$durability_bar_required|default": true,
+        "$storage_bar_required|default": true,
         "controls": [
             {
                 "hotbar_slot_selected_image@hotbar_slot_selected_image": {
@@ -1264,6 +1077,11 @@
                         },
                         {
                             "item_dura@item_durability": {
+                                "layer": 5
+                            }
+                        },
+                        {
+                            "item_store@item_storage": {
                                 "layer": 5
                             }
                         },
@@ -1413,6 +1231,23 @@
             },
             {
                 "horse_jump_rend@horse_jump_renderer": {
+                    "anchor_from": "bottom_middle",
+                    "anchor_to": "bottom_middle",
+                    "offset": [
+                        0,
+                        -30
+                    ],
+                    "layer": 7,
+                    "bindings": [
+                        {
+                            "binding_name": "#is_riding",
+                            "binding_name_override": "#visible"
+                        }
+                    ]
+                }
+            },
+            {
+                "dash_rend@dash_renderer": {
                     "anchor_from": "bottom_middle",
                     "anchor_to": "bottom_middle",
                     "offset": [
@@ -2974,12 +2809,18 @@
                         24
                     ], // 79 To account for the size of the image
                     "anchor_from": "left_middle",
-                    "anchor_to": "left_middle"
+                    "anchor_to": "left_middle",
+                    "bindings": [
+                        {
+                            "binding_name": "#is_using_gamepad",
+                            "binding_name_override": "#visible"
+                        }
+                    ]
                 }
             }
         ]
     },
-    "emote_helpers": {
+    "emote_expediate_helpers": {
         "type": "panel",
         "anchor_from": "bottom_left",
         "anchor_to": "bottom_left",
@@ -3001,6 +2842,7 @@
                     ],
                     "anchor_from": "bottom_left",
                     "anchor_to": "bottom_left",
+                    "$gamepad_helper_visible_binding_type": "none",
                     "controls": [
                         {
                             "emote_tip_0@hud.emote_tip": {
@@ -3168,7 +3010,7 @@
                 "right_helpers@hud.right_helpers": {}
             },
             {
-                "emote_helpers@hud.emote_helpers": {}
+                "emote_expediate_helpers@hud.emote_expediate_helpers": {}
             },
             {
                 "centered_gui_elements@centered_gui_elements": {}
@@ -3291,6 +3133,11 @@
             },
             {
                 "vignette_rend@vignette_renderer": {}
+            },
+            {
+                "editor_gizmo_rend@editor_gizmo_renderer": {
+                    "ignored": "(not $is_editor_mode_enabled)"
+                }
             },
             {
                 "curor_rend@cursor_renderer": {}
@@ -3450,6 +3297,23 @@
                             }
                         },
                         {
+                            "boss_hud_touch_padding": {
+                                "type": "panel",
+                                "size": [
+                                    "100%",
+                                    "15%"
+                                ],
+                                "visible": "#boss_hud_touch_padding", //Make this visible to move the boss hud panel down
+                                "bindings": [
+                                    {
+                                        "binding_name": "#boss_hud_touch_padding",
+                                        "binding_name_override": "#visible",
+                                        "binding_condition": "always"
+                                    }
+                                ]
+                            }
+                        },
+                        {
                             "boss_hud_panel": {
                                 "type": "panel",
                                 "controls": [
@@ -3469,34 +3333,6 @@
             },
             {
                 "save_icon@hud.auto_save": {}
-            },
-            {
-                "welcome_to_control_panel_trick": {
-                    "type": "panel",
-                    "size": [
-                        100,
-                        100
-                    ],
-                    "offset": [
-                        0,
-                        -20
-                    ],
-                    "controls": [
-                        {
-                            "lets_go_button@hud.Control_customization_trick_panel": {}
-                        },
-                        {
-                            "welcome_to_control_background_panel@hud.welcome_to_control_background_panel": {}
-                        }
-                    ],
-                    "bindings": [
-                        {
-                            "binding_name": "#control_customization_visible",
-                            "binding_name_override": "#visible",
-                            "binding_type": "global"
-                        }
-                    ]
-                }
             }
         ],
         "bindings": [
