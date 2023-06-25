@@ -1310,6 +1310,54 @@
     "wool": {
         "textures": "wool"
     },
+    "white_wool": {
+        "textures": "white_wool"
+    },
+    "orange_wool": {
+        "textures": "orange_wool"
+    },
+    "magenta_wool": {
+        "textures": "magenta_wool"
+    },
+    "light_blue_wool": {
+        "textures": "light_blue_wool"
+    },
+    "yellow_wool": {
+        "textures": "yellow_wool"
+    },
+    "lime_wool": {
+        "textures": "lime_wool"
+    },
+    "pink_wool": {
+        "textures": "pink_wool"
+    },
+    "gray_wool": {
+        "textures": "gray_wool"
+    },
+    "light_gray_wool": {
+        "textures": "light_gray_wool"
+    },
+    "cyan_wool": {
+        "textures": "cyan_wool"
+    },
+    "purple_wool": {
+        "textures": "purple_wool"
+    },
+    "blue_wool": {
+        "textures": "blue_wool"
+    },
+    "brown_wool": {
+        "textures": "brown_wool"
+    },
+    "green_wool": {
+        "textures": "green_wool"
+    },
+    "red_wool": {
+        "textures": "red_wool"
+    },
+    "black_wool": {
+        "textures": "black_wool"
+    },
     "yellow_flower": {
         "textures": "yellow_flower"
     },
@@ -1727,7 +1775,7 @@
     "melon_block": {
         "textures": {
             "up": "melon_top",
-            "down": "melon_side",
+            "down": "melon_top",
             "side": "melon_side"
         }
     },
@@ -3288,23 +3336,6 @@
             "west": "potted_flowering_azalea_bush_plant"
         }
     },
-    "mangrove_leaves": {
-        "isotropic": {
-            "up": true,
-            "down": true
-        },
-        "textures": {
-            "up": "mangrove_leaves_top",
-            "down": "mangrove_leaves_top",
-            "side": "mangrove_leaves_side"
-        },
-        "carried_textures": {
-            "up": "mangrove_leaves_top_carried",
-            "down": "mangrove_leaves_top_carried",
-            "side": "mangrove_leaves_side_carried"
-        },
-        "brightness_gamma": 0.80
-    },
     "mangrove_propagule": {
         "textures": "mangrove_propagule"
     },
@@ -3337,6 +3368,23 @@
             "down": "mangrove_log_top",
             "side": "mangrove_log_side"
         }
+    },
+    "mangrove_leaves": {
+        "isotropic": {
+            "up": true,
+            "down": true
+        },
+        "textures": {
+            "up": "mangrove_leaves_top",
+            "down": "mangrove_leaves_top",
+            "side": "mangrove_leaves_side"
+        },
+        "carried_textures": {
+            "up": "mangrove_leaves_top_carried",
+            "down": "mangrove_leaves_top_carried",
+            "side": "mangrove_leaves_side_carried"
+        },
+        "brightness_gamma": 0.80
     },
     "stripped_mangrove_log": {
         "textures": {
@@ -3524,6 +3572,9 @@
     "mangrove_hanging_sign": {
         "textures": "mangrove_sign"
     },
+    "cherry_hanging_sign": {
+        "textures": "cherry_sign"
+    },
     "bamboo_hanging_sign": {
         "textures": "bamboo_sign"
     },
@@ -3601,6 +3652,74 @@
             "south": "chiseled_bookshelf_side",
             "east": "chiseled_bookshelf_side",
             "west": "chiseled_bookshelf_side"
+        }
+    },
+    "cherry_leaves": {
+        "textures": "cherry_leaves"
+    },
+    "stripped_cherry_log": {
+        "textures": {
+            "up": "stripped_cherry_log_top",
+            "down": "stripped_cherry_log_top",
+            "side": "stripped_cherry_log_side"
+        }
+    },
+    "cherry_planks": {
+        "textures": "cherry_planks"
+    },
+    "cherry_button": {
+        "textures": "cherry_planks"
+    },
+    "cherry_stairs": {
+        "textures": {
+            "up": "cherry_planks",
+            "down": "cherry_planks",
+            "side": "cherry_planks_side3"
+        }
+    },
+    "cherry_slab": {
+        "textures": {
+            "up": "cherry_planks",
+            "down": "cherry_planks",
+            "side": "cherry_planks_side2"
+        }
+    },
+    "cherry_pressure_plate": {
+        "textures": "cherry_planks"
+    },
+    "cherry_fence": {
+        "textures": "cherry_planks"
+    },
+    "cherry_fence_gate": {
+        "textures": "cherry_planks"
+    },
+    "cherry_door": {
+        "textures": {
+            "up": "cherry_door_bottom",
+            "down": "cherry_door_bottom",
+            "side": "cherry_door_top"
+        }
+    },
+    "cherry_standing_sign": {
+        "textures": "cherry_sign"
+    },
+    "cherry_wall_sign": {
+        "textures": "cherry_sign"
+    },
+    "cherry_trapdoor": {
+        "textures": "cherry_trapdoor"
+    },
+    "cherry_wood": {
+        "textures": "cherry_log_side"
+    },
+    "stripped_cherry_wood": {
+        "textures": "stripped_cherry_log_side"
+    },
+    "cherry_double_slab": {
+        "textures": {
+            "up": "cherry_planks_top",
+            "down": "cherry_planks_top",
+            "side": "cherry_planks_side"
         }
     }
 }

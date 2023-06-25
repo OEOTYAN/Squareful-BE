@@ -2,6 +2,20 @@
     "resource_pack_name": "XeKrSquare",
     "texture_name": "atlas.items",
     "texture_data": {
+        "map_empty": {
+            "textures": "textures/items/map_empty"
+        },
+        "map_filled": {
+            "textures": [
+                "textures/items/map_filled",
+                "textures/items/map_filled",
+                "textures/items/map_filled",
+                "textures/items/map_monument",
+                "textures/items/map_mansion",
+                "textures/items/map_nautilus",
+                "textures/items/map_locked"
+            ]
+        },
         "bucket": {
             "textures": [
                 "textures/items/bucket",
@@ -24,7 +38,23 @@
                 "textures/items/birch_boat",
                 "textures/items/jungle_boat",
                 "textures/items/acacia_boat",
-                "textures/items/dark_oak_boat"
+                "textures/items/dark_oak_boat",
+                "textures/items/mangrove_boat",
+                "textures/items/bamboo_raft",
+                "textures/items/cherry_boat"
+            ]
+        },
+        "chest_boat": {
+            "textures": [
+                "textures/items/oak_chest_boat",
+                "textures/items/spruce_chest_boat",
+                "textures/items/birch_chest_boat",
+                "textures/items/jungle_chest_boat",
+                "textures/items/acacia_chest_boat",
+                "textures/items/dark_oak_chest_boat",
+                "textures/items/mangrove_chest_boat",
+                "textures/items/bamboo_chest_raft",
+                "textures/items/cherry_chest_boat"
             ]
         },
         "axe": {
@@ -116,6 +146,21 @@
                 "textures/items/diamond_sword",
                 "textures/items/netherite_sword"
             ]
+        },
+        "archer_pottery_shard": {
+            "textures": "textures/items/archer_pottery_shard"
+        },
+        "prize_pottery_shard": {
+            "textures": "textures/items/prize_pottery_shard"
+        },
+        "arms_up_pottery_shard": {
+            "textures": "textures/items/arms_up_pottery_shard"
+        },
+        "skull_pottery_shard": {
+            "textures": "textures/items/skull_pottery_shard"
+        },
+        "brush": {
+            "textures": "textures/items/brush"
         },
         "gold_horse_armor": {
             "textures": "textures/items/golden_horse_armor"

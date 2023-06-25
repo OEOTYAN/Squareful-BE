@@ -1710,7 +1710,7 @@
             "textures": "textures/blocks/crimson_planks_side3"
         },
         "crimson_planks_top": {
-            "textures": "textures/blocks/crimson_planks4"
+            "textures": "textures/blocks/crimson_planks"
         },
         "crimson_roots": {
             "textures": "textures/blocks/crimson_roots"
@@ -3638,6 +3638,26 @@
                 }
             ]
         },
+        "cherry_planks": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/cherry_planks",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/cherry_planks2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/cherry_planks3",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
         "planks": {
             "textures": [
                 {
@@ -3760,12 +3780,12 @@
         },
         "planks_top": {
             "textures": [
-                "textures/blocks/oak_planks4",
-                "textures/blocks/spruce_planks4",
-                "textures/blocks/birch_planks4",
-                "textures/blocks/jungle_planks4",
-                "textures/blocks/acacia_planks4",
-                "textures/blocks/dark_oak_planks4"
+                "textures/blocks/oak_planks",
+                "textures/blocks/spruce_planks",
+                "textures/blocks/birch_planks",
+                "textures/blocks/jungle_planks",
+                "textures/blocks/acacia_planks",
+                "textures/blocks/dark_oak_planks"
             ]
         },
         "planks_top2": {
@@ -4918,7 +4938,7 @@
             "textures": "textures/blocks/warped_planks_side3"
         },
         "warped_planks_top": {
-            "textures": "textures/blocks/warped_planks4"
+            "textures": "textures/blocks/warped_planks"
         },
         "warped_roots": {
             "textures": "textures/blocks/warped_roots"
@@ -5052,6 +5072,12 @@
         "stripped_mangrove_log_side": {
             "textures": "textures/blocks/stripped_mangrove_log"
         },
+        "cherry_log_side": {
+            "textures": "textures/blocks/cherry_log"
+        },
+        "stripped_cherry_log_side": {
+            "textures": "textures/blocks/stripped_cherry_log"
+        },
         "wool": {
             "textures": [
                 "textures/blocks/white_wool",
@@ -5071,6 +5097,54 @@
                 "textures/blocks/red_wool",
                 "textures/blocks/black_wool"
             ]
+        },
+        "white_wool": {
+            "textures": "textures/blocks/white_wool"
+        },
+        "orange_wool": {
+            "textures": "textures/blocks/orange_wool"
+        },
+        "magenta_wool": {
+            "textures": "textures/blocks/magenta_wool"
+        },
+        "light_blue_wool": {
+            "textures": "textures/blocks/light_blue_wool"
+        },
+        "yellow_wool": {
+            "textures": "textures/blocks/yellow_wool"
+        },
+        "lime_wool": {
+            "textures": "textures/blocks/lime_wool"
+        },
+        "pink_wool": {
+            "textures": "textures/blocks/pink_wool"
+        },
+        "gray_wool": {
+            "textures": "textures/blocks/gray_wool"
+        },
+        "light_gray_wool": {
+            "textures": "textures/blocks/light_gray_wool"
+        },
+        "cyan_wool": {
+            "textures": "textures/blocks/cyan_wool"
+        },
+        "purple_wool": {
+            "textures": "textures/blocks/purple_wool"
+        },
+        "blue_wool": {
+            "textures": "textures/blocks/blue_wool"
+        },
+        "brown_wool": {
+            "textures": "textures/blocks/brown_wool"
+        },
+        "green_wool": {
+            "textures": "textures/blocks/green_wool"
+        },
+        "red_wool": {
+            "textures": "textures/blocks/red_wool"
+        },
+        "black_wool": {
+            "textures": "textures/blocks/black_wool"
         },
         "yellow_candle": {
             "textures": [
@@ -5308,6 +5382,22 @@
                 }
             ]
         },
+        "cherry_leaves": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/cherry_leaves",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/cherry_leaves2",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
         "mangrove_leaves_side": {
             "textures": [
                 {
@@ -5363,10 +5453,22 @@
             "textures": "textures/blocks/mangrove_planks_side3"
         },
         "mangrove_planks_top": {
-            "textures": "textures/blocks/mangrove_planks4"
+            "textures": "textures/blocks/mangrove_planks"
         },
         "mangrove_planks_side": {
             "textures": "textures/blocks/mangrove_planks_side"
+        },
+        "cherry_planks_side2": {
+            "textures": "textures/blocks/cherry_planks_side2"
+        },
+        "cherry_planks_side3": {
+            "textures": "textures/blocks/cherry_planks_side3"
+        },
+        "cherry_planks_top": {
+            "textures": "textures/blocks/cherry_planks"
+        },
+        "cherry_planks_side": {
+            "textures": "textures/blocks/cherry_planks_side"
         },
         "mud_bricks_top": {
             "textures": "textures/blocks/mud_bricks_top"

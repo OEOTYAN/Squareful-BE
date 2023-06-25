@@ -586,12 +586,12 @@ tile.hard_stained_glass_pane.yellow.name=强化黄色染色玻璃板	#
 tile.labtable.name=实验台	#
 tile.materialreducer.name=材料分解器	#
 tile.underwater_tnt.name=水下 TNT	#
-tile.underwater_torch.name=水下火炬	#
+tile.underwater_torch.name=水下火把	#
 tile.chemical_heat.name=加热块	#
-tile.colored_torch.blue.name=蓝色火炬	#
-tile.colored_torch.green.name=绿色火炬	#
-tile.colored_torch.purple.name=紫色火炬	#
-tile.colored_torch.red.name=红色火炬	#
+tile.colored_torch.blue.name=蓝色火把	#
+tile.colored_torch.green.name=绿色火把	#
+tile.colored_torch.purple.name=紫色火把	#
+tile.colored_torch.red.name=红色火把	#
 tile.compoundcreator.name=化合物创建器	#
 tile.portal.name=下界传送门方块	#
 tile.end_portal.name=末地传送门方块	#
@@ -1053,8 +1053,8 @@ raid.name=袭击	#
 raid.progress=剩余生物：	#
 raid.expiry=袭击已过期	#
 
-item.glow_ink_sac.name=发光墨囊	#
-item.glow_frame.name=发光物品展示框	#
+item.glow_ink_sac.name=荧光墨囊	#
+item.glow_frame.name=荧光物品展示框	#
 tile.glow_lichen.name=发光地衣	#
 item.bucketAxolotl.name=美西螈桶	#
 item.axolotlAdultBodySingle.name=成年 %1$s 美西螈	#
@@ -1065,7 +1065,7 @@ item.axolotlColorGold.name=金色	#
 item.axolotlColorWild.name=棕色	#
 item.axolotlColorBlue.name=蓝色	#
 
-#Uncommon
+## Uncommon
 item.banner_pattern.skull=§e头颅盾徽§7	#
 item.banner_pattern.creeper=§e苦力怕盾徽§7	#
 item.experience_bottle.name=§e附魔之瓶§7	#
@@ -1084,13 +1084,13 @@ item.heart_of_the_sea.name=§e海洋之心§7	#
 item.netherStar.name=§e下界之星§7	#
 item.totem.name=§e不死图腾§7	#
 
-#Rare
+## Rare
 tile.beacon.name=§b信标§7	#
 tile.conduit.name=§b潮涌核心§7	#
 item.end_crystal.name=§b末地水晶§7	#
 itemGroup.name.record=§b音乐唱片§7	#
 
-#Epic
+## Epic
 item.banner_pattern.thing=§5Mojang徽标§7	#
 tile.dragon_egg.name=§5龙蛋§7	#
 tile.command_block.name=§5命令方块§7	#
@@ -1099,7 +1099,7 @@ tile.chain_command_block.name=§5连锁型命令方块§7	#
 tile.structure_block.name=§5结构方块§7	#
 tile.jigsaw.name=§5拼图方块§7	#
 
-#Ominous
+## Ominous
 item.banner.illager_captain.name=§6灾厄旗帜§7	#
 
 
@@ -1372,7 +1372,7 @@ keyboard.keyName.multiply=乘以	#
 keyboard.keyName.divide=除以	#
 keyboard.keyName.decimal=点	#
 keyboard.keyName.grave=波浪号	#
-keyboard.keyName.numLock=Num Lock	#
+keyboard.keyName.numLock=数字锁定	#
 keyboard.keyName.slash=斜杠	#
 keyboard.keyName.semicolon=分号	#
 keyboard.keyName.apostrophe=撇号	#
@@ -1914,3 +1914,4 @@ tile.sticky_piston.name=黏性活塞	#
 tile.slime.name=黏液块	#
 tile.red_flower.houstonia.name=蓝花美耳草	#
 tile.stone_pressure_plate.name=石头压力板	#
+tile.mycelium.name=菌丝体	#
