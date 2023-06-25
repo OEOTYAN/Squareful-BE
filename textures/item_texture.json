@@ -688,6 +688,11 @@
                 "textures/items/spawn_egg/slime"
             ]
         },
+        "sniffer_spawn_egg": {
+            "textures": [
+                "textures/items/spawn_egg/sniffer"
+            ]
+        },
         "snow_golem_egg": {
             "textures": [
                 "textures/items/spawn_egg/snow_golem"
