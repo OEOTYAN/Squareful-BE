@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:trader_llama",
+            "min_engine_version": "1.8.0",
+            "spawn_egg": {
+                "texture": "trader_llama_egg",
+                "texture_index": 0
+            }
+        }
+    }
+}

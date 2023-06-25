@@ -316,142 +316,446 @@
         },
         "spawn_egg": {
             "textures": [
-                "textures/spawn_egg/chicken",
-                "textures/spawn_egg/cow",
-                "textures/spawn_egg/pig",
-                "textures/spawn_egg/sheep",
-                "textures/spawn_egg/wolf",
-                "textures/spawn_egg/mooshroom",
-                "textures/spawn_egg/creeper",
-                "textures/spawn_egg/enderman",
-                "textures/spawn_egg/silverfish",
-                "textures/spawn_egg/skeleton",
-                "textures/spawn_egg/slime",
-                "textures/spawn_egg/spider",
-                "textures/spawn_egg/zombie",
-                "textures/spawn_egg/zombified_piglin",
-                "textures/spawn_egg/villager",
-                "textures/spawn_egg/squid",
-                "textures/spawn_egg/ocelot",
-                "textures/spawn_egg/witch",
-                "textures/spawn_egg/bat",
-                "textures/spawn_egg/ghast",
-                "textures/spawn_egg/magma",
-                "textures/spawn_egg/blaze",
-                "textures/spawn_egg/cave_spider",
-                "textures/spawn_egg/horse",
-                "textures/spawn_egg/rabbit",
-                "textures/spawn_egg/endermite",
-                "textures/spawn_egg/guardian",
-                "textures/spawn_egg/stray",
-                "textures/spawn_egg/husk",
-                "textures/spawn_egg/wither_skeleton",
-                "textures/spawn_egg/donkey",
-                "textures/spawn_egg/mule",
-                "textures/spawn_egg/skeleton_horse",
-                "textures/spawn_egg/zombie_horse",
-                "textures/spawn_egg/shulker",
-                "textures/spawn_egg/npc",
-                "textures/spawn_egg/elder_guardian",
-                "textures/spawn_egg/polar_bear",
-                "textures/spawn_egg/llama",
-                "textures/spawn_egg/vindicator",
-                "textures/spawn_egg/evoker",
-                "textures/spawn_egg/vex",
-                "textures/spawn_egg/zombie_villager",
-                "textures/spawn_egg/parrot",
-                "textures/spawn_egg/tropical_fish",
-                "textures/spawn_egg/cod",
-                "textures/spawn_egg/pufferfish",
-                "textures/spawn_egg/salmon",
-                "textures/spawn_egg/drowned",
-                "textures/spawn_egg/dolphin",
-                "textures/spawn_egg/turtle",
-                "textures/spawn_egg/phantom",
-                "textures/spawn_egg/agent",
-                "textures/spawn_egg/cat",
-                "textures/spawn_egg/panda",
-                "textures/spawn_egg/fox",
-                "textures/spawn_egg/pillager",
-                "textures/spawn_egg/ravager",
-                "textures/spawn_egg/spawn_egg",
-                "textures/spawn_egg/egg_mask"
-            ]
-        },
-        "spawn_egg_bee": {
-            "textures": "textures/spawn_egg/bee"
-        },
-        "spawn_egg_wandering_trader": {
-            "textures": "textures/spawn_egg/wandering_trader"
-        },
-        "egg_bee": {
-            "textures": [
-                "textures/spawn_egg/bee"
-            ]
-        },
-        "axolotl_egg": {
-            "textures": [
-                "textures/spawn_egg/axolotl"
-            ]
-        },
-        "glow_squid_egg": {
-            "textures": [
-                "textures/spawn_egg/glow_squid"
-            ]
-        },
-        "goat_egg": {
-            "textures": [
-                "textures/spawn_egg/goat"
-            ]
-        },
-        "hoglin_egg": {
-            "textures": [
-                "textures/spawn_egg/hoglin"
-            ]
-        },
-        "piglin_egg": {
-            "textures": [
-                "textures/spawn_egg/piglin"
-            ]
-        },
-        "piglin_brute_egg": {
-            "textures": [
-                "textures/spawn_egg/piglin_brute"
-            ]
-        },
-        "strider_egg": {
-            "textures": [
-                "textures/spawn_egg/strider"
-            ]
-        },
-        "zoglin_egg": {
-            "textures": [
-                "textures/spawn_egg/zoglin"
-            ]
-        },
-        "warden_egg": {
-            "textures": [
-                "textures/spawn_egg/warden"
-            ]
-        },
-        "tadpole_egg": {
-            "textures": [
-                "textures/spawn_egg/tadpole"
-            ]
-        },
-        "frog_egg": {
-            "textures": [
-                "textures/spawn_egg/frog"
+                "textures/items/spawn_egg/chicken",
+                "textures/items/spawn_egg/cow",
+                "textures/items/spawn_egg/pig",
+                "textures/items/spawn_egg/sheep",
+                "textures/items/spawn_egg/wolf",
+                "textures/items/spawn_egg/mooshroom",
+                "textures/items/spawn_egg/creeper",
+                "textures/items/spawn_egg/enderman",
+                "textures/items/spawn_egg/silverfish",
+                "textures/items/spawn_egg/skeleton",
+                "textures/items/spawn_egg/slime",
+                "textures/items/spawn_egg/spider",
+                "textures/items/spawn_egg/zombie",
+                "textures/items/spawn_egg/zombified_piglin",
+                "textures/items/spawn_egg/villager",
+                "textures/items/spawn_egg/squid",
+                "textures/items/spawn_egg/ocelot",
+                "textures/items/spawn_egg/witch",
+                "textures/items/spawn_egg/bat",
+                "textures/items/spawn_egg/ghast",
+                "textures/items/spawn_egg/magma",
+                "textures/items/spawn_egg/blaze",
+                "textures/items/spawn_egg/cave_spider",
+                "textures/items/spawn_egg/horse",
+                "textures/items/spawn_egg/rabbit",
+                "textures/items/spawn_egg/endermite",
+                "textures/items/spawn_egg/guardian",
+                "textures/items/spawn_egg/stray",
+                "textures/items/spawn_egg/husk",
+                "textures/items/spawn_egg/wither_skeleton",
+                "textures/items/spawn_egg/donkey",
+                "textures/items/spawn_egg/mule",
+                "textures/items/spawn_egg/skeleton_horse",
+                "textures/items/spawn_egg/zombie_horse",
+                "textures/items/spawn_egg/shulker",
+                "textures/items/spawn_egg/npc",
+                "textures/items/spawn_egg/elder_guardian",
+                "textures/items/spawn_egg/polar_bear",
+                "textures/items/spawn_egg/llama",
+                "textures/items/spawn_egg/vindicator",
+                "textures/items/spawn_egg/evoker",
+                "textures/items/spawn_egg/vex",
+                "textures/items/spawn_egg/zombie_villager",
+                "textures/items/spawn_egg/parrot",
+                "textures/items/spawn_egg/tropical_fish",
+                "textures/items/spawn_egg/cod",
+                "textures/items/spawn_egg/pufferfish",
+                "textures/items/spawn_egg/salmon",
+                "textures/items/spawn_egg/drowned",
+                "textures/items/spawn_egg/dolphin",
+                "textures/items/spawn_egg/turtle",
+                "textures/items/spawn_egg/phantom",
+                "textures/items/spawn_egg/agent",
+                "textures/items/spawn_egg/cat",
+                "textures/items/spawn_egg/panda",
+                "textures/items/spawn_egg/fox",
+                "textures/items/spawn_egg/pillager",
+                "textures/items/spawn_egg/ravager",
+                "textures/items/spawn_egg/spawn_egg",
+                "textures/items/spawn_egg/egg_mask"
             ]
         },
         "allay_egg": {
             "textures": [
-                "textures/spawn_egg/allay"
+                "textures/items/spawn_egg/allay"
+            ]
+        },
+        "axolotl_egg": {
+            "textures": [
+                "textures/items/spawn_egg/axolotl"
+            ]
+        },
+        "bat_egg": {
+            "textures": [
+                "textures/items/spawn_egg/bat"
+            ]
+        },
+        "bee_egg": {
+            "textures": [
+                "textures/items/spawn_egg/bee"
+            ]
+        },
+        "blaze_egg": {
+            "textures": [
+                "textures/items/spawn_egg/blaze"
+            ]
+        },
+        "camel_egg": {
+            "textures": [
+                "textures/items/spawn_egg/camel"
+            ]
+        },
+        "cat_egg": {
+            "textures": [
+                "textures/items/spawn_egg/cat"
+            ]
+        },
+        "cave_spider_egg": {
+            "textures": [
+                "textures/items/spawn_egg/cave_spider"
+            ]
+        },
+        "chicken_egg": {
+            "textures": [
+                "textures/items/spawn_egg/chicken"
+            ]
+        },
+        "cod_egg": {
+            "textures": [
+                "textures/items/spawn_egg/cod"
+            ]
+        },
+        "cow_egg": {
+            "textures": [
+                "textures/items/spawn_egg/cow"
+            ]
+        },
+        "creeper_egg": {
+            "textures": [
+                "textures/items/spawn_egg/creeper"
+            ]
+        },
+        "dolphin_egg": {
+            "textures": [
+                "textures/items/spawn_egg/dolphin"
+            ]
+        },
+        "donkey_egg": {
+            "textures": [
+                "textures/items/spawn_egg/donkey"
+            ]
+        },
+        "drowned_egg": {
+            "textures": [
+                "textures/items/spawn_egg/drowned"
+            ]
+        },
+        "elder_guardian_egg": {
+            "textures": [
+                "textures/items/spawn_egg/elder_guardian"
+            ]
+        },
+        "ender_dragon_egg": {
+            "textures": [
+                "textures/items/spawn_egg/ender_dragon"
+            ]
+        },
+        "enderman_egg": {
+            "textures": [
+                "textures/items/spawn_egg/enderman"
+            ]
+        },
+        "endermite_egg": {
+            "textures": [
+                "textures/items/spawn_egg/endermite"
+            ]
+        },
+        "evoker_egg": {
+            "textures": [
+                "textures/items/spawn_egg/evoker"
+            ]
+        },
+        "fox_egg": {
+            "textures": [
+                "textures/items/spawn_egg/fox"
+            ]
+        },
+        "frog_egg": {
+            "textures": [
+                "textures/items/spawn_egg/frog"
+            ]
+        },
+        "ghast_egg": {
+            "textures": [
+                "textures/items/spawn_egg/ghast"
+            ]
+        },
+        "glow_squid_egg": {
+            "textures": [
+                "textures/items/spawn_egg/glow_squid"
+            ]
+        },
+        "goat_egg": {
+            "textures": [
+                "textures/items/spawn_egg/goat"
+            ]
+        },
+        "guardian_egg": {
+            "textures": [
+                "textures/items/spawn_egg/guardian"
+            ]
+        },
+        "hoglin_egg": {
+            "textures": [
+                "textures/items/spawn_egg/hoglin"
+            ]
+        },
+        "horse_egg": {
+            "textures": [
+                "textures/items/spawn_egg/horse"
+            ]
+        },
+        "husk_egg": {
+            "textures": [
+                "textures/items/spawn_egg/husk"
+            ]
+        },
+        "iron_golem_egg": {
+            "textures": [
+                "textures/items/spawn_egg/iron_golem"
+            ]
+        },
+        "llama_egg": {
+            "textures": [
+                "textures/items/spawn_egg/llama"
+            ]
+        },
+        "magma_egg": {
+            "textures": [
+                "textures/items/spawn_egg/magma"
+            ]
+        },
+        "mooshroom_egg": {
+            "textures": [
+                "textures/items/spawn_egg/mooshroom"
+            ]
+        },
+        "mule_egg": {
+            "textures": [
+                "textures/items/spawn_egg/mule"
+            ]
+        },
+        "ocelot_egg": {
+            "textures": [
+                "textures/items/spawn_egg/ocelot"
+            ]
+        },
+        "panda_egg": {
+            "textures": [
+                "textures/items/spawn_egg/panda"
+            ]
+        },
+        "parrot_egg": {
+            "textures": [
+                "textures/items/spawn_egg/parrot"
+            ]
+        },
+        "phantom_egg": {
+            "textures": [
+                "textures/items/spawn_egg/phantom"
+            ]
+        },
+        "pig_egg": {
+            "textures": [
+                "textures/items/spawn_egg/pig"
+            ]
+        },
+        "piglin_egg": {
+            "textures": [
+                "textures/items/spawn_egg/piglin"
+            ]
+        },
+        "piglin_brute_egg": {
+            "textures": [
+                "textures/items/spawn_egg/piglin_brute"
+            ]
+        },
+        "pillager_egg": {
+            "textures": [
+                "textures/items/spawn_egg/pillager"
+            ]
+        },
+        "polar_bear_egg": {
+            "textures": [
+                "textures/items/spawn_egg/polar_bear"
+            ]
+        },
+        "pufferfish_egg": {
+            "textures": [
+                "textures/items/spawn_egg/pufferfish"
+            ]
+        },
+        "rabbit_egg": {
+            "textures": [
+                "textures/items/spawn_egg/rabbit"
+            ]
+        },
+        "ravager_egg": {
+            "textures": [
+                "textures/items/spawn_egg/ravager"
+            ]
+        },
+        "salmon_egg": {
+            "textures": [
+                "textures/items/spawn_egg/salmon"
+            ]
+        },
+        "sheep_egg": {
+            "textures": [
+                "textures/items/spawn_egg/sheep"
+            ]
+        },
+        "shulker_egg": {
+            "textures": [
+                "textures/items/spawn_egg/shulker"
+            ]
+        },
+        "silverfish_egg": {
+            "textures": [
+                "textures/items/spawn_egg/silverfish"
+            ]
+        },
+        "skeleton_egg": {
+            "textures": [
+                "textures/items/spawn_egg/skeleton"
+            ]
+        },
+        "skeleton_horse_egg": {
+            "textures": [
+                "textures/items/spawn_egg/skeleton_horse"
+            ]
+        },
+        "slime_egg": {
+            "textures": [
+                "textures/items/spawn_egg/slime"
+            ]
+        },
+        "snow_golem_egg": {
+            "textures": [
+                "textures/items/spawn_egg/snow_golem"
+            ]
+        },
+        "spider_egg": {
+            "textures": [
+                "textures/items/spawn_egg/spider"
+            ]
+        },
+        "squid_egg": {
+            "textures": [
+                "textures/items/spawn_egg/squid"
+            ]
+        },
+        "stray_egg": {
+            "textures": [
+                "textures/items/spawn_egg/stray"
+            ]
+        },
+        "strider_egg": {
+            "textures": [
+                "textures/items/spawn_egg/strider"
+            ]
+        },
+        "tadpole_egg": {
+            "textures": [
+                "textures/items/spawn_egg/tadpole"
             ]
         },
         "trader_llama_egg": {
             "textures": [
-                "textures/spawn_egg/trader_llama"
+                "textures/items/spawn_egg/trader_llama"
+            ]
+        },
+        "tropical_fish_egg": {
+            "textures": [
+                "textures/items/spawn_egg/tropical_fish"
+            ]
+        },
+        "turtle_egg": {
+            "textures": [
+                "textures/items/spawn_egg/turtle"
+            ]
+        },
+        "vex_egg": {
+            "textures": [
+                "textures/items/spawn_egg/vex"
+            ]
+        },
+        "villager_egg": {
+            "textures": [
+                "textures/items/spawn_egg/villager"
+            ]
+        },
+        "vindicator_egg": {
+            "textures": [
+                "textures/items/spawn_egg/vindicator"
+            ]
+        },
+        "wandering_trader_egg": {
+            "textures": [
+                "textures/items/spawn_egg/wandering_trader"
+            ]
+        },
+        "warden_egg": {
+            "textures": [
+                "textures/items/spawn_egg/warden"
+            ]
+        },
+        "witch_egg": {
+            "textures": [
+                "textures/items/spawn_egg/witch"
+            ]
+        },
+        "wither_egg": {
+            "textures": [
+                "textures/items/spawn_egg/wither"
+            ]
+        },
+        "wither_skeleton_egg": {
+            "textures": [
+                "textures/items/spawn_egg/wither_skeleton"
+            ]
+        },
+        "wolf_egg": {
+            "textures": [
+                "textures/items/spawn_egg/wolf"
+            ]
+        },
+        "zoglin_egg": {
+            "textures": [
+                "textures/items/spawn_egg/zoglin"
+            ]
+        },
+        "zombie_egg": {
+            "textures": [
+                "textures/items/spawn_egg/zombie"
+            ]
+        },
+        "zombie_horse_egg": {
+            "textures": [
+                "textures/items/spawn_egg/zombie_horse"
+            ]
+        },
+        "zombie_villager_egg": {
+            "textures": [
+                "textures/items/spawn_egg/zombie_villager"
+            ]
+        },
+        "zombified_piglin_egg": {
+            "textures": [
+                "textures/items/spawn_egg/zombified_piglin"
             ]
         }
     }

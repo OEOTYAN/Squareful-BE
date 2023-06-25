@@ -2,8 +2,8 @@
     "format_version": 2,
     "header": {
         "description": "§l§6by XeKr & OEOTYAN",
-        "name": "§lXeKrSquarePattern-BE v1.03",
-        "uuid": "0a70a350-acf9-4396-a53a-5abc7a330d1e",
+        "name": "§lXeKrSquarePattern-BE v1.1.0",
+        "uuid": "0fe9331f-72a1-46d7-a7db-3df65c423ea6",
         "version": [
             1,
             0,
@@ -19,29 +19,12 @@
         {
             "description": "§l§6by XeKr & OEOTYAN",
             "type": "resources",
-            "uuid": "59afeeff-5cf2-4bfc-bdfb-004534bebced",
+            "uuid": "87a9e7c8-e78d-4b92-89da-8a08a33a36ae",
             "version": [
                 1,
-                0,
-                3
+                1,
+                0
             ]
         }
     ]
-    // ,"subpacks": [
-    //     {
-    //         "folder_name": "1.16",
-    //         "name": "1.16",
-    //         "memory_tier": 1
-    //     },
-    //     {
-    //         "folder_name": "1.18",
-    //         "name": "1.18",
-    //         "memory_tier": 2
-    //     },
-    //     {
-    //         "folder_name": "1.19+",
-    //         "name": "1.19+",
-    //         "memory_tier": 3
-    //     }
-    // ]
 }

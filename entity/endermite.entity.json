@@ -1,26 +1,13 @@
 {
-  "format_version": "1.8.0",
-  "minecraft:client_entity": {
-    "description": {
-      "identifier": "minecraft:endermite",
-      "materials": { "default": "endermite" },
-      "textures": {
-        "default": "textures/entity/endermite"
-      },
-      "geometry": {
-        "default": "geometry.endermite"
-      },
-      "animations": {
-        "move": "animation.endermite.move"
-      },
-      "animation_controllers": [
-        { "move": "controller.animation.endermite.move" }
-      ],
-      "render_controllers": [ "controller.render.endermite" ],
-      "spawn_egg": {
-        "texture": "spawn_egg",
-        "texture_index": 25
-      }
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "minecraft:endermite",
+            "min_engine_version": "1.8.0",
+            "spawn_egg": {
+                "texture": "endermite_egg",
+                "texture_index": 0
+            }
+        }
     }
-  }
 }

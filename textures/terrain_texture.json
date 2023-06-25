@@ -4,6 +4,12 @@
     "resource_pack_name": "XeKrSquare",
     "texture_name": "atlas.terrain",
     "texture_data": {
+        "spawner": {
+            "textures": "textures/blocks/spawner"
+        },
+        "spawner_top": {
+            "textures": "textures/blocks/spawner_top"
+        },
         "jukebox_side": {
             "textures": "textures/blocks/jukebox_side"
         },
@@ -1328,7 +1334,7 @@
             "textures": "textures/blocks/deepslate_side2"
         },
         "cobbled_deepslate_top": {
-            "textures": "textures/blocks/deepslate_top"
+            "textures": "textures/blocks/cobbled_deepslate_top"
         },
         "cobbled_deepslate_wall": {
             "textures": "textures/blocks/deepslate_wall"
@@ -1456,8 +1462,8 @@
                 "textures/blocks/andesite",
                 "textures/blocks/sandstone_top",
                 "textures/blocks/bricks",
-                "textures/blocks/stone_bricks_top",
-                "textures/blocks/mossy_stone_bricks_top",
+                "textures/blocks/stone_top",
+                "textures/blocks/mossy_stone_top",
                 "textures/blocks/nether_bricks",
                 "textures/blocks/end_stone_bricks_wall_top",
                 "textures/blocks/prismarine_top",
@@ -4389,19 +4395,19 @@
             "textures": "textures/blocks/oak_planks"
         },
         "stair_polished_andesite_side": {
-            "textures": "textures/blocks/polished_andesite_side3"
+            "textures": "textures/blocks/polished_andesite1"
         },
         "stair_polished_andesite_top": {
             "textures": "textures/blocks/polished_andesite"
         },
         "stair_polished_diorite_side": {
-            "textures": "textures/blocks/polished_diorite_side3"
+            "textures": "textures/blocks/polished_diorite1"
         },
         "stair_polished_diorite_top": {
             "textures": "textures/blocks/polished_diorite"
         },
         "stair_polished_granite_side": {
-            "textures": "textures/blocks/polished_granite_side3"
+            "textures": "textures/blocks/polished_granite1"
         },
         "stair_polished_granite_top": {
             "textures": "textures/blocks/polished_granite"
@@ -4473,69 +4479,9 @@
                         }
                     ]
                 },
-                "textures/blocks/granite",
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/polished_granite1",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_granite2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_granite3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_granite4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                "textures/blocks/diorite",
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/polished_diorite1",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_diorite2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_diorite3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_diorite4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                "textures/blocks/andesite",
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/polished_andesite1",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_andesite2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_andesite3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/polished_andesite4",
-                            "weight": 1
-                        }
-                    ]
-                }
+                "textures/blocks/granite","textures/blocks/polished_granite",
+                "textures/blocks/diorite","textures/blocks/polished_diorite",
+                "textures/blocks/andesite","textures/blocks/polished_andesite"
             ]
         },
         "slime_block": {
