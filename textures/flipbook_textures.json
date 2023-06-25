@@ -927,6 +927,16 @@
         "atlas_tile": "sea_lantern",
         "ticks_per_frame": 5
     },
+    { 
+      "flipbook_texture": "textures/blocks/lantern",
+      "atlas_tile": "lantern",
+      "ticks_per_frame": 8
+    },
+    { 
+      "flipbook_texture": "textures/blocks/soul_lantern",
+      "atlas_tile": "soul_lantern",
+      "ticks_per_frame": 8
+    },
     {
         "flipbook_texture": "textures/blocks/command_block_front",
         "atlas_tile": "command_block_front",

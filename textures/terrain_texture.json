@@ -158,7 +158,7 @@
             "textures": "textures/blocks/flower_pot"
         },
         "beacon_base": {
-            "textures": "textures/blocks/obsidian"
+            "textures": "textures/blocks/beacon_base"
         },
         "beacon_core": {
             "textures": "textures/blocks/beacon"
@@ -5476,6 +5476,12 @@
         "mud_bricks_side": {
             "textures": "textures/blocks/mud_bricks_side"
         },
+        "redstone_lamp_off": {
+            "textures": "textures/blocks/redstone_lamp"
+        },
+        "redstone_lamp_on": {
+            "textures": "textures/blocks/redstone_lamp_on"
+        },
         "light_block": {
             "textures": [
                 "textures/blocks/light_00",
@@ -5515,6 +5521,20 @@
                 "textures/items/light_block_14",
                 "textures/items/light_block_15"
             ]
+        },
+        "torchflower_crop": {
+            "textures": [
+                "textures/blocks/torchflower_crop_stage_0",
+                "textures/blocks/torchflower_crop_stage_1",
+                "textures/blocks/torchflower_crop_stage_2",
+                "textures/blocks/torchflower"
+            ]
+        },
+        "torchflower": {
+            "textures": "textures/blocks/torchflower"
+        },
+        "torch": {
+            "textures": "textures/blocks/torch"
         }
     }
 }

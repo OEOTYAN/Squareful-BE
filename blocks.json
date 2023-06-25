@@ -1419,7 +1419,7 @@
     },
     "torch": {
         "blockshape": "torch",
-        "textures": "torch_on",
+        "textures": "torch",
         "carried_textures": "torch_carried"
     },
     "mob_spawner": {
@@ -3721,5 +3721,13 @@
             "down": "cherry_planks_top",
             "side": "cherry_planks_side"
         }
-    }
+    },
+    "torchflower" : {
+       "sound" : "grass",
+       "textures" : "torchflower"
+    },
+    "torchflower_crop" : {
+       "sound" : "grass",
+       "textures" : "torchflower_crop"
+    },
 }
