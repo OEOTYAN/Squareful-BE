@@ -2,6 +2,9 @@
     "resource_pack_name": "XeKrSquare",
     "texture_name": "atlas.items",
     "texture_data": {
+        "totem": {
+            "textures": "textures/items/totem_of_undying"
+        },
         "map_empty": {
             "textures": "textures/items/map_empty"
         },

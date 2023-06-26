@@ -73,7 +73,6 @@
             "down": "potted_azalea_bush_top",
             "east": "azalea_plant",
             "north": "azalea_side",
-            "side": "azalea_side",
             "south": "potted_azalea_bush_side",
             "up": "azalea_top",
             "west": "potted_azalea_bush_plant"
@@ -1670,7 +1669,6 @@
             "down": "potted_flowering_azalea_bush_top",
             "east": "azalea_plant",
             "north": "flowering_azalea_side",
-            "side": "flowering_azalea_side",
             "south": "potted_flowering_azalea_bush_side",
             "up": "flowering_azalea_top",
             "west": "potted_flowering_azalea_bush_plant"
@@ -2478,7 +2476,7 @@
         }
     },
     "packed_ice": {
-        "textures": "ice_packed"
+        "textures": "packed_ice"
     },
     "packed_mud": {
         "textures": "packed_mud"
@@ -2914,6 +2912,24 @@
             "down": "sculk_sensor_bottom",
             "side": "sculk_sensor_side",
             "up": "sculk_sensor_top"
+        }
+    },
+    "calibrated_sculk_sensor": {
+        "carried_textures": {
+            "down": "sculk_sensor_tendril_inactive",
+            "east": "sculk_sensor_tendril_active",
+            "north": "sculk_sensor_tendril_active",
+            "south": "calibrated_sculk_sensor_amethyst",
+            "up": "sculk_sensor_tendril_inactive",
+            "west": "sculk_sensor_tendril_active"
+        },
+        "textures": {
+            "down": "calibrated_sculk_sensor_bottom",
+            "east": "calibrated_sculk_sensor_side2",
+            "north": "calibrated_sculk_sensor_back",
+            "south": "calibrated_sculk_sensor_input_side",
+            "up": "calibrated_sculk_sensor_top",
+            "west": "calibrated_sculk_sensor_side"
         }
     },
     "sculk_shrieker": {

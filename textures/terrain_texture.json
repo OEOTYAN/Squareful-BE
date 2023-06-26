@@ -4,6 +4,9 @@
     "resource_pack_name": "XeKrSquare",
     "texture_name": "atlas.terrain",
     "texture_data": {
+        "packed_ice": {
+            "textures": "textures/blocks/packed_ice"
+        },
         "spawner": {
             "textures": "textures/blocks/spawner"
         },
@@ -4166,22 +4169,67 @@
                 "textures/blocks/dark_oak_sapling"
             ]
         },
+        "calibrated_sculk_sensor_amethyst": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_amethyst",
+                "textures/blocks/calibrated_sculk_sensor_amethyst_on",
+                "textures/blocks/calibrated_sculk_sensor_amethyst_cd"
+            ]
+        },
+        "calibrated_sculk_sensor_bottom": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_bottom",
+                "textures/blocks/calibrated_sculk_sensor_bottom_on",
+                "textures/blocks/calibrated_sculk_sensor_bottom_cd"
+            ]
+        },
+        "calibrated_sculk_sensor_side": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_side",
+                "textures/blocks/calibrated_sculk_sensor_side_on",
+                "textures/blocks/calibrated_sculk_sensor_side_cd"
+            ]
+        },
+        "calibrated_sculk_sensor_side2": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_side2",
+                "textures/blocks/calibrated_sculk_sensor_side2_on",
+                "textures/blocks/calibrated_sculk_sensor_side2_cd"
+            ]
+        },
+        "calibrated_sculk_sensor_back": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_back",
+                "textures/blocks/calibrated_sculk_sensor_back_on",
+                "textures/blocks/calibrated_sculk_sensor_back_cd"
+            ]
+        },
+        "calibrated_sculk_sensor_top": {
+            "textures": [
+                "textures/blocks/calibrated_sculk_sensor_top",
+                "textures/blocks/calibrated_sculk_sensor_top_on",
+                "textures/blocks/calibrated_sculk_sensor_top_cd"
+            ]
+        },
         "sculk_sensor_bottom": {
             "textures": [
                 "textures/blocks/sculk_sensor_bottom",
-                "textures/blocks/sculk_sensor_bottom_on"
+                "textures/blocks/sculk_sensor_bottom_on",
+                "textures/blocks/sculk_sensor_bottom_cd"
             ]
         },
         "sculk_sensor_side": {
             "textures": [
                 "textures/blocks/sculk_sensor_side",
-                "textures/blocks/sculk_sensor_side_on"
+                "textures/blocks/sculk_sensor_side_on",
+                "textures/blocks/sculk_sensor_side_cd"
             ]
         },
         "sculk_sensor_top": {
             "textures": [
                 "textures/blocks/sculk_sensor_top",
-                "textures/blocks/sculk_sensor_top_on"
+                "textures/blocks/sculk_sensor_top_on",
+                "textures/blocks/sculk_sensor_top_cd"
             ]
         },
         "shroomlight": {
