@@ -387,11 +387,11 @@
         "isotropic": false,
         "textures": {
             "down": "bubble_column_down_top",
-            "east": "pumpkin_side",
+            "east": "bubble_column_outer",
             "north": "bubble_column_outer",
             "south": "bubble_column_mid",
             "up": "bubble_column_up_top",
-            "west": "pumpkin_side"
+            "west": "bubble_column_outer"
         }
     },
     "budding_amethyst": {
@@ -1934,7 +1934,7 @@
     },
     "jukebox": {
         "textures": {
-            "down": "jukebox_side",
+            "down": "note_block",
             "side": "jukebox_side",
             "up": "jukebox_top"
         }

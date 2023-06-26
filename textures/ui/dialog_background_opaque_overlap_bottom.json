@@ -1,7 +1,7 @@
 {
-  "nineslice_size": 0,
+  "nineslice_size": 4,
   "base_size": [
-    176,
-    28
+    16,
+    16
   ]
 }

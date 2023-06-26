@@ -2,12 +2,12 @@
     "format_version": 2,
     "header": {
         "description": "§l§6by XeKr & OEOTYAN",
-        "name": "§lXeKrSquarePattern-BE v1.1.7",
+        "name": "§lXeKrSquarePattern-BE v1.1.8",
         "uuid": "73db2841-e947-4818-a68e-bcd2c6e28183",
         "version": [
             1,
             1,
-            7
+            8
         ],
         "min_engine_version": [
             1,
@@ -23,7 +23,7 @@
             "version": [
                 1,
                 1,
-                7
+                8
             ]
         }
     ]
