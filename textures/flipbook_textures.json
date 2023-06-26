@@ -927,15 +927,15 @@
         "atlas_tile": "sea_lantern",
         "ticks_per_frame": 5
     },
-    { 
-      "flipbook_texture": "textures/blocks/lantern",
-      "atlas_tile": "lantern",
-      "ticks_per_frame": 8
+    {
+        "flipbook_texture": "textures/blocks/lantern",
+        "atlas_tile": "lantern",
+        "ticks_per_frame": 8
     },
-    { 
-      "flipbook_texture": "textures/blocks/soul_lantern",
-      "atlas_tile": "soul_lantern",
-      "ticks_per_frame": 8
+    {
+        "flipbook_texture": "textures/blocks/soul_lantern",
+        "atlas_tile": "soul_lantern",
+        "ticks_per_frame": 8
     },
     {
         "flipbook_texture": "textures/blocks/command_block_front",
@@ -1218,6 +1218,31 @@
         "atlas_tile_variant": 0,
         "frames": [
             0
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/jukebox_top",
+        "atlas_tile": "jukebox_top",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "frames": [
+            0
+        ]
+    },
+    {
+        "flipbook_texture": "textures/blocks/jukebox_top2",
+        "atlas_tile": "jukebox_top",
+        "atlas_index": 1,
+        "atlas_tile_variant": 1,
+        "blend_frames": true,
+        "ticks_per_frame": 2,
+        "frames": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
         ]
     },
     {

@@ -17,7 +17,10 @@
             "textures": "textures/blocks/jukebox_side"
         },
         "jukebox_top": {
-            "textures": "textures/blocks/jukebox_top"
+            "textures": [
+                "textures/blocks/jukebox_top",
+                "textures/blocks/jukebox_top2"
+            ]
         },
         "brick": {
             "textures": "textures/blocks/bricks"
@@ -1283,7 +1286,32 @@
             "textures": "textures/blocks/cartography_table_down"
         },
         "carved_pumpkin": {
-            "textures": "textures/blocks/carved_pumpkin"
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/carved_pumpkin",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/carved_pumpkin1",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/carved_pumpkin2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/carved_pumpkin3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/carved_pumpkin4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
         },
         "carved_pumpkin_back": {
             "textures": "textures/blocks/carved_pumpkin_back"
@@ -3186,7 +3214,32 @@
             "textures": "textures/blocks/infested_deepslate_top"
         },
         "jack_o_lantern": {
-            "textures": "textures/blocks/jack_o_lantern"
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/jack_o_lantern",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/jack_o_lantern1",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/jack_o_lantern2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/jack_o_lantern3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/jack_o_lantern4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
         },
         "jack_o_lantern_back": {
             "textures": "textures/blocks/jack_o_lantern_back"
