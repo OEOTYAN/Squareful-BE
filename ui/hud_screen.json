@@ -431,8 +431,8 @@
         "shadow": false,
         "text": "#level_number",
         "color": [
-            0,
-            0,
+            0.0625,
+            0.125,
             0
         ],
         "anchor_from": "top_middle",
