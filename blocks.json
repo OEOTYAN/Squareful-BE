@@ -1934,7 +1934,7 @@
     },
     "jukebox": {
         "textures": {
-            "down": "note_block",
+            "down": "note_block_top",
             "side": "jukebox_side",
             "up": "jukebox_top"
         }
@@ -2412,7 +2412,11 @@
         "textures": "stone"
     },
     "noteblock": {
-        "textures": "note_block"
+        "textures": {
+            "down": "note_block_top",
+            "side": "note_block_side",
+            "up": "note_block_top"
+        }
     },
     "oak_hanging_sign": {
         "textures": "sign"

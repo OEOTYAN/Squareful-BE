@@ -3578,7 +3578,10 @@
                 }
             ]
         },
-        "note_block": {
+        "note_block_top": {
+            "textures": "textures/blocks/note_block_top"
+        },
+        "note_block_side": {
             "textures": "textures/blocks/note_block"
         },
         "oak_planks": {
