@@ -1009,7 +1009,7 @@ tile.mud.name=泥巴	#
 tile.packed_mud.name=泥胚	#
 tile.mud_bricks.name=泥砖	#
 tile.mud_brick_slab.name=泥砖台阶	#
-tile.mud_brick_double_slab=泥砖台阶	#
+tile.mud_brick_double_slab=泥砖双台阶	#
 tile.mud_brick_stairs.name=泥砖楼梯	#
 tile.mud_brick_wall.name=泥砖墙	#
 tile.mangrove_leaves.name=红树树叶	#
@@ -1974,3 +1974,111 @@ tile.slime.name=黏液块	#
 tile.red_flower.houstonia.name=蓝花美耳草	#
 tile.stone_pressure_plate.name=石头压力板	#
 tile.mycelium.name=菌丝体	#
+
+tile.suspicious_gravel.name=可疑的沙砾	#
+tile.suspicious_sand.name=可疑的沙子	#
+
+item.angler_pottery_sherd.name=垂钓纹样陶片	#
+item.archer_pottery_sherd.name=弓箭纹样陶片	#
+item.arms_up_pottery_sherd.name=举臂纹样陶片	#
+item.blade_pottery_sherd.name=利刃纹样陶片	#
+item.brewer_pottery_sherd.name=佳酿纹样陶片	#
+item.burn_pottery_sherd.name=烈焰纹样陶片	#
+item.danger_pottery_sherd.name=危机纹样陶片	#
+item.explorer_pottery_sherd.name=探险纹样陶片	#
+item.friend_pottery_sherd.name=挚友纹样陶片	#
+item.heart_pottery_sherd.name=爱心纹样陶片	#
+item.heartbreak_pottery_sherd.name=心碎纹样陶片	#
+item.howl_pottery_sherd.name=狼嚎纹样陶片	#
+item.miner_pottery_sherd.name=采矿纹样陶片	#
+item.mourner_pottery_sherd.name=悲恸纹样陶片	#
+item.plenty_pottery_sherd.name=富饶纹样陶片	#
+item.prize_pottery_sherd.name=珍宝纹样陶片	#
+item.sheaf_pottery_sherd.name=麦捆纹样陶片	#
+item.shelter_pottery_sherd.name=树荫纹样陶片	#
+item.skull_pottery_sherd.name=头颅纹样陶片	#
+item.snort_pottery_sherd.name=嗅探纹样陶片	#
+
+itemGroup.name.potterySherds=纹样陶片	#
+item.brush.name=刷子	#
+tile.decorated_pot.name=饰纹陶罐	#
+
+item.boat.cherry.name=樱花木船	#
+item.cherry_door.name=樱花木门	#
+item.cherry_hanging_sign.name=悬挂式樱花木告示牌	#
+item.cherry_sign.name=樱花木告示牌	#
+item.chest_boat.cherry.name=樱花木运输船	#
+tile.cherry_button.name=樱花木按钮	#
+tile.cherry_double_slab.name=樱花木双台阶	#
+tile.cherry_fence_gate.name=樱花木栅栏门	#
+tile.cherry_fence.name=樱花木栅栏	#
+tile.cherry_leaves.name=樱花树叶	#
+tile.cherry_log.name=樱花原木	#
+tile.cherry_planks.name=樱花木板	#
+tile.cherry_pressure_plate.name=樱花木压力板	#
+tile.cherry_sapling.name=樱花树苗	#
+tile.cherry_slab.name=樱花木台阶	#
+tile.cherry_stairs.name=樱花木楼梯	#
+tile.cherry_trapdoor.name=樱花木活板门	#
+tile.cherry_wood.name=樱花木	#
+tile.stripped_cherry_log.name=去皮樱花原木	#
+tile.stripped_cherry_wood.name=去皮樱花木	#
+
+
+tile.pink_petals.name=粉红色花簇	#
+
+container.smithing_table.upgrade=升级装备	#
+container.smithing_table.arrow_tooltip_cannot_craft=该物品无法用此方式升级	#
+container.smithing_table.input_slot_tooltip_armor_trim=放入盔甲	#
+container.smithing_table.input_slot_tooltip_netherite=放入钻石盔甲、武器或工具	#
+container.smithing_table.material_slot_tooltip_armor_trim=放入铸锭或晶体	#
+container.smithing_table.material_slot_tooltip_netherite=放入下界合金锭	#
+container.smithing_table.template_slot_tooltip=放入锻造模板	#
+
+itemGroup.name.smithing_templates=锻造模板	#
+
+item.smithing_template.name=锻造模板	#
+item.smithing_template.applies_to=可应用于：	#
+item.smithing_template.ingredients=所需原材料：	#
+item.smithing_template.armor_trim.applies_to=护甲值	#
+item.smithing_template.armor_trim.ingredients=铸锭或晶体	#
+item.smithing_template.netherite_upgrade.applies_to=钻石装备	#
+item.smithing_template.netherite_upgrade.ingredients=下界合金锭	#
+
+item.armor.upgrade=已有升级：	#
+
+upgrade.netherite_upgrade.name=下界合金升级	#
+
+trim_pattern.coast.name=海岸盔甲纹饰	#
+trim_pattern.dune.name=沙丘盔甲纹饰	#
+trim_pattern.eye.name=眼眸盔甲纹饰	#
+trim_pattern.host.name=雇主盔甲纹饰	#
+trim_pattern.raiser.name=牧民盔甲纹饰	#
+trim_pattern.rib.name=肋骨盔甲纹饰	#
+trim_pattern.sentry.name=哨兵盔甲纹饰	#
+trim_pattern.shaper.name=塑造盔甲纹饰	#
+trim_pattern.silence.name=幽静盔甲纹饰	#
+trim_pattern.snout.name=猪鼻盔甲纹饰	#
+trim_pattern.spire.name=尖塔盔甲纹饰	#
+trim_pattern.tide.name=潮汐盔甲纹饰	#
+trim_pattern.vex.name=恼鬼盔甲纹饰	#
+trim_pattern.ward.name=监守盔甲纹饰	#
+trim_pattern.wayfinder.name=向导盔甲纹饰	#
+trim_pattern.wild.name=荒野盔甲纹饰	#
+
+trim_material.quartz.name=石英质	#
+trim_material.iron.name=铁质	#
+trim_material.netherite.name=下界合金质	#
+trim_material.redstone.name=红石质	#
+trim_material.copper.name=铜质	#
+trim_material.gold.name=黄金质	#
+trim_material.emerald.name=绿宝石质	#
+trim_material.diamond.name=钻石质	#
+trim_material.lapis.name=青金石质	#
+trim_material.amethyst.name=紫水晶质	#
+
+feature.trail_ruins=古迹废墟	#
+
+entity.sniffer.name=嗅探兽	#
+item.spawn_egg.entity.sniffer.name=嗅探兽刷怪蛋	#
+tile.sniffer_egg.name=嗅探兽蛋	#
