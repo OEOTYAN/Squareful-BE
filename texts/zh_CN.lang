@@ -2077,6 +2077,12 @@ trim_material.diamond.name=钻石质	#
 trim_material.lapis.name=青金石质	#
 trim_material.amethyst.name=紫水晶质	#
 
+item.pitcher_pod.name=瓶子草荚果	#
+tile.pitcher_plant.name=瓶子草	#
+
+item.torchflower_seeds.name=火把花种子	#
+tile.torchflower.name=火把花	#
+
 feature.trail_ruins=古迹废墟	#
 
 entity.sniffer.name=嗅探兽	#
