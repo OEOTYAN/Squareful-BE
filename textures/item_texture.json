@@ -2,6 +2,24 @@
     "resource_pack_name": "XeKrSquare",
     "texture_name": "atlas.items",
     "texture_data": {
+        "minecart_chest": {
+            "textures": "textures/items/chest_minecart"
+        },
+        "minecart_command_block": {
+            "textures": "textures/items/command_block_minecart"
+        },
+        "minecart_furnace": {
+            "textures": "textures/items/furnace_minecart"
+        },
+        "minecart_hopper": {
+            "textures": "textures/items/hopper_minecart"
+        },
+        "minecart_normal": {
+            "textures": "textures/items/minecart"
+        },
+        "minecart_tnt": {
+            "textures": "textures/items/tnt_minecart"
+        },
         "totem": {
             "textures": "textures/items/totem_of_undying"
         },
@@ -357,7 +375,19 @@
             "textures": "textures/items/potion_overlay"
         },
         "book_enchanted": {
-            "textures": "textures/items/book_enchanted"
+            "textures": "textures/items/enchanted_book"
+        },
+        "book_normal": {
+            "textures": "textures/items/book"
+        },
+        "book_writable": {
+            "textures": "textures/items/writable_book"
+        },
+        "book_written": {
+            "textures": "textures/items/written_book"
+        },
+        "book_portfolio": {
+            "textures": "textures/items/portfolio_book"
         },
         "suspicious_stew": {
             "textures": "textures/items/suspicious_stew"
