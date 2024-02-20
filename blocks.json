@@ -1,4 +1,64 @@
 {
+    "copper_door": {
+        "textures": {
+            "up": "copper_door_bottom",
+            "down": "copper_door_bottom",
+            "side": "copper_door_top"
+        }
+    },
+    "exposed_copper_door": {
+        "textures": {
+            "up": "exposed_copper_door_bottom",
+            "down": "exposed_copper_door_bottom",
+            "side": "exposed_copper_door_top"
+        }
+    },
+    "weathered_copper_door": {
+        "textures": {
+            "up": "weathered_copper_door_bottom",
+            "down": "weathered_copper_door_bottom",
+            "side": "weathered_copper_door_top"
+        }
+    },
+    "oxidized_copper_door": {
+        "textures": {
+            "up": "oxidized_copper_door_bottom",
+            "down": "oxidized_copper_door_bottom",
+            "side": "oxidized_copper_door_top"
+        }
+    },
+    "waxed_copper_door": {
+        "carried_textures": "waxed_copper_door_carried",
+        "textures": {
+            "up": "copper_door_bottom",
+            "down": "copper_door_bottom",
+            "side": "copper_door_top"
+        }
+    },
+    "waxed_exposed_copper_door": {
+        "carried_textures": "waxed_exposed_copper_door_carried",
+        "textures": {
+            "up": "exposed_copper_door_bottom",
+            "down": "exposed_copper_door_bottom",
+            "side": "exposed_copper_door_top"
+        }
+    },
+    "waxed_weathered_copper_door": {
+        "carried_textures": "waxed_weathered_copper_door_carried",
+        "textures": {
+            "up": "weathered_copper_door_bottom",
+            "down": "weathered_copper_door_bottom",
+            "side": "weathered_copper_door_top"
+        }
+    },
+    "waxed_oxidized_copper_door": {
+        "carried_textures": "waxed_oxidized_copper_door_carried",
+        "textures": {
+            "up": "oxidized_copper_door_bottom",
+            "down": "oxidized_copper_door_bottom",
+            "side": "oxidized_copper_door_top"
+        }
+    },
     "acacia_button": {
         "textures": "acacia_planks"
     },
@@ -41,7 +101,7 @@
             "up": "activator_rail_on"
         }
     },
-    "air": { },
+    "air": {},
     "amethyst_block": {
         "textures": "amethyst_block"
     },
