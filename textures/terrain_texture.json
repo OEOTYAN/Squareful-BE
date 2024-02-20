@@ -1,9 +1,46 @@
 {
     "num_mip_levels": 4,
     "padding": 8,
-    "resource_pack_name": "XeKrSquare",
+    "resource_pack_name": "Squareful",
     "texture_name": "atlas.terrain",
-    "texture_data": {"waxed_copper_block": {
+    "texture_data": {
+        "command_block_front": {
+            "textures": "textures/blocks/command_block_front"
+        },
+        "command_block_back": {
+            "textures": "textures/blocks/command_block_back"
+        },
+        "command_block_side": {
+            "textures": "textures/blocks/command_block_side"
+        },
+        "command_block_conditional_side": {
+            "textures": "textures/blocks/command_block_conditional"
+        },
+        "command_block_chain_front": {
+            "textures": "textures/blocks/chain_command_block_front"
+        },
+        "command_block_chain_back": {
+            "textures": "textures/blocks/chain_command_block_back"
+        },
+        "command_block_chain_side": {
+            "textures": "textures/blocks/chain_command_block_side"
+        },
+        "command_block_chain_conditional_side": {
+            "textures": "textures/blocks/chain_command_block_conditional"
+        },
+        "command_block_repeating_front": {
+            "textures": "textures/blocks/repeating_command_block_front"
+        },
+        "command_block_repeating_back": {
+            "textures": "textures/blocks/repeating_command_block_back"
+        },
+        "command_block_repeating_side": {
+            "textures": "textures/blocks/repeating_command_block_side"
+        },
+        "command_block_repeating_conditional_side": {
+            "textures": "textures/blocks/repeating_command_block_conditional"
+        },
+        "waxed_copper_block": {
             "textures": "textures/blocks/waxed_copper_block"
         },
         "waxed_cut_copper": {
@@ -7223,7 +7260,7 @@
             "textures": [
                 "textures/blocks/torchflower_crop_stage_0",
                 "textures/blocks/torchflower_crop_stage_1",
-                "textures/blocks/torchflower_crop_stage_2",
+                "textures/blocks/torchflower",
                 "textures/blocks/torchflower"
             ]
         },

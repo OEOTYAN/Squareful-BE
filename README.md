@@ -1,4 +1,4 @@
-# XeKrSquarePattern-BE
+# Squareful-BE
 
 A series of squarelize Minecraft resourcepack
 

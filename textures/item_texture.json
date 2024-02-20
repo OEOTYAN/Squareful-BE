@@ -1,7 +1,19 @@
 {
-    "resource_pack_name": "XeKrSquare",
+    "resource_pack_name": "Squareful",
     "texture_name": "atlas.items",
     "texture_data": {
+        "copper_door": {
+            "textures": "textures/items/copper_door"
+        },
+        "exposed_copper_door": {
+            "textures": "textures/items/exposed_copper_door"
+        },
+        "weathered_copper_door": {
+            "textures": "textures/items/weathered_copper_door"
+        },
+        "oxidized_copper_door": {
+            "textures": "textures/items/oxidized_copper_door"
+        },
         "minecart_chest": {
             "textures": "textures/items/chest_minecart"
         },
@@ -317,9 +329,6 @@
                 "textures/potions/normal/slow_falling"
             ]
         },
-        "potion_bottle_empty": {
-            "textures": "textures/items/potion_bottle_empty"
-        },
         "potion_bottle_lingering": {
             "textures": [
                 "textures/items/potion_bottle_lingering",
@@ -370,6 +379,9 @@
                 "textures/potions/splash/turtle_master",
                 "textures/potions/splash/slow_falling"
             ]
+        },
+        "potion_bottle_empty": {
+            "textures": "textures/items/glass_bottle"
         },
         "potion_overlay": {
             "textures": "textures/items/potion_overlay"
