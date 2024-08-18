@@ -3475,9 +3475,6 @@
             "west": "trip_wire"
         }
     },
-    "tuff": {
-        "textures": "tuff"
-    },
     "turtle_egg": {
         "textures": "turtle_egg"
     },
@@ -3858,5 +3855,86 @@
     },
     "yellow_wool": {
         "textures": "yellow_wool"
+    },
+    "polished_tuff": {
+        "textures": "polished_tuff"
+    },
+    "polished_tuff_double_slab": {
+        "textures": {
+            "down": "polished_tuff_top",
+            "side": "polished_tuff_side",
+            "up": "polished_tuff_top"
+        }
+    },
+    "polished_tuff_slab": {
+        "textures": {
+            "down": "polished_tuff_top",
+            "side": "polished_tuff_side2",
+            "up": "polished_tuff_top"
+        }
+    },
+    "polished_tuff_stairs": {
+        "textures": "polished_tuff"
+    },
+    "polished_tuff_wall": {
+        "textures": {
+            "down": "polished_tuff_top",
+            "side": "polished_tuff_wall",
+            "up": "polished_tuff_top"
+        }
+    },
+    "tuff_brick_double_slab": {
+        "textures": {
+            "down": "tuff_bricks_top",
+            "side": "tuff_bricks_side",
+            "up": "tuff_bricks_top"
+        }
+    },
+    "tuff_brick_slab": {
+        "textures": {
+            "down": "tuff_bricks_top",
+            "side": "tuff_bricks_side2",
+            "up": "tuff_bricks_top"
+        }
+    },
+    "tuff_brick_stairs": {
+        "textures": "tuff_bricks"
+    },
+    "tuff_brick_wall": {
+        "textures": {
+            "down": "tuff_bricks_top",
+            "side": "tuff_bricks_wall",
+            "up": "tuff_bricks_top"
+        }
+    },
+    "tuff_bricks": {
+        "textures": "tuff_bricks"
+    },
+    "tuff_double_slab": {
+        "textures": {
+            "down": "tuff_top",
+            "side": "tuff_side",
+            "up": "tuff_top"
+        }
+    },
+    "tuff_slab": {
+        "textures": {
+            "down": "tuff_smooth",
+            "side": "tuff",
+            "up": "tuff_smooth"
+        }
+    },
+    "tuff_stairs": {
+        "textures": "tuff"
+    },
+    "tuff_wall": {
+        "textures": {
+            "down": "tuff_smooth",
+            "side": "tuff",
+            "up": "tuff_smooth"
+        }
+    },
+    "tuff": {
+        "textures": "tuff"
     }
 }

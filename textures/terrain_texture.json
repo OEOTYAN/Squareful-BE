@@ -7333,6 +7333,39 @@
         },
         "torch": {
             "textures": "textures/blocks/torch"
+        },
+        "polished_tuff_side2": {
+            "textures": "textures/blocks/polished_tuff_side2"
+        },
+        "polished_tuff_side": {
+            "textures": "textures/blocks/polished_tuff_side"
+        },
+        "polished_tuff_top": {
+            "textures": "textures/blocks/polished_tuff_top"
+        },
+        "polished_tuff_wall": {
+            "textures": "textures/blocks/polished_tuff_wall"
+        },
+        "tuff_bricks_side2": {
+            "textures": "textures/blocks/tuff_bricks_side2"
+        },
+        "tuff_bricks_side": {
+            "textures": "textures/blocks/tuff_bricks_side"
+        },
+        "tuff_bricks_top": {
+            "textures": "textures/blocks/tuff_bricks_top"
+        },
+        "tuff_bricks_wall": {
+            "textures": "textures/blocks/tuff_bricks_wall"
+        },
+        "tuff_side": {
+            "textures": "textures/blocks/tuff_side"
+        },
+        "tuff_smooth": {
+            "textures": "textures/blocks/tuff_smooth"
+        },
+        "tuff_top": {
+            "textures": "textures/blocks/tuff_top"
         }
     }
 }

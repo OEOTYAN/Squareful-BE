@@ -853,11 +853,16 @@
                 "textures/items/spawn_egg/zombified_piglin"
             ]
         },
-        // "armadillo_egg": {
-        //     "textures": [
-        //         "textures/items/spawn_egg/armadillo"
-        //     ]
-        // },
+        "armadillo_egg": {
+            "textures": [
+                "textures/items/spawn_egg/armadillo"
+            ]
+        },
+        "bogged_egg": {
+            "textures": [
+                "textures/items/spawn_egg/bogged"
+            ]
+        },
         "breeze_egg": {
             "textures": [
                 "textures/items/spawn_egg/breeze"

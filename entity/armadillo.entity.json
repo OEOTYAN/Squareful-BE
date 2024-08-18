@@ -4,10 +4,8 @@
         "description": {
             "identifier": "minecraft:armadillo",
             "spawn_egg": {
-                // "texture": "armadillo_egg",
-                // "texture_index": 0
-                "base_color": "#a67775",
-                "overlay_color": "#734b4f"
+                "texture": "armadillo_egg",
+                "texture_index": 0
             }
         }
     }

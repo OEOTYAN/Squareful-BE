@@ -188,10 +188,5 @@
 
     //////// Border colors ////////
     "$slider_default_border_color": [ 0.118, 0.118, 0.122 ],
-    "$slider_hover_border_color": [ 1.0, 1.0, 1.0 ],
-
-    //////// Boss Health Bar /////////
-    "$boss_health_bar_color": [ 1.0, 1.0, 1.0 ]
-
+    "$slider_hover_border_color": [ 1.0, 1.0, 1.0 ]
 }
-
