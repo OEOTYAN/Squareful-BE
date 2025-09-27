@@ -1,0 +1,41 @@
+{
+  "auto_complete_panel_contents_with_item": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_front",
+        "value": [
+          {
+            "click_autocomplete_button@common.button": {
+              "$pressed_button_name": "button.click_autocomplete",
+              "controls": [
+                {
+                  "default": {
+                    "type": "panel"
+                  }
+                },
+                {
+                  "hover@chat.click_autocomplete_is_focused": {}
+                },
+                {
+                  "pressed@chat.click_autocomplete_is_focused": {}
+                }
+              ],
+              "bindings": [
+                {
+                  "binding_type": "collection",
+                  "binding_name": "#is_autocomplete_suggestion",
+                  "binding_collection_name": "auto_complete"
+                },
+                {
+                  "binding_type": "collection_details",
+                  "binding_collection_name": "auto_complete"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

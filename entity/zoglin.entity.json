@@ -1,12 +1,11 @@
 {
-    "format_version": "1.8.0",
-    "minecraft:client_entity": {
-        "description": {
-            "identifier": "minecraft:zoglin",
-            "spawn_egg": {
-                "texture": "zoglin_egg",
-                "texture_index": 0
-            }
-        }
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "minecraft:zoglin",
+      "spawn_egg": {
+        "texture": "spawn_egg_zoglin"
+      }
     }
+  }
 }
