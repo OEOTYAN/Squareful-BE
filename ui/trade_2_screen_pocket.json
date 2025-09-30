@@ -1,0 +1,146 @@
+{
+  // Auto Trade //
+ 
+  "trade_and_help_buttons": {
+    "type": "stack_panel",
+    "size": [ "100%", 32 ],
+    "orientation": "horizontal",
+    "controls": [
+      {
+        "trade_button_holder": {
+          "type": "panel",
+          "size": [ "50%", "100%" ],
+          "controls": [
+            {
+              "trade_button@trade2.trade_button": {
+                "size": [ "100%", "100%" ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "trade_all_button_holder": {
+          "type": "panel",
+          "size": [ "50%", "100%" ],
+          "controls": [
+            {
+              "trade_all_button@trade2.trade_button": {
+                "size": [ "100%", "100%" ],
+                "$button_text": "xksqu.ui.trade2.tradeall",
+                "$pressed_button_name": "button.container_auto_place",
+                "property_bag": {
+                  "#collection_name": "trade2_result_item",
+                  "#collection_index": 0
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "toggle_content": {
+    "type": "stack_panel",
+    "size": [ "100%", "100%cm" ],
+    "orientation": "horizontal",
+    "controls": [
+      {
+        "padding_1": {
+          "type": "panel",
+          "size": [ "fill", 0 ]
+        }
+      },
+      { "trade_item_1@trade2.trade_item_1": { "layer": 2 } },
+      {
+        "padding_2": {
+          "type": "panel",
+          "size": [ 2, 0 ]
+        }
+      },
+      {
+        "padding_2_extra": {
+          "type": "panel",
+          "size": [ 10, 0 ],
+          "bindings": [
+            { "binding_type": "collection_details" },
+            {
+              "binding_name": "(not #padding_around_sell_item)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      { "trade_item_2@trade2.trade_item_2": { "layer": 2 } },
+      {
+        "padding_3": {
+          "type": "panel",
+          "size": [ 2, 0 ]
+        }
+      },
+      {
+        "padding_3_extra": {
+          "type": "panel",
+          "size": [ 6, 0 ],
+          "bindings": [
+            { "binding_type": "collection_details" },
+            {
+              "binding_name": "(not #padding_around_sell_item)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      { "arrow_holder@trade2.arrow_holder": { "inherit_max_sibling_height": true } },
+      {
+        "padding_4": {
+          "type": "panel",
+          "size": [ 2, 0 ]
+        }
+      },
+      {
+        "sell_item_holder": {
+          "type": "panel",
+          "size": [ "200%c", "100%c" ],
+          "layer": 2,
+          "controls": [ { "sell_item@trade2.sell_item": {} } ],
+          "bindings": [
+            { "binding_type": "collection_details" },
+            {
+              "binding_name": "#padding_around_sell_item",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "sell_item_holder_with_less_padding": {
+          "type": "panel",
+          "size": [ "150%c", "100%c" ],
+          "layer": 2,
+          "controls": [ { "sell_item@trade2.sell_item": {} } ],
+          "bindings": [
+            { "binding_type": "collection_details" },
+            {
+              "binding_name": "(not #padding_around_sell_item)",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "padding_5": {
+          "type": "panel",
+          "size": [ "fill", 0 ]
+        }
+      }
+    ]
+  },
+
+  // Remove Help Button //
+
+  "how_to_play_button": {
+    "ignored": true
+  }
+}

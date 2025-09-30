@@ -5582,9 +5582,6 @@
             "textures": "textures/blocks/polished_blackstone"
         },
         "polished_blackstone_bricks": {
-            "textures": "textures/blocks/polished_blackstone_bricks"
-        },
-        "polished_blackstone_bricks_bricks": {
             "textures": [
                 {
                     "variations": [

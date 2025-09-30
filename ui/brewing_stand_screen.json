@@ -1,25 +1,11 @@
-/********************************************************
-+*   (c) Mojang. All rights reserved                       *
-+*   (c) Microsoft. All rights reserved.                   *
-+*********************************************************/
 {
-    "namespace": "brewing_stand",
-    //-----------------------------------------------------------
-    // Images
-    //-----------------------------------------------------------
     "brewing_arrow_empty_image": {
         "type": "image",
         "layer": 1,
         "texture": "textures/ui/brewing_arrow_empty_formula",
         "anchor_from": "center",
         "anchor_to": "center",
-        "offset": [
-            0,
-            0
-        ],
-        "size": [
-            157,
-            64
-        ]
+        "offset": [ 0, 0 ],
+        "size": [ 157, 64 ]
     }
 }

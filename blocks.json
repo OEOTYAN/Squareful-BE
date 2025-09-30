@@ -355,9 +355,6 @@
     "blackstone": {
         "textures": "blackstone"
     },
-    "blackstone_brick_stairs": {
-        "textures": "blackstone_bricks"
-    },
     "blackstone_double_slab": {
         "textures": {
             "down": "blackstone_top",
@@ -2207,7 +2204,7 @@
             "west": "smoker_side_on"
         }
     },
-    "lodestone_block": {
+    "lodestone": {
         "textures": {
             "down": "lodestone_top",
             "east": "lodestone_side",
@@ -2309,9 +2306,6 @@
     },
     "mangrove_propagule": {
         "textures": "mangrove_propagule"
-    },
-    "mangrove_propagule_hanging": {
-        "textures": "mangrove_propagule_hanging"
     },
     "mangrove_roots": {
         "textures": {
@@ -2638,7 +2632,7 @@
         }
     },
     "polished_blackstone_bricks": {
-        "textures": "polished_blackstone_bricks_bricks"
+        "textures": "polished_blackstone_bricks"
     },
     "polished_blackstone_button": {
         "textures": "polished_blackstone"
@@ -3478,7 +3472,7 @@
     "turtle_egg": {
         "textures": "turtle_egg"
     },
-    "twisting_vines_block": {
+    "twisting_vines": {
         "textures": {
             "down": "twisting_vines_bottom",
             "east": "twisting_vines_base",
