@@ -1,1 +1,4 @@
 *.mcpack
+studio.json
+ui/netease_chat_screen.json
+ui/netease_chat_screen_extension.json
