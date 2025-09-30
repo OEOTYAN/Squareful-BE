@@ -571,9 +571,9 @@
         "spawn_egg_cow": {
             "textures": "textures/items/spawn_egg/cow"
         },
-        "spawn_egg_creaking": {
-            "textures": "textures/items/spawn_egg/creaking"
-        },
+        // "spawn_egg_creaking": {
+        //     "textures": "textures/items/spawn_egg/creaking"
+        // },
         "spawn_egg_creeper": {
             "textures": "textures/items/spawn_egg/creeper"
         },
@@ -632,7 +632,7 @@
             "textures": "textures/items/spawn_egg/llama"
         },
         "spawn_egg_magma_cube": {
-            "textures": "textures/items/spawn_egg/magma_cube"
+            "textures": "textures/items/spawn_egg/magma"
         },
         "spawn_egg_mooshroom": {
             "textures": "textures/items/spawn_egg/mooshroom"
@@ -722,7 +722,7 @@
             "textures": "textures/items/spawn_egg/trader_llama"
         },
         "spawn_egg_tropicalfish": {
-            "textures": "textures/items/spawn_egg/tropicalfish"
+            "textures": "textures/items/spawn_egg/tropical_fish"
         },
         "spawn_egg_turtle": {
             "textures": "textures/items/spawn_egg/turtle"
