@@ -4,6 +4,143 @@
     "resource_pack_name": "Squareful",
     "texture_name": "atlas.terrain",
     "texture_data": {
+        "pale_oak_planks_side2": {
+            "textures": "textures/blocks/pale_oak_planks_side2"
+        },
+        "pale_oak_planks_side3": {
+            "textures": "textures/blocks/pale_oak_planks_side3"
+        },
+        "pale_oak_planks_top": {
+            "textures": "textures/blocks/pale_oak_planks"
+        },
+        "pale_oak_planks_side": {
+            "textures": "textures/blocks/pale_oak_planks_side"
+        },
+        "pale_oak_planks": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/pale_oak_planks",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/pale_oak_planks2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/pale_oak_planks3",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "resin_bricks_side": {
+            "textures": "textures/blocks/resin_bricks_side"
+        },
+        "resin_bricks_top": {
+            "textures": "textures/blocks/resin_bricks_top"
+        },
+        "resin_bricks": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/resin_bricks",
+                            "weight": 3
+                        },
+                        {
+                            "path": "textures/blocks/resin_bricks2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/resin_bricks3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/resin_bricks4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "pale_oak_log_side": {
+            "textures": "textures/blocks/pale_oak_log"
+        },
+        "stripped_pale_oak_log_side": {
+            "textures": "textures/blocks/stripped_pale_oak_log"
+        },
+        "creaking_heart_top": {
+            "textures": [
+                "textures/blocks/creaking_heart_top",
+                "textures/blocks/creaking_heart_top_dormant",
+                "textures/blocks/creaking_heart_top_active"
+            ]
+        },
+        "creaking_heart_side": {
+            "textures": [
+                "textures/blocks/creaking_heart",
+                "textures/blocks/creaking_heart_dormant",
+                "textures/blocks/creaking_heart_active"
+            ]
+        },
+        "pale_hanging_moss": {
+            "textures": [
+                "textures/blocks/pale_hanging_moss",
+                "textures/blocks/pale_hanging_moss_tip"
+            ]
+        },
+        "pale_moss_carpet": {
+            "textures": "textures/blocks/pale_moss_carpet"
+        },
+        "pale_moss_carpet_side": {
+            "textures": [
+                "textures/blocks/pale_moss_carpet_side_small",
+                "textures/blocks/pale_moss_carpet_side_tall"
+            ]
+        },
+        "pale_oak_leaves": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/pale_oak_leaves",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/pale_oak_leaves2",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "cactus_flower": {
+            "textures": {
+                "variations": [
+                    {
+                        "path": "textures/blocks/cactus_flower",
+                        "weight": 1
+                    },
+                    {
+                        "path": "textures/blocks/cactus_flower_2",
+                        "weight": 1
+                    },
+                    {
+                        "path": "textures/blocks/cactus_flower_3",
+                        "weight": 1
+                    }
+                ]
+            }
+        },
+        "firefly_bush": {
+            "textures": [
+                "textures/blocks/firefly_bush",
+                "textures/blocks/firefly_bush_emissive"
+            ]
+        },
         "crafter_bottom": {
             "textures": [
                 "textures/blocks/crafter_bottom",
@@ -3348,9 +3485,6 @@
             "textures": "textures/blocks/crimson_nylium"
         },
         "crimson_planks": {
-            "textures": "textures/blocks/crimson_planks"
-        },
-        "crimson_planks_planks": {
             "textures": [
                 {
                     "variations": [
@@ -3495,15 +3629,6 @@
                         "path": "textures/blocks/deepslate_mirrored",
                         "weight": 1
                     }
-                    // ,
-                    // {
-                    //     "path": "textures/blocks/deepslatey",
-                    //     "weight": 1
-                    // },
-                    // {
-                    //     "path": "textures/blocks/deepslate_mirroredy",
-                    //     "weight": 1
-                    // }
                 ]
             }
         },
@@ -3586,14 +3711,6 @@
                     },
                     {
                         "path": "textures/blocks/deepslate_top_mirrored",
-                        "weight": 1
-                    },
-                    {
-                        "path": "textures/blocks/deepslate_topy",
-                        "weight": 1
-                    },
-                    {
-                        "path": "textures/blocks/deepslate_top_mirroredy",
                         "weight": 1
                     }
                 ]
@@ -6230,36 +6347,6 @@
                 "textures/blocks/polished_andesite"
             ]
         },
-        "stone_side": {
-            "textures": [
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/stone",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/stone_mirrored",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/stoney",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/stoney_mirrored",
-                            "weight": 1
-                        }
-                    ]
-                },
-                "textures/blocks/granite",
-                "textures/blocks/polished_granite",
-                "textures/blocks/diorite",
-                "textures/blocks/polished_diorite",
-                "textures/blocks/andesite",
-                "textures/blocks/polished_andesite"
-            ]
-        },
         "slime_block": {
             "textures": "textures/blocks/slime_block"
         },
@@ -6692,9 +6779,6 @@
             "textures": "textures/blocks/warped_nylium"
         },
         "warped_planks": {
-            "textures": "textures/blocks/warped_planks"
-        },
-        "warped_planks_planks": {
             "textures": [
                 {
                     "variations": [

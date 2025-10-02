@@ -882,7 +882,7 @@
         }
     },
     "crimson_planks": {
-        "textures": "crimson_planks_planks"
+        "textures": "crimson_planks"
     },
     "crimson_pressure_plate": {
         "textures": "crimson_planks"
@@ -3209,11 +3209,7 @@
         }
     },
     "stone": {
-        "textures": {
-            "down": "stone",
-            "side": "stone_side",
-            "up": "stone"
-        }
+        "textures": "stone"
     },
     "stone_brick_stairs": {
         "textures": "stonebrick"
@@ -3574,7 +3570,7 @@
         }
     },
     "warped_planks": {
-        "textures": "warped_planks_planks"
+        "textures": "warped_planks"
     },
     "warped_pressure_plate": {
         "textures": "warped_planks"
@@ -3912,11 +3908,7 @@
         }
     },
     "tuff_slab": {
-        "textures": {
-            "down": "tuff_smooth",
-            "side": "tuff",
-            "up": "tuff_smooth"
-        }
+        "textures": "tuff"
     },
     "tuff_stairs": {
         "textures": "tuff"
@@ -3930,5 +3922,39 @@
     },
     "tuff": {
         "textures": "tuff"
+    },
+    "pale_moss_carpet": {
+        "carried_textures": "pale_moss_carpet_side",
+        "sound": "moss_carpet",
+        "textures": "pale_moss_carpet"
+    },
+    "resin_brick_double_slab": {
+        "sound": "resin_brick",
+        "textures": {
+            "down": "resin_bricks_top",
+            "side": "resin_bricks_side",
+            "up": "resin_bricks_top"
+        }
+    },
+    "pale_oak_double_slab": {
+        "textures": {
+            "down": "pale_oak_planks_top",
+            "side": "pale_oak_planks_side",
+            "up": "pale_oak_planks_top"
+        }
+    },
+    "pale_oak_slab": {
+        "textures": {
+            "down": "pale_oak_planks",
+            "side": "pale_oak_planks_side2",
+            "up": "pale_oak_planks"
+        }
+    },
+    "pale_oak_stairs": {
+        "textures": {
+            "down": "pale_oak_planks",
+            "side": "pale_oak_planks_side3",
+            "up": "pale_oak_planks"
+        }
     }
 }
