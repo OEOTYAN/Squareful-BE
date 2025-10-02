@@ -2,6 +2,210 @@
     "resource_pack_name": "Squareful",
     "texture_name": "atlas.items",
     "texture_data": {
+        "harness_black": {
+            "textures": "textures/items/black_harness"
+        },
+        "harness_blue": {
+            "textures": "textures/items/blue_harness"
+        },
+        "harness_brown": {
+            "textures": "textures/items/brown_harness"
+        },
+        "harness_cyan": {
+            "textures": "textures/items/cyan_harness"
+        },
+        "harness_gray": {
+            "textures": "textures/items/gray_harness"
+        },
+        "harness_green": {
+            "textures": "textures/items/green_harness"
+        },
+        "harness_light_blue": {
+            "textures": "textures/items/light_blue_harness"
+        },
+        "harness_light_gray": {
+            "textures": "textures/items/light_gray_harness"
+        },
+        "harness_lime": {
+            "textures": "textures/items/lime_harness"
+        },
+        "harness_magenta": {
+            "textures": "textures/items/magenta_harness"
+        },
+        "harness_orange": {
+            "textures": "textures/items/orange_harness"
+        },
+        "harness_pink": {
+            "textures": "textures/items/pink_harness"
+        },
+        "harness_purple": {
+            "textures": "textures/items/purple_harness"
+        },
+        "harness_red": {
+            "textures": "textures/items/red_harness"
+        },
+        "harness_white": {
+            "textures": "textures/items/white_harness"
+        },
+        "harness_yellow": {
+            "textures": "textures/items/yellow_harness"
+        },
+        "bundle": {
+            "textures": "textures/items/bundle"
+        },
+        "bundle_open_back": {
+            "textures": "textures/items/bundle_open_back"
+        },
+        "bundle_open_front": {
+            "textures": "textures/items/bundle_open_front"
+        },
+        "bundle_black": {
+            "textures": "textures/items/black_bundle"
+        },
+        "bundle_black_open_back": {
+            "textures": "textures/items/black_bundle_open_back"
+        },
+        "bundle_black_open_front": {
+            "textures": "textures/items/black_bundle_open_front"
+        },
+        "bundle_blue": {
+            "textures": "textures/items/blue_bundle"
+        },
+        "bundle_blue_open_back": {
+            "textures": "textures/items/blue_bundle_open_back"
+        },
+        "bundle_blue_open_front": {
+            "textures": "textures/items/blue_bundle_open_front"
+        },
+        "bundle_brown": {
+            "textures": "textures/items/brown_bundle"
+        },
+        "bundle_brown_open_back": {
+            "textures": "textures/items/brown_bundle_open_back"
+        },
+        "bundle_brown_open_front": {
+            "textures": "textures/items/brown_bundle_open_front"
+        },
+        "bundle_cyan": {
+            "textures": "textures/items/cyan_bundle"
+        },
+        "bundle_cyan_open_back": {
+            "textures": "textures/items/cyan_bundle_open_back"
+        },
+        "bundle_cyan_open_front": {
+            "textures": "textures/items/cyan_bundle_open_front"
+        },
+        "bundle_gray": {
+            "textures": "textures/items/gray_bundle"
+        },
+        "bundle_gray_open_back": {
+            "textures": "textures/items/gray_bundle_open_back"
+        },
+        "bundle_gray_open_front": {
+            "textures": "textures/items/gray_bundle_open_front"
+        },
+        "bundle_green": {
+            "textures": "textures/items/green_bundle"
+        },
+        "bundle_green_open_back": {
+            "textures": "textures/items/green_bundle_open_back"
+        },
+        "bundle_green_open_front": {
+            "textures": "textures/items/green_bundle_open_front"
+        },
+        "bundle_light_blue": {
+            "textures": "textures/items/light_blue_bundle"
+        },
+        "bundle_light_blue_open_back": {
+            "textures": "textures/items/light_blue_bundle_open_back"
+        },
+        "bundle_light_blue_open_front": {
+            "textures": "textures/items/light_blue_bundle_open_front"
+        },
+        "bundle_light_gray": {
+            "textures": "textures/items/light_gray_bundle"
+        },
+        "bundle_light_gray_open_back": {
+            "textures": "textures/items/light_gray_bundle_open_back"
+        },
+        "bundle_light_gray_open_front": {
+            "textures": "textures/items/light_gray_bundle_open_front"
+        },
+        "bundle_lime": {
+            "textures": "textures/items/lime_bundle"
+        },
+        "bundle_lime_open_back": {
+            "textures": "textures/items/lime_bundle_open_back"
+        },
+        "bundle_lime_open_front": {
+            "textures": "textures/items/lime_bundle_open_front"
+        },
+        "bundle_magenta": {
+            "textures": "textures/items/magenta_bundle"
+        },
+        "bundle_magenta_open_back": {
+            "textures": "textures/items/magenta_bundle_open_back"
+        },
+        "bundle_magenta_open_front": {
+            "textures": "textures/items/magenta_bundle_open_front"
+        },
+        "bundle_orange": {
+            "textures": "textures/items/orange_bundle"
+        },
+        "bundle_orange_open_back": {
+            "textures": "textures/items/orange_bundle_open_back"
+        },
+        "bundle_orange_open_front": {
+            "textures": "textures/items/orange_bundle_open_front"
+        },
+        "bundle_pink": {
+            "textures": "textures/items/pink_bundle"
+        },
+        "bundle_pink_open_back": {
+            "textures": "textures/items/pink_bundle_open_back"
+        },
+        "bundle_pink_open_front": {
+            "textures": "textures/items/pink_bundle_open_front"
+        },
+        "bundle_purple": {
+            "textures": "textures/items/purple_bundle"
+        },
+        "bundle_purple_open_back": {
+            "textures": "textures/items/purple_bundle_open_back"
+        },
+        "bundle_purple_open_front": {
+            "textures": "textures/items/purple_bundle_open_front"
+        },
+        "bundle_red": {
+            "textures": "textures/items/red_bundle"
+        },
+        "bundle_red_open_back": {
+            "textures": "textures/items/red_bundle_open_back"
+        },
+        "bundle_red_open_front": {
+            "textures": "textures/items/red_bundle_open_front"
+        },
+        "bundle_white": {
+            "textures": "textures/items/white_bundle"
+        },
+        "bundle_white_open_back": {
+            "textures": "textures/items/white_bundle_open_back"
+        },
+        "bundle_white_open_front": {
+            "textures": "textures/items/white_bundle_open_front"
+        },
+        "bundle_yellow": {
+            "textures": "textures/items/yellow_bundle"
+        },
+        "bundle_yellow_open_back": {
+            "textures": "textures/items/yellow_bundle_open_back"
+        },
+        "bundle_yellow_open_front": {
+            "textures": "textures/items/yellow_bundle_open_front"
+        },
+        "netherbrick": {
+            "textures": "textures/items/nether_brick"
+        },
         "copper_door": {
             "textures": "textures/items/copper_door"
         },
