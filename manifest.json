@@ -2,12 +2,12 @@
     "format_version": 2,
     "header": {
         "description": "§l§6by XeKr & OEOTYAN",
-        "name": "§lSquareful-BE v1.5.3",
-        "uuid": "b598d056-6c7e-484e-badd-62fa7ee3f8de",
+        "name": "§lSquareful-BE v1.6.0",
+        "uuid": "ba9c807e-ee74-40b5-9a9f-a649d11818ea",
         "version": [
             1,
-            5,
-            3
+            6,
+            0
         ],
         "min_engine_version": [
             1,
@@ -19,11 +19,11 @@
         {
             "description": "§l§6by XeKr & OEOTYAN",
             "type": "resources",
-            "uuid": "f5f7b3c9-981f-4e52-858a-2f1455168ef5",
+            "uuid": "1c23107c-eb0a-4a27-8cb0-c295cebf2786",
             "version": [
                 1,
-                5,
-                3
+                6,
+                0
             ]
         }
     ]
