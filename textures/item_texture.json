@@ -402,6 +402,12 @@
         "gold_horse_armor": {
             "textures": "textures/items/golden_horse_armor"
         },
+        "gold_spear": {
+            "textures": "textures/items/spear/golden_spear"
+        },
+        "gold_nautilus_armor": {
+            "textures": "textures/items/nautilus_armor/golden_nautilus_armor"
+        },
         "netherite_ingot": {
             "textures": "textures/items/netherite_ingot"
         },
@@ -645,6 +651,18 @@
         "suspicious_stew": {
             "textures": "textures/items/suspicious_stew"
         },
+        "waxed_copper_door": {
+            "textures": "textures/items/waxed_copper_door"
+        },
+        "waxed_exposed_copper_door": {
+            "textures": "textures/items/waxed_exposed_copper_door"
+        },
+        "waxed_oxidized_copper_door": {
+            "textures": "textures/items/waxed_oxidized_copper_door"
+        },
+        "waxed_weathered_copper_door": {
+            "textures": "textures/items/waxed_weathered_copper_door"
+        },
         "creeper_banner_pattern": {
             "textures": "textures/items/creeper_banner_pattern"
         },
@@ -739,6 +757,24 @@
                 "textures/items/spawn_egg/egg_mask"
             ]
         },
+        "spawn_egg_copper_golem": {
+            "textures": "textures/items/spawn_egg/copper_golem"
+        },
+        "spawn_egg_nautilus": {
+            "textures": "textures/items/spawn_egg/nautilus"
+        },
+        "spawn_egg_zombie_nautilus": {
+            "textures": "textures/items/spawn_egg/zombie_nautilus"
+        },
+        "spawn_egg_parched": {
+            "textures": "textures/items/spawn_egg/parched"
+        },
+        "spawn_egg_camel_husk": {
+            "textures": "textures/items/spawn_egg/camel_husk"
+        },
+        "spawn_egg_happy_ghast": {
+            "textures": "textures/items/spawn_egg/happy_ghast"
+        },
         "spawn_egg_axolotl": {
             "textures": "textures/items/spawn_egg/axolotl"
         },
@@ -775,9 +811,9 @@
         "spawn_egg_cow": {
             "textures": "textures/items/spawn_egg/cow"
         },
-        // "spawn_egg_creaking": {
-        //     "textures": "textures/items/spawn_egg/creaking"
-        // },
+        "spawn_egg_creaking": {
+            "textures": "textures/items/spawn_egg/creaking"
+        },
         "spawn_egg_creeper": {
             "textures": "textures/items/spawn_egg/creeper"
         },

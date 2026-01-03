@@ -1,0 +1,12 @@
+{
+  // Enable view item count on create mode //
+  "gui_hotbar_grid_item/hotbar_parent/item_count": {
+    "modifications": [  
+      {      
+        "array_name": "bindings",
+        "where": {"binding_name":"#stack_count_visible"},
+        "operation": "remove"
+      }
+    ]
+  }
+}

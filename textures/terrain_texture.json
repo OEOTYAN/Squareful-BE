@@ -4,6 +4,1098 @@
     "resource_pack_name": "Squareful",
     "texture_name": "atlas.terrain",
     "texture_data": {
+        "allium": {
+            "textures": "textures/blocks/allium"
+        },
+        "allium_carried": {
+            "textures": "textures/items/allium"
+        },
+        "azure_bluet": {
+            "textures": "textures/blocks/azure_bluet"
+        },
+        "azure_bluet_carried": {
+            "textures": "textures/items/azure_bluet"
+        },
+        "blue_orchid": {
+            "textures": "textures/blocks/blue_orchid"
+        },
+        "blue_orchid_carried": {
+            "textures": "textures/items/blue_orchid"
+        },
+        "closed_eyeblossom": {
+            "textures": "textures/blocks/closed_eyeblossom"
+        },
+        "closed_eyeblossom_carried": {
+            "textures": "textures/items/closed_eyeblossom"
+        },
+        "cornflower": {
+            "textures": "textures/blocks/cornflower"
+        },
+        "cornflower_carried": {
+            "textures": "textures/items/cornflower"
+        },
+        "dandelion": {
+            "textures": "textures/blocks/dandelion"
+        },
+        "dandelion_carried": {
+            "textures": "textures/items/dandelion"
+        },
+        "lily_of_the_valley": {
+            "textures": "textures/blocks/lily_of_the_valley"
+        },
+        "lily_of_the_valley_carried": {
+            "textures": "textures/items/lily_of_the_valley"
+        },
+        "open_eyeblossom": {
+            "textures": [
+                "textures/blocks/open_eyeblossom",
+                "textures/blocks/open_eyeblossom_emissive"
+            ]
+        },
+        "open_eyeblossom_carried": {
+            "textures": "textures/items/open_eyeblossom"
+        },
+        "orange_tulip": {
+            "textures": "textures/blocks/orange_tulip"
+        },
+        "orange_tulip_carried": {
+            "textures": "textures/items/orange_tulip"
+        },
+        "oxeye_daisy": {
+            "textures": "textures/blocks/oxeye_daisy"
+        },
+        "oxeye_daisy_carried": {
+            "textures": "textures/items/oxeye_daisy"
+        },
+        "pink_tulip": {
+            "textures": "textures/blocks/pink_tulip"
+        },
+        "pink_tulip_carried": {
+            "textures": "textures/items/pink_tulip"
+        },
+        "poppy": {
+            "textures": "textures/blocks/poppy"
+        },
+        "poppy_carried": {
+            "textures": "textures/items/poppy"
+        },
+        "red_tulip": {
+            "textures": "textures/blocks/red_tulip"
+        },
+        "red_tulip_carried": {
+            "textures": "textures/items/red_tulip"
+        },
+        "torchflower": {
+            "textures": "textures/blocks/torchflower"
+        },
+        "torchflower_carried": {
+            "textures": "textures/items/torchflower"
+        },
+        "torchflower_crop": {
+            "textures": [
+                "textures/blocks/torchflower_crop_stage_0",
+                "textures/blocks/torchflower_crop_stage_1",
+                "textures/blocks/torchflower_crop_stage_2",
+                "textures/blocks/torchflower"
+            ]
+        },
+        "white_tulip": {
+            "textures": "textures/blocks/white_tulip"
+        },
+        "white_tulip_carried": {
+            "textures": "textures/items/white_tulip"
+        },
+        "wither_rose": {
+            "textures": "textures/blocks/wither_rose"
+        },
+        "wither_rose_carried": {
+            "textures": "textures/items/wither_rose"
+        },
+        "red_flower": {
+            "textures": [
+                "textures/blocks/poppy",
+                "textures/blocks/blue_orchid",
+                "textures/blocks/allium",
+                "textures/blocks/azure_bluet",
+                "textures/blocks/red_tulip",
+                "textures/blocks/orange_tulip",
+                "textures/blocks/white_tulip",
+                "textures/blocks/pink_tulip",
+                "textures/blocks/oxeye_daisy",
+                "textures/blocks/cornflower",
+                "textures/blocks/lily_of_the_valley"
+            ]
+        },
+        "yellow_flower": {
+            "textures": "textures/blocks/dandelion"
+        },
+        "red_flower_carried": {
+            "textures": [
+                "textures/items/poppy",
+                "textures/items/blue_orchid",
+                "textures/items/allium",
+                "textures/items/azure_bluet",
+                "textures/items/red_tulip",
+                "textures/items/orange_tulip",
+                "textures/items/white_tulip",
+                "textures/items/pink_tulip",
+                "textures/items/oxeye_daisy",
+                "textures/items/cornflower",
+                "textures/items/lily_of_the_valley"
+            ]
+        },
+        "yellow_flower_carried": {
+            "textures": "textures/items/dandelion"
+        },
+        "sunflower_top": {
+            "textures": "textures/blocks/sunflower_top"
+        },
+        "sunflower_bottom": {
+            "textures": "textures/blocks/sunflower_bottom"
+        },
+        "sunflower_additional": {
+            "textures": [
+                "textures/blocks/sunflower_front",
+                "textures/blocks/sunflower_back"
+            ]
+        },
+        "sunflower_carried": {
+            "textures": "textures/items/sunflower"
+        },
+        "lilac_top": {
+            "textures": "textures/blocks/lilac_top"
+        },
+        "lilac_bottom": {
+            "textures": "textures/blocks/lilac_bottom"
+        },
+        "lilac_additional": {
+            "textures": "textures/blocks/sunflower_back"
+        },
+        "lilac_carried": {
+            "textures": "textures/items/lilac"
+        },
+        "rose_bush_top": {
+            "textures": "textures/blocks/rose_bush_top"
+        },
+        "rose_bush_bottom": {
+            "textures": "textures/blocks/rose_bush_bottom"
+        },
+        "rose_bush_carried": {
+            "textures": "textures/items/rose_bush"
+        },
+        "peony_top": {
+            "textures": "textures/blocks/peony_top"
+        },
+        "peony_bottom": {
+            "textures": "textures/blocks/peony_bottom"
+        },
+        "peony_carried": {
+            "textures": "textures/items/peony"
+        },
+        "pitcher_plant_top": {
+            "textures": "textures/blocks/pitcher_crop_top_stage_4"
+        },
+        "pitcher_plant_bottom": {
+            "textures": "textures/blocks/pitcher_crop_bottom_stage_4"
+        },
+        "pitcher_plant_carried": {
+            "textures": "textures/items/pitcher_plant"
+        },
+        "pitcher_crop_top": {
+            "textures": "textures/blocks/pitcher_crop_top"
+        },
+        "pitcher_crop_bottom": {
+            "textures": "textures/blocks/pitcher_crop_bottom"
+        },
+        "pitcher_crop_side": {
+            "textures": "textures/blocks/pitcher_crop_side"
+        },
+        "pitcher_crop_lower_flower": {
+            "textures": [
+                "textures/blocks/pitcher_crop_bottom_stage_1",
+                "textures/blocks/pitcher_crop_bottom_stage_2",
+                "textures/blocks/pitcher_crop_bottom_stage_3",
+                "textures/blocks/pitcher_crop_bottom_stage_4"
+            ]
+        },
+        "pitcher_crop_upper_flower": {
+            "textures": [
+                "textures/blocks/pitcher_crop_top_stage_3",
+                "textures/blocks/pitcher_crop_top_stage_4"
+            ]
+        },
+        "double_plant_top": {
+            "textures": [
+                "textures/blocks/double_plant_sunflower_top",
+                "textures/blocks/lilac_top",
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/tall_grass_top",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/tall_grass_top2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/tall_grass_top3",
+                            "weight": 1
+                        }
+                    ]
+                },
+                "textures/blocks/large_fern_top",
+                "textures/blocks/double_plant_rose_top",
+                "textures/blocks/double_plant_paeonia_top"
+            ]
+        },
+        "double_plant_bottom": {
+            "textures": [
+                "textures/blocks/sunflower_bottom",
+                "textures/blocks/lilac_bottom",
+                "textures/blocks/tall_grass_bottom",
+                "textures/blocks/large_fern_bottom",
+                "textures/blocks/rose_bush_bottom",
+                "textures/blocks/peony_bottom"
+            ]
+        },
+        "double_plant_carried": {
+            "textures": [
+                "textures/items/sunflower",
+                "textures/items/lilac",
+                {
+                    "path": "textures/blocks/tall_grass_top",
+                    "tint_color": "#77AB2F"
+                },
+                {
+                    "path": "textures/blocks/large_fern_top",
+                    "tint_color": "#77AB2F"
+                },
+                "textures/items/rose_bush",
+                "textures/items/peony"
+            ]
+        },
+        "fern": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/fern",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "fern_carried": {
+            "textures": "textures/items/fern"
+        },
+        "large_fern_top": {
+            "textures": "textures/blocks/double_plant_fern_top"
+        },
+        "large_fern_bottom": {
+            "textures": "textures/blocks/double_plant_fern_bottom"
+        },
+        "large_fern_carried": {
+            "textures": "textures/items/large_fern"
+        },
+        "bush": {
+            "textures": "textures/blocks/bush"
+        },
+        "bush_carried": {
+            "textures": "textures/items/bush"
+        },
+        "dead_bush": {
+            "textures": "textures/blocks/dead_bush"
+        },
+        "dead_bush_carried": {
+            "textures": "textures/items/dead_bush"
+        },
+        "firefly_bush": {
+            "textures": [
+                "textures/blocks/firefly_bush",
+                "textures/blocks/firefly_bush_emissive"
+            ]
+        },
+        "firefly_bush_carried": {
+            "textures": "textures/items/firefly_bush"
+        },
+        "tall_dry_grass": {
+            "textures": "textures/blocks/tall_dry_grass"
+        },
+        "tall_dry_grass_carried": {
+            "textures": "textures/items/tall_dry_grass"
+        },
+        "short_dry_grass": {
+            "textures": "textures/blocks/short_dry_grass"
+        },
+        "short_dry_grass_carried": {
+            "textures": "textures/items/short_dry_grass"
+        },
+        "short_grass": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/grass",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "short_grass_carried": {
+            "textures": "textures/items/short_grass"
+        },
+        "tall_grass_top": {
+            "textures": "textures/blocks/double_plant_grass_top"
+        },
+        "tall_grass_bottom": {
+            "textures": "textures/blocks/double_plant_grass_bottom"
+        },
+        "tall_grass_carried": {
+            "textures": "textures/items/tall_grass"
+        },
+        "tall_grass": {
+            "textures": "textures/blocks/tall_grass"
+        },
+        "seagrass_carried": {
+            "textures": "textures/items/seagrass"
+        },
+        "seagrass_short": {
+            "textures": "textures/blocks/seagrass"
+        },
+        "seagrass_tall_bot_a": {
+            "textures": "textures/blocks/seagrass_doubletall_bottom_a"
+        },
+        "seagrass_tall_bot_b": {
+            "textures": "textures/blocks/seagrass_doubletall_bottom_b"
+        },
+        "seagrass_tall_top_a": {
+            "textures": "textures/blocks/seagrass_doubletall_top_a"
+        },
+        "seagrass_tall_top_b": {
+            "textures": "textures/blocks/seagrass_doubletall_top_b"
+        },
+        "tallgrass": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/grass",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass4",
+                            "weight": 1
+                        }
+                    ]
+                },
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/grass",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/grass4",
+                            "weight": 1
+                        }
+                    ]
+                },
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/fern",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern4",
+                            "weight": 1
+                        }
+                    ]
+                },
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/fern",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern3",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/fern4",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "tallgrass_carried": {
+            "textures": [
+                "textures/items/short_grass",
+                "textures/items/short_grass",
+                "textures/items/fern",
+                "textures/items/fern"
+            ]
+        },
+        "cactus_top": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/cactus_top",
+                            "weight": 7
+                        },
+                        {
+                            "path": "textures/blocks/cactus_top2",
+                            "weight": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        "cactus_carried": {
+            "textures": "textures/items/cactus"
+        },
+        "cactus_flower": {
+            "textures": {
+                "variations": [
+                    {
+                        "path": "textures/blocks/cactus_flower",
+                        "weight": 1
+                    },
+                    {
+                        "path": "textures/blocks/cactus_flower_2",
+                        "weight": 1
+                    },
+                    {
+                        "path": "textures/blocks/cactus_flower_3",
+                        "weight": 1
+                    }
+                ]
+            }
+        },
+        "cactus_flower_carried": {
+            "textures": "textures/items/cactus_flower"
+        },
+        "pale_hanging_moss": {
+            "textures": [
+                "textures/blocks/pale_hanging_moss",
+                "textures/blocks/pale_hanging_moss_tip"
+            ]
+        },
+        "pale_hanging_moss_carried": {
+            "textures": "textures/items/pale_hanging_moss"
+        },
+        "nether_sprouts": {
+            "textures": "textures/blocks/nether_sprouts"
+        },
+        "nether_sprouts_carried": {
+            "textures": "textures/items/nether_sprouts"
+        },
+        "crimson_roots": {
+            "textures": "textures/blocks/crimson_roots"
+        },
+        "crimson_roots_pot": {
+            "textures": "textures/blocks/crimson_roots_pot"
+        },
+        "crimson_roots_carried": {
+            "textures": "textures/items/crimson_roots"
+        },
+        "warped_roots": {
+            "textures": "textures/blocks/warped_roots"
+        },
+        "warped_roots_pot": {
+            "textures": "textures/blocks/warped_roots_pot"
+        },
+        "warped_roots_carried": {
+            "textures": "textures/items/warped_roots"
+        },
+        "hanging_roots": {
+            "textures": "textures/blocks/hanging_roots"
+        },
+        "hanging_roots_carried": {
+            "textures": "textures/items/hanging_roots"
+        },
+        "big_dripleaf_side1": {
+            "textures": "textures/blocks/big_dripleaf_side"
+        },
+        "big_dripleaf_side2": {
+            "textures": "textures/blocks/big_dripleaf_tip"
+        },
+        "big_dripleaf_stem": {
+            "textures": "textures/blocks/big_dripleaf_stem"
+        },
+        "big_dripleaf_top": {
+            "textures": "textures/blocks/big_dripleaf_top"
+        },
+        "big_dripleaf_carried": {
+            "textures": "textures/items/big_dripleaf"
+        },
+        "small_dripleaf_side": {
+            "textures": "textures/blocks/small_dripleaf_side"
+        },
+        "small_dripleaf_stem_bottom": {
+            "textures": "textures/blocks/small_dripleaf_stem_bottom"
+        },
+        "small_dripleaf_stem_top": {
+            "textures": "textures/blocks/small_dripleaf_stem_top"
+        },
+        "small_dripleaf_top": {
+            "textures": "textures/blocks/small_dripleaf_top"
+        },
+        "small_dripleaf_carried": {
+            "textures": "textures/items/small_dripleaf"
+        },
+        "cobweb": {
+            "textures": "textures/blocks/cobweb"
+        },
+        "cobweb_carried": {
+            "textures": "textures/items/cobweb"
+        },
+        "amethyst_cluster": {
+            "textures": "textures/blocks/amethyst_cluster"
+        },
+        "amethyst_cluster_carried": {
+            "textures": "textures/items/amethyst_cluster"
+        },
+        "small_amethyst_bud": {
+            "textures": "textures/blocks/small_amethyst_bud"
+        },
+        "small_amethyst_bud_carried": {
+            "textures": "textures/items/small_amethyst_bud"
+        },
+        "medium_amethyst_bud": {
+            "textures": "textures/blocks/medium_amethyst_bud"
+        },
+        "medium_amethyst_bud_carried": {
+            "textures": "textures/items/medium_amethyst_bud"
+        },
+        "large_amethyst_bud": {
+            "textures": "textures/blocks/large_amethyst_bud"
+        },
+        "large_amethyst_bud_carried": {
+            "textures": "textures/items/large_amethyst_bud"
+        },
+        "acacia_sapling": {
+            "textures": "textures/blocks/acacia_sapling"
+        },
+        "acacia_sapling_carried": {
+            "textures": "textures/items/acacia_sapling"
+        },
+        "birch_sapling": {
+            "textures": "textures/blocks/birch_sapling"
+        },
+        "birch_sapling_carried": {
+            "textures": "textures/items/birch_sapling"
+        },
+        "cherry_sapling": {
+            "textures": "textures/blocks/cherry_sapling"
+        },
+        "cherry_sapling_carried": {
+            "textures": "textures/items/cherry_sapling"
+        },
+        "dark_oak_sapling": {
+            "textures": "textures/blocks/dark_oak_sapling"
+        },
+        "dark_oak_sapling_carried": {
+            "textures": "textures/items/dark_oak_sapling"
+        },
+        "jungle_sapling": {
+            "textures": "textures/blocks/jungle_sapling"
+        },
+        "jungle_sapling_carried": {
+            "textures": "textures/items/jungle_sapling"
+        },
+        "oak_sapling": {
+            "textures": "textures/blocks/oak_sapling"
+        },
+        "oak_sapling_carried": {
+            "textures": "textures/items/oak_sapling"
+        },
+        "pale_oak_sapling": {
+            "textures": "textures/blocks/pale_oak_sapling"
+        },
+        "pale_oak_sapling_carried": {
+            "textures": "textures/items/pale_oak_sapling"
+        },
+        "spruce_sapling": {
+            "textures": "textures/blocks/spruce_sapling"
+        },
+        "spruce_sapling_carried": {
+            "textures": "textures/items/spruce_sapling"
+        },
+        "mangrove_propagule": {
+            "textures": [
+                "textures/blocks/mangrove_propagule",
+                "textures/blocks/mangrove_propagule_hanging"
+            ]
+        },
+        "mangrove_propagule_carried": {
+            "textures": "textures/items/mangrove_propagule"
+        },
+        "sapling": {
+            "textures": [
+                "textures/blocks/oak_sapling",
+                "textures/blocks/spruce_sapling",
+                "textures/blocks/birch_sapling",
+                "textures/blocks/jungle_sapling",
+                "textures/blocks/acacia_sapling",
+                "textures/blocks/dark_oak_sapling"
+            ]
+        },
+        "sapling_carried": {
+            "textures": [
+                "textures/items/oak_sapling",
+                "textures/items/spruce_sapling",
+                "textures/items/birch_sapling",
+                "textures/items/jungle_sapling",
+                "textures/items/acacia_sapling",
+                "textures/items/dark_oak_sapling"
+            ]
+        },
+        "brown_mushroom": {
+            "textures": "textures/blocks/brown_mushroom"
+        },
+        "brown_mushroom_carried": {
+            "textures": "textures/items/brown_mushroom"
+        },
+        "red_mushroom": {
+            "textures": "textures/blocks/red_mushroom"
+        },
+        "red_mushroom_carried": {
+            "textures": "textures/items/red_mushroom"
+        },
+        "crimson_fungus": {
+            "textures": "textures/blocks/crimson_fungus"
+        },
+        "crimson_fungus_carried": {
+            "textures": "textures/items/crimson_fungus"
+        },
+        "warped_fungus": {
+            "textures": "textures/blocks/warped_fungus"
+        },
+        "warped_fungus_carried": {
+            "textures": "textures/items/warped_fungus"
+        },
+        "brain_coral": {
+            "textures": "textures/blocks/brain_coral"
+        },
+        "brain_coral_carried": {
+            "textures": "textures/items/brain_coral"
+        },
+        "brain_coral_block": {
+            "textures": "textures/blocks/brain_coral_block"
+        },
+        "brain_coral_fan": {
+            "textures": "textures/blocks/brain_coral_fan"
+        },
+        "brain_coral_wall_fan": {
+            "textures": "textures/blocks/brain_coral_fan"
+        },
+        "brain_coral_fan_carried": {
+            "textures": "textures/items/brain_coral_fan"
+        },
+        "brain_coral_wall_fan_carried": {
+            "textures": "textures/items/brain_coral_fan"
+        },
+        "bubble_coral": {
+            "textures": "textures/blocks/bubble_coral"
+        },
+        "bubble_coral_carried": {
+            "textures": "textures/items/bubble_coral"
+        },
+        "bubble_coral_block": {
+            "textures": "textures/blocks/bubble_coral_block"
+        },
+        "bubble_coral_fan": {
+            "textures": "textures/blocks/bubble_coral_fan"
+        },
+        "bubble_coral_wall_fan": {
+            "textures": "textures/blocks/bubble_coral_fan"
+        },
+        "bubble_coral_fan_carried": {
+            "textures": "textures/items/bubble_coral_fan"
+        },
+        "bubble_coral_wall_fan_carried": {
+            "textures": "textures/items/bubble_coral_fan"
+        },
+        "fire_coral": {
+            "textures": "textures/blocks/fire_coral"
+        },
+        "fire_coral_carried": {
+            "textures": "textures/items/fire_coral"
+        },
+        "fire_coral_block": {
+            "textures": "textures/blocks/fire_coral_block"
+        },
+        "fire_coral_fan": {
+            "textures": "textures/blocks/fire_coral_fan"
+        },
+        "fire_coral_wall_fan": {
+            "textures": "textures/blocks/fire_coral_fan"
+        },
+        "fire_coral_fan_carried": {
+            "textures": "textures/items/fire_coral_fan"
+        },
+        "fire_coral_wall_fan_carried": {
+            "textures": "textures/items/fire_coral_fan"
+        },
+        "horn_coral": {
+            "textures": "textures/blocks/horn_coral"
+        },
+        "horn_coral_carried": {
+            "textures": "textures/items/horn_coral"
+        },
+        "horn_coral_block": {
+            "textures": "textures/blocks/horn_coral_block"
+        },
+        "horn_coral_fan": {
+            "textures": "textures/blocks/horn_coral_fan"
+        },
+        "horn_coral_wall_fan": {
+            "textures": "textures/blocks/horn_coral_fan"
+        },
+        "horn_coral_fan_carried": {
+            "textures": "textures/items/horn_coral_fan"
+        },
+        "horn_coral_wall_fan_carried": {
+            "textures": "textures/items/horn_coral_fan"
+        },
+        "tube_coral": {
+            "textures": "textures/blocks/tube_coral"
+        },
+        "tube_coral_carried": {
+            "textures": "textures/items/tube_coral"
+        },
+        "tube_coral_block": {
+            "textures": "textures/blocks/tube_coral_block"
+        },
+        "tube_coral_fan": {
+            "textures": "textures/blocks/tube_coral_fan"
+        },
+        "tube_coral_wall_fan": {
+            "textures": "textures/blocks/tube_coral_fan"
+        },
+        "tube_coral_fan_carried": {
+            "textures": "textures/items/tube_coral_fan"
+        },
+        "tube_coral_wall_fan_carried": {
+            "textures": "textures/items/tube_coral_fan"
+        },
+        "dead_brain_coral": {
+            "textures": "textures/blocks/dead_brain_coral"
+        },
+        "dead_brain_coral_carried": {
+            "textures": "textures/items/dead_brain_coral"
+        },
+        "dead_brain_coral_block": {
+            "textures": "textures/blocks/dead_brain_coral_block"
+        },
+        "dead_brain_coral_fan": {
+            "textures": "textures/blocks/dead_brain_coral_fan"
+        },
+        "dead_brain_coral_wall_fan": {
+            "textures": "textures/blocks/dead_brain_coral_fan"
+        },
+        "dead_brain_coral_fan_carried": {
+            "textures": "textures/items/dead_brain_coral_fan"
+        },
+        "dead_brain_coral_wall_fan_carried": {
+            "textures": "textures/items/dead_brain_coral_fan"
+        },
+        "dead_bubble_coral": {
+            "textures": "textures/blocks/dead_bubble_coral"
+        },
+        "dead_bubble_coral_carried": {
+            "textures": "textures/items/dead_bubble_coral"
+        },
+        "dead_bubble_coral_block": {
+            "textures": "textures/blocks/dead_bubble_coral_block"
+        },
+        "dead_bubble_coral_fan": {
+            "textures": "textures/blocks/dead_bubble_coral_fan"
+        },
+        "dead_bubble_coral_wall_fan": {
+            "textures": "textures/blocks/dead_bubble_coral_fan"
+        },
+        "dead_bubble_coral_fan_carried": {
+            "textures": "textures/items/dead_bubble_coral_fan"
+        },
+        "dead_bubble_coral_wall_fan_carried": {
+            "textures": "textures/items/dead_bubble_coral_fan"
+        },
+        "dead_fire_coral": {
+            "textures": "textures/blocks/dead_fire_coral"
+        },
+        "dead_fire_coral_carried": {
+            "textures": "textures/items/dead_fire_coral"
+        },
+        "dead_fire_coral_block": {
+            "textures": "textures/blocks/dead_fire_coral_block"
+        },
+        "dead_fire_coral_fan": {
+            "textures": "textures/blocks/dead_fire_coral_fan"
+        },
+        "dead_fire_coral_wall_fan": {
+            "textures": "textures/blocks/dead_fire_coral_fan"
+        },
+        "dead_fire_coral_fan_carried": {
+            "textures": "textures/items/dead_fire_coral_fan"
+        },
+        "dead_fire_coral_wall_fan_carried": {
+            "textures": "textures/items/dead_fire_coral_fan"
+        },
+        "dead_horn_coral": {
+            "textures": "textures/blocks/dead_horn_coral"
+        },
+        "dead_horn_coral_carried": {
+            "textures": "textures/items/dead_horn_coral"
+        },
+        "dead_horn_coral_block": {
+            "textures": "textures/blocks/dead_horn_coral_block"
+        },
+        "dead_horn_coral_fan": {
+            "textures": "textures/blocks/dead_horn_coral_fan"
+        },
+        "dead_horn_coral_wall_fan": {
+            "textures": "textures/blocks/dead_horn_coral_fan"
+        },
+        "dead_horn_coral_fan_carried": {
+            "textures": "textures/items/dead_horn_coral_fan"
+        },
+        "dead_horn_coral_wall_fan_carried": {
+            "textures": "textures/items/dead_horn_coral_fan"
+        },
+        "dead_tube_coral": {
+            "textures": "textures/blocks/dead_tube_coral"
+        },
+        "dead_tube_coral_carried": {
+            "textures": "textures/items/dead_tube_coral"
+        },
+        "dead_tube_coral_block": {
+            "textures": "textures/blocks/dead_tube_coral_block"
+        },
+        "dead_tube_coral_fan": {
+            "textures": "textures/blocks/dead_tube_coral_fan"
+        },
+        "dead_tube_coral_wall_fan": {
+            "textures": "textures/blocks/dead_tube_coral_fan"
+        },
+        "dead_tube_coral_fan_carried": {
+            "textures": "textures/items/dead_tube_coral_fan"
+        },
+        "dead_tube_coral_wall_fan_carried": {
+            "textures": "textures/items/dead_tube_coral_fan"
+        },
+        "coral": {
+            "textures": [
+                "textures/blocks/tube_coral",
+                "textures/blocks/brain_coral",
+                "textures/blocks/bubble_coral",
+                "textures/blocks/fire_coral",
+                "textures/blocks/horn_coral",
+                "textures/blocks/dead_tube_coral",
+                "textures/blocks/dead_brain_coral",
+                "textures/blocks/dead_bubble_coral",
+                "textures/blocks/dead_fire_coral",
+                "textures/blocks/dead_horn_coral"
+            ]
+        },
+        "coral_block": {
+            "textures": [
+                "textures/blocks/tube_coral_block",
+                "textures/blocks/brain_coral_block",
+                "textures/blocks/bubble_coral_block",
+                "textures/blocks/fire_coral_block",
+                "textures/blocks/horn_coral_block",
+                "textures/blocks/dead_tube_coral_block",
+                "textures/blocks/dead_brain_coral_block",
+                "textures/blocks/dead_bubble_coral_block",
+                "textures/blocks/dead_fire_coral_block",
+                "textures/blocks/dead_horn_coral_block"
+            ]
+        },
+        "coral_fan": {
+            "textures": [
+                "textures/blocks/tube_coral_fan",
+                "textures/blocks/brain_coral_fan",
+                "textures/blocks/bubble_coral_fan",
+                "textures/blocks/fire_coral_fan",
+                "textures/blocks/horn_coral_fan"
+            ]
+        },
+        "coral_fan_dead": {
+            "textures": [
+                "textures/blocks/dead_tube_coral_fan",
+                "textures/blocks/dead_brain_coral_fan",
+                "textures/blocks/dead_bubble_coral_fan",
+                "textures/blocks/dead_fire_coral_fan",
+                "textures/blocks/dead_horn_coral_fan"
+            ]
+        },
+        "coral_fan_hang_a": {
+            "textures": [
+                "textures/blocks/tube_coral_fan",
+                "textures/blocks/brain_coral_fan",
+                "textures/blocks/dead_tube_coral_fan",
+                "textures/blocks/dead_brain_coral_fan"
+            ]
+        },
+        "coral_fan_hang_b": {
+            "textures": [
+                "textures/blocks/bubble_coral_fan",
+                "textures/blocks/fire_coral_fan",
+                "textures/blocks/dead_bubble_coral_fan",
+                "textures/blocks/dead_fire_coral_fan"
+            ]
+        },
+        "coral_fan_hang_c": {
+            "textures": [
+                "textures/blocks/horn_coral_fan",
+                "textures/blocks/horn_coral_fan",
+                "textures/blocks/dead_horn_coral_fan",
+                "textures/blocks/dead_horn_coral_fan"
+            ]
+        },
+        "coral_carried": {
+            "textures": [
+                "textures/items/tube_coral",
+                "textures/items/brain_coral",
+                "textures/items/bubble_coral",
+                "textures/items/fire_coral",
+                "textures/items/horn_coral",
+                "textures/items/dead_tube_coral",
+                "textures/items/dead_brain_coral",
+                "textures/items/dead_bubble_coral",
+                "textures/items/dead_fire_coral",
+                "textures/items/dead_horn_coral"
+            ]
+        },
+        "coral_fan_carried": {
+            "textures": [
+                "textures/items/tube_coral_fan",
+                "textures/items/brain_coral_fan",
+                "textures/items/bubble_coral_fan",
+                "textures/items/fire_coral_fan",
+                "textures/items/horn_coral_fan"
+            ]
+        },
+        "coral_fan_dead_carried": {
+            "textures": [
+                "textures/items/dead_tube_coral_fan",
+                "textures/items/dead_brain_coral_fan",
+                "textures/items/dead_bubble_coral_fan",
+                "textures/items/dead_fire_coral_fan",
+                "textures/items/dead_horn_coral_fan"
+            ]
+        },
+        "coral_fan_hang_a_carried": {
+            "textures": [
+                "textures/items/tube_coral_fan",
+                "textures/items/brain_coral_fan",
+                "textures/items/dead_tube_coral_fan",
+                "textures/items/dead_brain_coral_fan"
+            ]
+        },
+        "coral_fan_hang_b_carried": {
+            "textures": [
+                "textures/items/bubble_coral_fan",
+                "textures/items/fire_coral_fan",
+                "textures/items/dead_bubble_coral_fan",
+                "textures/items/dead_fire_coral_fan"
+            ]
+        },
+        "coral_fan_hang_c_carried": {
+            "textures": [
+                "textures/items/horn_coral_fan",
+                "textures/items/horn_coral_fan",
+                "textures/items/dead_horn_coral_fan",
+                "textures/items/dead_horn_coral_fan"
+            ]
+        },
+        "torch_carried": {
+            "textures": "textures/items/torch"
+        },
+        "soul_torch_carried": {
+            "textures": "textures/items/soul_torch"
+        },
+        "redstone_torch_carried": {
+            "textures": "textures/items/redstone_torch"
+        },
+        "copper_torch_carried": {
+            "textures": "textures/items/copper_torch"
+        },
+        "frog_spawn": {
+            "textures": "textures/blocks/frogspawn"
+        },
+        "frog_spawn_carried": {
+            "textures": "textures/items/frogspawn"
+        },
+        "glow_lichen": {
+            "textures": "textures/blocks/glow_lichen"
+        },
+        "glow_lichen_carried": {
+            "textures": "textures/items/glow_lichen"
+        },
+        "waterlily_carried": {
+            "textures": "textures/items/lily_pad"
+        },
         "pale_oak_planks_side2": {
             "textures": "textures/blocks/pale_oak_planks_side2"
         },
@@ -86,12 +1178,6 @@
                 "textures/blocks/creaking_heart_active"
             ]
         },
-        "pale_hanging_moss": {
-            "textures": [
-                "textures/blocks/pale_hanging_moss",
-                "textures/blocks/pale_hanging_moss_tip"
-            ]
-        },
         "pale_moss_carpet": {
             "textures": "textures/blocks/pale_moss_carpet"
         },
@@ -115,30 +1201,6 @@
                         }
                     ]
                 }
-            ]
-        },
-        "cactus_flower": {
-            "textures": {
-                "variations": [
-                    {
-                        "path": "textures/blocks/cactus_flower",
-                        "weight": 1
-                    },
-                    {
-                        "path": "textures/blocks/cactus_flower_2",
-                        "weight": 1
-                    },
-                    {
-                        "path": "textures/blocks/cactus_flower_3",
-                        "weight": 1
-                    }
-                ]
-            }
-        },
-        "firefly_bush": {
-            "textures": [
-                "textures/blocks/firefly_bush",
-                "textures/blocks/firefly_bush_emissive"
             ]
         },
         "crafter_bottom": {
@@ -194,6 +1256,54 @@
         },
         "waxed_copper_door_carried": {
             "textures": "textures/items/waxed_copper_door"
+        },
+        "waxed_copper_chain_carried": {
+            "textures": "textures/items/waxed_copper_chain"
+        },
+        "waxed_exposed_copper_chain_carried": {
+            "textures": "textures/items/waxed_exposed_copper_chain"
+        },
+        "waxed_weathered_copper_chain_carried": {
+            "textures": "textures/items/waxed_weathered_copper_chain"
+        },
+        "waxed_oxidized_copper_chain_carried": {
+            "textures": "textures/items/waxed_oxidized_copper_chain"
+        },
+        "waxed_copper_lantern_carried": {
+            "textures": "textures/items/waxed_copper_lantern"
+        },
+        "waxed_exposed_copper_lantern_carried": {
+            "textures": "textures/items/waxed_exposed_copper_lantern"
+        },
+        "waxed_weathered_copper_lantern_carried": {
+            "textures": "textures/items/waxed_weathered_copper_lantern"
+        },
+        "waxed_oxidized_copper_lantern_carried": {
+            "textures": "textures/items/waxed_oxidized_copper_lantern"
+        },
+        "waxed_copper_bars": {
+            "textures": "textures/blocks/copper_bars"
+        },
+        "waxed_exposed_copper_bars": {
+            "textures": "textures/blocks/exposed_copper_bars"
+        },
+        "waxed_weathered_copper_bars": {
+            "textures": "textures/blocks/weathered_copper_bars"
+        },
+        "waxed_oxidized_copper_bars": {
+            "textures": "textures/blocks/oxidized_copper_bars"
+        },
+        "waxed_copper_bars_carried": {
+            "textures": "textures/items/waxed_copper_bars"
+        },
+        "waxed_exposed_copper_bars_carried": {
+            "textures": "textures/items/waxed_exposed_copper_bars"
+        },
+        "waxed_weathered_copper_bars_carried": {
+            "textures": "textures/items/waxed_weathered_copper_bars"
+        },
+        "waxed_oxidized_copper_bars_carried": {
+            "textures": "textures/items/waxed_oxidized_copper_bars"
         },
         "command_block_front": {
             "textures": "textures/blocks/command_block_front"
@@ -1864,12 +2974,6 @@
                 "textures/blocks/end_portal_frame_front_on"
             ]
         },
-        "sunflower_additional": {
-            "textures": [
-                "textures/blocks/sunflower_front",
-                "textures/blocks/sunflower_back"
-            ]
-        },
         "endframe_top": {
             "textures": [
                 "textures/blocks/end_portal_frame_top",
@@ -1880,42 +2984,6 @@
                 "textures/blocks/end_portal_frame_top_on",
                 "textures/blocks/end_portal_frame_top_on",
                 "textures/blocks/end_portal_frame_top_on"
-            ]
-        },
-        "yellow_flower_carried": {
-            "textures": "textures/blocks/dandelion"
-        },
-        "red_flower_carried": {
-            "textures": [
-                "textures/blocks/poppy",
-                "textures/blocks/blue_orchid",
-                "textures/blocks/allium",
-                "textures/blocks/azure_bluet",
-                "textures/blocks/red_tulip",
-                "textures/blocks/orange_tulip",
-                "textures/blocks/white_tulip",
-                "textures/blocks/pink_tulip",
-                "textures/blocks/oxeye_daisy",
-                "textures/blocks/cornflower",
-                "textures/blocks/lily_of_the_valley"
-            ]
-        },
-        "yellow_flower": {
-            "textures": "textures/blocks/dandelion_ground"
-        },
-        "red_flower": {
-            "textures": [
-                "textures/blocks/poppy_ground",
-                "textures/blocks/blue_orchid",
-                "textures/blocks/allium_ground",
-                "textures/blocks/azure_bluet_ground",
-                "textures/blocks/red_tulip_ground",
-                "textures/blocks/orange_tulip_ground",
-                "textures/blocks/white_tulip_ground",
-                "textures/blocks/pink_tulip_ground",
-                "textures/blocks/oxeye_daisy_ground",
-                "textures/blocks/cornflower_ground",
-                "textures/blocks/lily_of_the_valley"
             ]
         },
         "prismarine": {
@@ -1929,12 +2997,6 @@
             "textures": [
                 "textures/blocks/dark_prismarine"
             ]
-        },
-        "seagrass_carried": {
-            "textures": "textures/blocks/seagrass_carried"
-        },
-        "wither_rose": {
-            "textures": "textures/blocks/wither_rose"
         },
         "flower_pot": {
             "textures": "textures/blocks/flower_pot"
@@ -2455,9 +3517,6 @@
         "amethyst_block": {
             "textures": "textures/blocks/amethyst_block"
         },
-        "amethyst_cluster": {
-            "textures": "textures/blocks/amethyst_cluster"
-        },
         "ancient_debris_side": {
             "textures": "textures/blocks/ancient_debris_side"
         },
@@ -2668,18 +3727,6 @@
                 "textures/blocks/beetroots_stage3"
             ]
         },
-        "big_dripleaf_side1": {
-            "textures": "textures/blocks/big_dripleaf_side"
-        },
-        "big_dripleaf_side2": {
-            "textures": "textures/blocks/big_dripleaf_tip"
-        },
-        "big_dripleaf_stem": {
-            "textures": "textures/blocks/big_dripleaf_stem"
-        },
-        "big_dripleaf_top": {
-            "textures": "textures/blocks/big_dripleaf_top"
-        },
         "birch_planks": {
             "textures": "textures/blocks/birch_planks"
         },
@@ -2813,22 +3860,6 @@
         },
         "budding_amethyst": {
             "textures": "textures/blocks/budding_amethyst"
-        },
-        "cactus_top": {
-            "textures": [
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/cactus_top",
-                            "weight": 7
-                        },
-                        {
-                            "path": "textures/blocks/cactus_top2",
-                            "weight": 2
-                        }
-                    ]
-                }
-            ]
         },
         "cake_bottom": {
             "textures": [
@@ -3349,76 +4380,6 @@
         "copper_ore": {
             "textures": "textures/blocks/copper_ore"
         },
-        "coral": {
-            "textures": [
-                "textures/blocks/tube_coral",
-                "textures/blocks/brain_coral",
-                "textures/blocks/bubble_coral",
-                "textures/blocks/fire_coral",
-                "textures/blocks/horn_coral",
-                "textures/blocks/dead_tube_coral",
-                "textures/blocks/dead_brain_coral",
-                "textures/blocks/dead_bubble_coral",
-                "textures/blocks/dead_fire_coral",
-                "textures/blocks/dead_horn_coral"
-            ]
-        },
-        "coral_block": {
-            "textures": [
-                "textures/blocks/tube_coral_block",
-                "textures/blocks/brain_coral_block",
-                "textures/blocks/bubble_coral_block",
-                "textures/blocks/fire_coral_block",
-                "textures/blocks/horn_coral_block",
-                "textures/blocks/dead_tube_coral_block",
-                "textures/blocks/dead_brain_coral_block",
-                "textures/blocks/dead_bubble_coral_block",
-                "textures/blocks/dead_fire_coral_block",
-                "textures/blocks/dead_horn_coral_block"
-            ]
-        },
-        "coral_fan": {
-            "textures": [
-                "textures/blocks/tube_coral_fan",
-                "textures/blocks/brain_coral_fan",
-                "textures/blocks/bubble_coral_fan",
-                "textures/blocks/fire_coral_fan",
-                "textures/blocks/horn_coral_fan"
-            ]
-        },
-        "coral_fan_dead": {
-            "textures": [
-                "textures/blocks/dead_tube_coral_fan",
-                "textures/blocks/dead_brain_coral_fan",
-                "textures/blocks/dead_bubble_coral_fan",
-                "textures/blocks/dead_fire_coral_fan",
-                "textures/blocks/dead_horn_coral_fan"
-            ]
-        },
-        "coral_fan_hang_a": {
-            "textures": [
-                "textures/blocks/tube_coral_fan",
-                "textures/blocks/brain_coral_fan",
-                "textures/blocks/dead_tube_coral_fan",
-                "textures/blocks/dead_brain_coral_fan"
-            ]
-        },
-        "coral_fan_hang_b": {
-            "textures": [
-                "textures/blocks/bubble_coral_fan",
-                "textures/blocks/fire_coral_fan",
-                "textures/blocks/dead_bubble_coral_fan",
-                "textures/blocks/dead_fire_coral_fan"
-            ]
-        },
-        "coral_fan_hang_c": {
-            "textures": [
-                "textures/blocks/horn_coral_fan",
-                "textures/blocks/horn_coral_fan",
-                "textures/blocks/dead_horn_coral_fan",
-                "textures/blocks/dead_horn_coral_fan"
-            ]
-        },
         "cracked_deepslate_bricks": {
             "textures": {
                 "variations": [
@@ -3515,12 +4476,6 @@
         },
         "crimson_planks_top": {
             "textures": "textures/blocks/crimson_planks"
-        },
-        "crimson_roots": {
-            "textures": "textures/blocks/crimson_roots"
-        },
-        "crimson_roots_pot": {
-            "textures": "textures/blocks/crimson_roots_pot"
         },
         "crimson_sign": {
             "textures": "textures/blocks/crimson_planks"
@@ -3796,57 +4751,6 @@
                 "textures/blocks/iron_door_top"
             ]
         },
-        "double_plant_bottom": {
-            "textures": [
-                "textures/blocks/sunflower_bottom",
-                "textures/blocks/lilac_bottom",
-                "textures/blocks/tall_grass_bottom",
-                "textures/blocks/large_fern_bottom",
-                "textures/blocks/double_plant_rose_bottom",
-                "textures/blocks/double_plant_paeonia_bottom"
-            ]
-        },
-        "double_plant_carried": {
-            "textures": [
-                "textures/blocks/sunflower_front",
-                "textures/blocks/lilac_top",
-                {
-                    "path": "textures/blocks/tall_grass_top",
-                    "tint_color": "#77AB2F"
-                },
-                {
-                    "path": "textures/blocks/large_fern_top",
-                    "tint_color": "#77AB2F"
-                },
-                "textures/blocks/double_plant_rose_top",
-                "textures/blocks/double_plant_paeonia_top"
-            ]
-        },
-        "double_plant_top": {
-            "textures": [
-                "textures/blocks/double_plant_sunflower_top",
-                "textures/blocks/lilac_top",
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/tall_grass_top",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/tall_grass_top2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/tall_grass_top3",
-                            "weight": 1
-                        }
-                    ]
-                },
-                "textures/blocks/large_fern_top",
-                "textures/blocks/double_plant_rose_top",
-                "textures/blocks/double_plant_paeonia_top"
-            ]
-        },
         "dried_kelp_bottom": {
             "textures": "textures/blocks/dried_kelp_bottom"
         },
@@ -4013,9 +4917,6 @@
         },
         "glow_item_frame": {
             "textures": "textures/blocks/glow_item_frame"
-        },
-        "glow_lichen": {
-            "textures": "textures/blocks/glow_lichen"
         },
         "glowstone": {
             "textures": [
@@ -4837,9 +5738,6 @@
         "green_glazed_terracotta": {
             "textures": "textures/blocks/green_glazed_terracotta"
         },
-        "hanging_roots": {
-            "textures": "textures/blocks/hanging_roots"
-        },
         "hard_glass": {
             "textures": "textures/blocks/hard_glass"
         },
@@ -5051,9 +5949,6 @@
         "jungle_planks": {
             "textures": "textures/blocks/jungle_planks"
         },
-        "large_amethyst_bud": {
-            "textures": "textures/blocks/large_amethyst_bud"
-        },
         "lectern_base": {
             "textures": "textures/blocks/lectern_base"
         },
@@ -5181,9 +6076,6 @@
         },
         "magenta_glazed_terracotta": {
             "textures": "textures/blocks/magenta_glazed_terracotta"
-        },
-        "medium_amethyst_bud": {
-            "textures": "textures/blocks/medium_amethyst_bud"
         },
         "melon_stem": {
             "textures": [
@@ -5317,11 +6209,6 @@
         },
         "nether_shroom_red": {
             "textures": "textures/blocks/crimson_fungus"
-        },
-        "nether_sprouts": {
-            "textures": [
-                "textures/blocks/nether_sprouts"
-            ]
         },
         "nether_wart": {
             "textures": [
@@ -5713,6 +6600,9 @@
                 "textures/blocks/pointed_dripstone_up_tip"
             ]
         },
+        "pointed_dripstone_carried": {
+            "textures": "textures/items/pointed_dripstone"
+        },
         "polished_basalt_side": {
             "textures": "textures/blocks/polished_basalt_side"
         },
@@ -5981,9 +6871,6 @@
         "red_glazed_terracotta": {
             "textures": "textures/blocks/red_glazed_terracotta"
         },
-        "redstone_torch_carried": {
-            "textures": "textures/items/redstone_torch"
-        },
         "repeater_up": {
             "textures": [
                 "textures/blocks/repeater",
@@ -6015,16 +6902,6 @@
                 "textures/blocks/respawn_anchor_top2",
                 "textures/blocks/respawn_anchor_top3",
                 "textures/blocks/respawn_anchor_top4"
-            ]
-        },
-        "sapling": {
-            "textures": [
-                "textures/blocks/oak_sapling",
-                "textures/blocks/spruce_sapling",
-                "textures/blocks/birch_sapling",
-                "textures/blocks/jungle_sapling",
-                "textures/blocks/acacia_sapling",
-                "textures/blocks/dark_oak_sapling"
             ]
         },
         "calibrated_sculk_sensor_amethyst": {
@@ -6092,21 +6969,6 @@
         },
         "shroomlight": {
             "textures": "textures/blocks/shroomlight"
-        },
-        "small_amethyst_bud": {
-            "textures": "textures/blocks/small_amethyst_bud"
-        },
-        "small_dripleaf_side": {
-            "textures": "textures/blocks/small_dripleaf_side"
-        },
-        "small_dripleaf_stem_bottom": {
-            "textures": "textures/blocks/small_dripleaf_stem_bottom"
-        },
-        "small_dripleaf_stem_top": {
-            "textures": "textures/blocks/small_dripleaf_stem_top"
-        },
-        "small_dripleaf_top": {
-            "textures": "textures/blocks/small_dripleaf_top"
         },
         "smoker_bottom": {
             "textures": [
@@ -6193,9 +7055,6 @@
         },
         "soul_torch": {
             "textures": "textures/blocks/soul_torch"
-        },
-        "soul_torch_carried": {
-            "textures": "textures/items/soul_torch"
         },
         "sponge": {
             "textures": [
@@ -6601,110 +7460,6 @@
                 "textures/blocks/structure_block_corner"
             ]
         },
-        "tallgrass": {
-            "textures": [
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/grass",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/grass",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/grass4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/fern",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern4",
-                            "weight": 1
-                        }
-                    ]
-                },
-                {
-                    "variations": [
-                        {
-                            "path": "textures/blocks/fern",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern2",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern3",
-                            "weight": 1
-                        },
-                        {
-                            "path": "textures/blocks/fern4",
-                            "weight": 1
-                        }
-                    ]
-                }
-            ]
-        },
-        "tallgrass_carried": {
-            "textures": [
-                {
-                    "path": "textures/blocks/grass",
-                    "tint_color": "#77AB2F"
-                },
-                {
-                    "path": "textures/blocks/grass",
-                    "tint_color": "#77AB2F"
-                },
-                {
-                    "path": "textures/blocks/fern",
-                    "tint_color": "#77AB2F"
-                },
-                {
-                    "path": "textures/blocks/fern",
-                    "tint_color": "#77AB2F"
-                }
-            ]
-        },
         "target_side": {
             "textures": [
                 "textures/blocks/target",
@@ -6751,9 +7506,6 @@
         "tinted_glass": {
             "textures": "textures/blocks/tinted_glass"
         },
-        "torch_carried": {
-            "textures": "textures/items/torch"
-        },
         "trapdoor": {
             "textures": "textures/blocks/oak_trapdoor"
         },
@@ -6773,22 +7525,16 @@
             "textures": "textures/blocks/tuff"
         },
         "twisting_vines_base": {
-            "textures": [
-                "textures/blocks/twisting_vines_plant"
-            ]
+            "textures": "textures/blocks/twisting_vines_plant"
         },
         "twisting_vines_bottom": {
-            "textures": [
-                "textures/blocks/twisting_vines"
-            ]
+            "textures": "textures/blocks/twisting_vines"
+        },
+        "twisting_vines_carried": {
+            "textures": "textures/items/twisting_vines"
         },
         "vine_carried": {
-            "textures": [
-                {
-                    "path": "textures/blocks/vine",
-                    "tint_color": "#77AB2F"
-                }
-            ]
+            "textures": "textures/items/vine"
         },
         "warped_door_lower": {
             "textures": "textures/blocks/warped_door_bottom"
@@ -6833,12 +7579,6 @@
         },
         "warped_planks_top": {
             "textures": "textures/blocks/warped_planks"
-        },
-        "warped_roots": {
-            "textures": "textures/blocks/warped_roots"
-        },
-        "warped_roots_pot": {
-            "textures": "textures/blocks/warped_roots_pot"
         },
         "warped_sign": {
             "textures": "textures/blocks/warped_planks"
@@ -6890,14 +7630,6 @@
                 }
             ]
         },
-        "waterlily_carried": {
-            "textures": [
-                {
-                    "path": "textures/blocks/lily_pad",
-                    "tint_color": "#208030"
-                }
-            ]
-        },
         "weathered_copper": {
             "textures": "textures/blocks/weathered_copper"
         },
@@ -6911,14 +7643,13 @@
             "textures": "textures/blocks/weathered_cut_copper_top"
         },
         "weeping_vines_base": {
-            "textures": [
-                "textures/blocks/weeping_vines_plant"
-            ]
+            "textures": "textures/blocks/weeping_vines_plant"
         },
         "weeping_vines_bottom": {
-            "textures": [
-                "textures/blocks/weeping_vines"
-            ]
+            "textures": "textures/blocks/weeping_vines"
+        },
+        "weeping_vines_carried": {
+            "textures": "textures/items/weeping_vines"
         },
         "wheat": {
             "textures": [
@@ -7415,17 +8146,6 @@
                 "textures/items/light_block_14",
                 "textures/items/light_block_15"
             ]
-        },
-        "torchflower_crop": {
-            "textures": [
-                "textures/blocks/torchflower_crop_stage_0",
-                "textures/blocks/torchflower_crop_stage_1",
-                "textures/blocks/torchflower",
-                "textures/blocks/torchflower"
-            ]
-        },
-        "torchflower": {
-            "textures": "textures/blocks/torchflower"
         },
         "dragon_egg": {
             "textures": "textures/blocks/dragon_egg"
