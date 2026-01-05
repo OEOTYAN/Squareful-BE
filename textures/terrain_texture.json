@@ -7281,7 +7281,7 @@
         "stone_slab_side": {
             "textures": [
                 "textures/blocks/smooth_stone_slab_side",
-                "textures/blocks/sandstone_end",
+                "textures/blocks/sandstone_bottom",
                 "textures/blocks/oak_planks",
                 "textures/blocks/cobblestone",
                 "textures/blocks/bricks",
@@ -7292,7 +7292,7 @@
         },
         "stone_slab_side_2": {
             "textures": [
-                "textures/blocks/red_sandstone_end",
+                "textures/blocks/red_sandstone_bottom",
                 "textures/blocks/purpur_block",
                 "textures/blocks/prismarine",
                 "textures/blocks/dark_prismarine",
