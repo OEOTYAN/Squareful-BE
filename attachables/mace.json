@@ -1,0 +1,36 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:mace",
+      "min_engine_version": "1.10.0",
+      "materials": {
+        "default": "entity",
+        "enchanted": "entity_glint"
+      },
+      "textures": {
+        "mace_head": "textures/items/mace_model_head",
+        "mace_stick": "textures/items/mace_model_stick",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "animations": {
+        "first_person": "animation.mace.first_person",
+        "third_person": "animation.mace.third_person"
+      },
+      "scripts": {
+        "animate": [
+          { "first_person": "c.is_first_person" },
+          { "third_person": "!c.is_first_person" }
+        ]
+      },
+      "geometry": {
+        "mace_head": "geometry.mace_head",
+        "mace_stick": "geometry.mace_stick"
+      },
+      "render_controllers": [ 
+        "controller.render.mace_head", 
+        "controller.render.mace_stick" 
+      ]
+    }
+  }
+}

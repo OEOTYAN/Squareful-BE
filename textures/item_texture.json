@@ -244,13 +244,33 @@
         },
         "map_filled": {
             "textures": [
-                "textures/items/map_filled",
-                "textures/items/map_filled",
-                "textures/items/map_filled",
-                "textures/items/map_monument",
-                "textures/items/map_mansion",
-                "textures/items/map_nautilus",
-                "textures/items/map_locked"
+                "textures/items/filled_map",
+                "textures/items/filled_map",
+                "textures/items/filled_map_located",
+                "textures/items/ocean_monument_map",
+                "textures/items/woodland_mansion_map",
+                "textures/items/buried_treasure_map",
+                "textures/items/filled_map_locked",
+                "textures/items/snowy_village_map",
+                "textures/items/taiga_village_map",
+                "textures/items/plains_village_map",
+                "textures/items/savanna_village_map",
+                "textures/items/desert_village_map",
+                "textures/items/jungle_temple_map",
+                "textures/items/swamp_hut_map",
+                "textures/items/trial_chamber_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/abandoned_campsite_map",
+                "textures/items/ancient_city_map",
+                "textures/items/mineshaft_map",
+                "textures/items/desert_pyramid_map",
+                "textures/items/warm_ocean_ruins_map"
             ]
         },
         "bucket": {
@@ -1020,6 +1040,9 @@
         },
         "spawn_egg_zombie_villager": {
             "textures": "textures/items/spawn_egg/zombie_villager"
+        },
+        "spawn_egg_sulfur_cube": {
+            "textures": "textures/items/spawn_egg/sulfur_cube"
         }
     }
 }

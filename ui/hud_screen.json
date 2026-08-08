@@ -1,11 +1,42 @@
 {
   // Enable view item count on create mode //
   "gui_hotbar_grid_item/hotbar_parent/item_count": {
-    "modifications": [  
-      {      
+    "modifications": [
+      {
         "array_name": "bindings",
-        "where": {"binding_name":"#stack_count_visible"},
+        "where": { "binding_name": "#stack_count_visible" },
         "operation": "remove"
+      }
+    ]
+  },
+  "hotbar_elipses_panel_right_art/slot": {
+    "texture": "textures/ui/hotbar_9"
+  },
+  "hotbar_elipses_panel_left_art/slot": {
+    "texture": "textures/ui/hotbar_9"
+  },
+  "borderless_button@common.button": {
+    "controls": [
+      {
+        "default@default_borderless_button_layout": {
+          "texture": "textures/ui/darkmode_beacon_button_default"
+        }
+      },
+      {
+        "hover@hover_borderless_button_layout": {
+          "texture": "textures/ui/darkmode_beacon_button_hover"
+        }
+      },
+      {
+        "pressed@pressed_borderless_button_layout": {
+          "texture": "textures/ui/darkmode_beacon_button_pressed"
+        }
+      },
+      {
+        "elipses@elipses_image": {
+          "$elipses_image_size": [ 16, 16 ],
+          "texture": "textures/ui/inventory_chest"
+        }
       }
     ]
   }
