@@ -4,6 +4,434 @@
     "resource_pack_name": "Squareful",
     "texture_name": "atlas.terrain",
     "texture_data": {
+        "white_wool_stairs": {
+            "textures": "textures/blocks/white_wool"
+        },
+        "light_gray_wool_stairs": {
+            "textures": "textures/blocks/light_gray_wool"
+        },
+        "gray_wool_stairs": {
+            "textures": "textures/blocks/gray_wool"
+        },
+        "black_wool_stairs": {
+            "textures": "textures/blocks/black_wool"
+        },
+        "brown_wool_stairs": {
+            "textures": "textures/blocks/brown_wool"
+        },
+        "red_wool_stairs": {
+            "textures": "textures/blocks/red_wool"
+        },
+        "orange_wool_stairs": {
+            "textures": "textures/blocks/orange_wool"
+        },
+        "yellow_wool_stairs": {
+            "textures": "textures/blocks/yellow_wool"
+        },
+        "lime_wool_stairs": {
+            "textures": "textures/blocks/lime_wool"
+        },
+        "green_wool_stairs": {
+            "textures": "textures/blocks/green_wool"
+        },
+        "cyan_wool_stairs": {
+            "textures": "textures/blocks/cyan_wool"
+        },
+        "light_blue_wool_stairs": {
+            "textures": "textures/blocks/light_blue_wool"
+        },
+        "blue_wool_stairs": {
+            "textures": "textures/blocks/blue_wool"
+        },
+        "purple_wool_stairs": {
+            "textures": "textures/blocks/purple_wool"
+        },
+        "magenta_wool_stairs": {
+            "textures": "textures/blocks/magenta_wool"
+        },
+        "pink_wool_stairs": {
+            "textures": "textures/blocks/pink_wool"
+        },
+        "white_wool_slab": {
+            "textures": "textures/blocks/white_wool"
+        },
+        "light_gray_wool_slab": {
+            "textures": "textures/blocks/light_gray_wool"
+        },
+        "gray_wool_slab": {
+            "textures": "textures/blocks/gray_wool"
+        },
+        "black_wool_slab": {
+            "textures": "textures/blocks/black_wool"
+        },
+        "brown_wool_slab": {
+            "textures": "textures/blocks/brown_wool"
+        },
+        "red_wool_slab": {
+            "textures": "textures/blocks/red_wool"
+        },
+        "orange_wool_slab": {
+            "textures": "textures/blocks/orange_wool"
+        },
+        "yellow_wool_slab": {
+            "textures": "textures/blocks/yellow_wool"
+        },
+        "lime_wool_slab": {
+            "textures": "textures/blocks/lime_wool"
+        },
+        "green_wool_slab": {
+            "textures": "textures/blocks/green_wool"
+        },
+        "cyan_wool_slab": {
+            "textures": "textures/blocks/cyan_wool"
+        },
+        "light_blue_wool_slab": {
+            "textures": "textures/blocks/light_blue_wool"
+        },
+        "blue_wool_slab": {
+            "textures": "textures/blocks/blue_wool"
+        },
+        "purple_wool_slab": {
+            "textures": "textures/blocks/purple_wool"
+        },
+        "magenta_wool_slab": {
+            "textures": "textures/blocks/magenta_wool"
+        },
+        "pink_wool_slab": {
+            "textures": "textures/blocks/pink_wool"
+        },
+        "white_wool_double_slab": {
+            "textures": "textures/blocks/white_wallpaper"
+        },
+        "light_gray_wool_double_slab": {
+            "textures": "textures/blocks/light_gray_wallpaper"
+        },
+        "gray_wool_double_slab": {
+            "textures": "textures/blocks/gray_wallpaper"
+        },
+        "black_wool_double_slab": {
+            "textures": "textures/blocks/black_wallpaper"
+        },
+        "brown_wool_double_slab": {
+            "textures": "textures/blocks/brown_wallpaper"
+        },
+        "red_wool_double_slab": {
+            "textures": "textures/blocks/red_wallpaper"
+        },
+        "orange_wool_double_slab": {
+            "textures": "textures/blocks/orange_wallpaper"
+        },
+        "yellow_wool_double_slab": {
+            "textures": "textures/blocks/yellow_wallpaper"
+        },
+        "lime_wool_double_slab": {
+            "textures": "textures/blocks/lime_wallpaper"
+        },
+        "green_wool_double_slab": {
+            "textures": "textures/blocks/green_wallpaper"
+        },
+        "cyan_wool_double_slab": {
+            "textures": "textures/blocks/cyan_wallpaper"
+        },
+        "light_blue_wool_double_slab": {
+            "textures": "textures/blocks/light_blue_wallpaper"
+        },
+        "blue_wool_double_slab": {
+            "textures": "textures/blocks/blue_wallpaper"
+        },
+        "purple_wool_double_slab": {
+            "textures": "textures/blocks/purple_wallpaper"
+        },
+        "magenta_wool_double_slab": {
+            "textures": "textures/blocks/magenta_wallpaper"
+        },
+        "pink_wool_double_slab": {
+            "textures": "textures/blocks/pink_wallpaper"
+        },
+        "white_concrete_stairs": {
+            "textures": "textures/blocks/white_concrete"
+        },
+        "light_gray_concrete_stairs": {
+            "textures": "textures/blocks/light_gray_concrete"
+        },
+        "gray_concrete_stairs": {
+            "textures": "textures/blocks/gray_concrete"
+        },
+        "black_concrete_stairs": {
+            "textures": "textures/blocks/black_concrete"
+        },
+        "brown_concrete_stairs": {
+            "textures": "textures/blocks/brown_concrete"
+        },
+        "red_concrete_stairs": {
+            "textures": "textures/blocks/red_concrete"
+        },
+        "orange_concrete_stairs": {
+            "textures": "textures/blocks/orange_concrete"
+        },
+        "yellow_concrete_stairs": {
+            "textures": "textures/blocks/yellow_concrete"
+        },
+        "lime_concrete_stairs": {
+            "textures": "textures/blocks/lime_concrete"
+        },
+        "green_concrete_stairs": {
+            "textures": "textures/blocks/green_concrete"
+        },
+        "cyan_concrete_stairs": {
+            "textures": "textures/blocks/cyan_concrete"
+        },
+        "light_blue_concrete_stairs": {
+            "textures": "textures/blocks/light_blue_concrete"
+        },
+        "blue_concrete_stairs": {
+            "textures": "textures/blocks/blue_concrete"
+        },
+        "purple_concrete_stairs": {
+            "textures": "textures/blocks/purple_concrete"
+        },
+        "magenta_concrete_stairs": {
+            "textures": "textures/blocks/magenta_concrete"
+        },
+        "pink_concrete_stairs": {
+            "textures": "textures/blocks/pink_concrete"
+        },
+        "white_concrete_slab": {
+            "textures": "textures/blocks/white_concrete"
+        },
+        "light_gray_concrete_slab": {
+            "textures": "textures/blocks/light_gray_concrete"
+        },
+        "gray_concrete_slab": {
+            "textures": "textures/blocks/gray_concrete"
+        },
+        "black_concrete_slab": {
+            "textures": "textures/blocks/black_concrete"
+        },
+        "brown_concrete_slab": {
+            "textures": "textures/blocks/brown_concrete"
+        },
+        "red_concrete_slab": {
+            "textures": "textures/blocks/red_concrete"
+        },
+        "orange_concrete_slab": {
+            "textures": "textures/blocks/orange_concrete"
+        },
+        "yellow_concrete_slab": {
+            "textures": "textures/blocks/yellow_concrete"
+        },
+        "lime_concrete_slab": {
+            "textures": "textures/blocks/lime_concrete"
+        },
+        "green_concrete_slab": {
+            "textures": "textures/blocks/green_concrete"
+        },
+        "cyan_concrete_slab": {
+            "textures": "textures/blocks/cyan_concrete"
+        },
+        "light_blue_concrete_slab": {
+            "textures": "textures/blocks/light_blue_concrete"
+        },
+        "blue_concrete_slab": {
+            "textures": "textures/blocks/blue_concrete"
+        },
+        "purple_concrete_slab": {
+            "textures": "textures/blocks/purple_concrete"
+        },
+        "magenta_concrete_slab": {
+            "textures": "textures/blocks/magenta_concrete"
+        },
+        "pink_concrete_slab": {
+            "textures": "textures/blocks/pink_concrete"
+        },
+        "white_concrete_double_slab": {
+            "textures": "textures/blocks/white_concrete"
+        },
+        "light_gray_concrete_double_slab": {
+            "textures": "textures/blocks/light_gray_concrete"
+        },
+        "gray_concrete_double_slab": {
+            "textures": "textures/blocks/gray_concrete"
+        },
+        "black_concrete_double_slab": {
+            "textures": "textures/blocks/black_concrete"
+        },
+        "brown_concrete_double_slab": {
+            "textures": "textures/blocks/brown_concrete"
+        },
+        "red_concrete_double_slab": {
+            "textures": "textures/blocks/red_concrete"
+        },
+        "orange_concrete_double_slab": {
+            "textures": "textures/blocks/orange_concrete"
+        },
+        "yellow_concrete_double_slab": {
+            "textures": "textures/blocks/yellow_concrete"
+        },
+        "lime_concrete_double_slab": {
+            "textures": "textures/blocks/lime_concrete"
+        },
+        "green_concrete_double_slab": {
+            "textures": "textures/blocks/green_concrete"
+        },
+        "cyan_concrete_double_slab": {
+            "textures": "textures/blocks/cyan_concrete"
+        },
+        "light_blue_concrete_double_slab": {
+            "textures": "textures/blocks/light_blue_concrete"
+        },
+        "blue_concrete_double_slab": {
+            "textures": "textures/blocks/blue_concrete"
+        },
+        "purple_concrete_double_slab": {
+            "textures": "textures/blocks/purple_concrete"
+        },
+        "magenta_concrete_double_slab": {
+            "textures": "textures/blocks/magenta_concrete"
+        },
+        "pink_concrete_double_slab": {
+            "textures": "textures/blocks/pink_concrete"
+        },
+        "red_poplar_leaves": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/red_poplar_leaves",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/red_poplar_leaves2",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "orange_poplar_leaves": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/orange_poplar_leaves",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/orange_poplar_leaves2",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "yellow_poplar_leaves": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/yellow_poplar_leaves",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/yellow_poplar_leaves2",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "bamboo_planks": {
+            "textures": "textures/blocks/bamboo_planks"
+        },
+        "bamboo_planks_ds": {
+            "textures": "textures/blocks/bamboo_planks_ds"
+        },
+        "petrified_oak_planks_top": {
+            "textures": "textures/blocks/stone_anvil_planks"
+        },
+        "petrified_oak_planks_side": {
+            "textures": "textures/blocks/stone_anvil_planks"
+        },
+        "poplar_planks_side2": {
+            "textures": "textures/blocks/poplar_planks_side2"
+        },
+        "poplar_planks_side3": {
+            "textures": "textures/blocks/poplar_planks_side3"
+        },
+        "poplar_planks_top": {
+            "textures": "textures/blocks/poplar_planks"
+        },
+        "poplar_planks_side": {
+            "textures": "textures/blocks/poplar_planks_side"
+        },
+        "poplar_planks": {
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/poplar_planks",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/poplar_planks2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/poplar_planks3",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        "shelf_mushroom_carried": {
+            "textures": "textures/items/shelf_mushroom"
+        },
+        "poplar_sapling": {
+            "textures": "textures/blocks/poplar_sapling"
+        },
+        "poplar_sapling_carried": {
+            "textures": "textures/items/poplar_sapling"
+        },
+        "flattened_dirt": {
+            "textures": "textures/blocks/flattened_dirt"
+        },
+        "potent_sulfur": {
+            "textures": [
+                "textures/blocks/potent_sulfur",
+                "textures/blocks/potent_sulfur",
+                "textures/blocks/potent_sulfur_dormant",
+                "textures/blocks/potent_sulfur_erupting",
+                "textures/blocks/potent_sulfur_continuous"
+            ]
+        },
+        "sulfur_spike_carried": {
+            "textures": "textures/items/sulfur_spike"
+        },
+        "polished_sulfur_top": {
+            "textures": "textures/blocks/polished_sulfur_top"
+        },
+        "polished_sulfur_side": {
+            "textures": "textures/blocks/polished_sulfur_side"
+        },
+        "sulfur_bricks_top": {
+            "textures": "textures/blocks/sulfur_bricks_top"
+        },
+        "sulfur_bricks_side": {
+            "textures": "textures/blocks/sulfur_bricks_side"
+        },
+        "polished_cinnabar_top": {
+            "textures": "textures/blocks/polished_cinnabar_top"
+        },
+        "polished_cinnabar_side": {
+            "textures": "textures/blocks/polished_cinnabar_side"
+        },
+        "cinnabar_bricks_top": {
+            "textures": "textures/blocks/cinnabar_bricks_top"
+        },
+        "cinnabar_bricks_side": {
+            "textures": "textures/blocks/cinnabar_bricks_side"
+        },
         "allium": {
             "textures": "textures/blocks/allium"
         },
@@ -39,6 +467,12 @@
         },
         "dandelion_carried": {
             "textures": "textures/items/dandelion"
+        },
+        "golden_dandelion": {
+            "textures": "textures/blocks/golden_dandelion"
+        },
+        "golden_dandelion_carried": {
+            "textures": "textures/items/golden_dandelion"
         },
         "lily_of_the_valley": {
             "textures": "textures/blocks/lily_of_the_valley"

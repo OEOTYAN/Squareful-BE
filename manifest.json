@@ -4,27 +4,15 @@
         "description": "§l§6by XeKr & OEOTYAN",
         "name": "§lSquareful-BE v26.0.1",
         "uuid": "7011c4ce-505d-45b8-bccb-e74fe4305477",
-        "version": [
-            26,
-            0,
-            1
-        ],
-        "min_engine_version": [
-            1,
-            21,
-            0
-        ]
+        "version": [ 26, 0, 2 ],
+        "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
         {
             "description": "§l§6by XeKr & OEOTYAN",
             "type": "resources",
             "uuid": "d2a5c2e1-b53a-4f71-9585-a94c7180e561",
-            "version": [
-                26,
-                0,
-                1
-            ]
+            "version": [ 26, 0, 2 ]
         }
     ]
 }

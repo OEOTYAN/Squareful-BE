@@ -1,0 +1,13 @@
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.mace.first_person": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"animations": [ "first_person" ]
+				}
+			}
+		}
+	}
+}

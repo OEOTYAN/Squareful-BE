@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10",
+  "render_controllers": {
+    "controller.render.mace_head": {
+      "geometry": "geometry.mace_head",
+      "materials": [ { "*": "variable.is_enchanted ? material.enchanted : material.default" } ],
+      "textures": [ "texture.mace_head", "texture.enchanted" ]
+    },
+    "controller.render.mace_stick": {
+      "geometry": "geometry.mace_stick",
+      "materials": [ { "*": "variable.is_enchanted ? material.enchanted : material.default" } ],
+      "textures": [ "texture.mace_stick", "texture.enchanted" ]
+    }
+  }
+}

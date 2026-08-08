@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mace.first_person": {
+			"animation_length": 10.0,
+			"loop": true,
+			"bones": {
+				"mace_head": {
+					"position": [ "context.item_slot == 'off_hand' ? -25.0 : -3.0", "context.item_slot == 'off_hand' ? 18.0 : 13.8", "context.item_slot == 'off_hand' ? 17.8 : 3.8" ],
+					"rotation": [ "context.item_slot == 'off_hand' ? 0 : 155.0", "context.item_slot == 'off_hand' ? -12.0 : 9.0", "context.item_slot == 'off_hand' ? 0 : 60.0" ],
+					"scale": 0.8
+				},
+				"mace_stick": {
+					"position": [ "context.item_slot == 'off_hand' ? -25.0 : -3.0", "context.item_slot == 'off_hand' ? 18.0 : 13.8", "context.item_slot == 'off_hand' ? 17.8 : 3.8" ],
+					"rotation": [ "context.item_slot == 'off_hand' ? 0 : 155.0", "context.item_slot == 'off_hand' ? -12.0 : 9.0", "context.item_slot == 'off_hand' ? 0 : 60.0" ],
+					"scale": 0.8
+				}
+			}
+		},
+		"animation.mace.third_person": {
+			"animation_length": 10.0,
+			"loop": true,
+			"bones": {
+				"mace_head": {
+					"position": [ "context.item_slot == 'off_hand' ? -1.2 : 1.2", "context.item_slot == 'off_hand' ? 13.5 : 12.5", -9.0 ],
+					"rotation": [ 90.0, 40.0, "context.item_slot == 'off_hand' ? -90.0 : 90.0" ]
+				},
+				"mace_stick": {
+					"position": [ "context.item_slot == 'off_hand' ? -1.2 : 1.2", "context.item_slot == 'off_hand' ? 13.5 : 12.5", -9.0 ],
+					"rotation": [ 90.0, 40.0, "context.item_slot == 'off_hand' ? -90.0 : 90.0" ]
+				}
+			}
+		}
+	}
+}
