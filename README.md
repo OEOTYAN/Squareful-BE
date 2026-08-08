@@ -2,9 +2,7 @@
 
 A series of squarelize Minecraft resourcepack
 
-作者：Xe_Kr & OEOTYAN
-
-贡献者：Jumao15071
+作者：Xe_Kr & OEOTYAN & Jumao15071
 
 本作品采用知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议进行许可。
 
