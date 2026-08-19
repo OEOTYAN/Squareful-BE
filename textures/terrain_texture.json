@@ -1,6 +1,4 @@
 {
-    "num_mip_levels": 4,
-    "padding": 8,
     "resource_pack_name": "Squareful",
     "texture_name": "atlas.terrain",
     "texture_data": {
@@ -697,14 +695,8 @@
             "textures": [
                 "textures/items/sunflower",
                 "textures/items/lilac",
-                {
-                    "path": "textures/blocks/tall_grass_top",
-                    "tint_color": "#77AB2F"
-                },
-                {
-                    "path": "textures/blocks/large_fern_top",
-                    "tint_color": "#77AB2F"
-                },
+                "textures/items/tall_grass",
+                "textures/items/fern",
                 "textures/items/rose_bush",
                 "textures/items/peony"
             ]
@@ -737,10 +729,10 @@
             "textures": "textures/items/fern"
         },
         "large_fern_top": {
-            "textures": "textures/blocks/double_plant_fern_top"
+            "textures": "textures/blocks/large_fern_top"
         },
         "large_fern_bottom": {
-            "textures": "textures/blocks/double_plant_fern_bottom"
+            "textures": "textures/blocks/large_fern_bottom"
         },
         "large_fern_carried": {
             "textures": "textures/items/large_fern"
@@ -806,7 +798,24 @@
             "textures": "textures/items/short_grass"
         },
         "tall_grass_top": {
-            "textures": "textures/blocks/double_plant_grass_top"
+            "textures": [
+                {
+                    "variations": [
+                        {
+                            "path": "textures/blocks/tall_grass_top",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/tall_grass_top2",
+                            "weight": 1
+                        },
+                        {
+                            "path": "textures/blocks/tall_grass_top3",
+                            "weight": 1
+                        }
+                    ]
+                }
+            ]
         },
         "tall_grass_bottom": {
             "textures": "textures/blocks/double_plant_grass_bottom"

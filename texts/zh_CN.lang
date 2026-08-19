@@ -198,18 +198,18 @@ tile.redstone.tag.powered=红石消费者	#
 attribute.name.generic.miningEfficiency=挖掘效率	#
 attribute.name.generic.digEfficiency=挖掘效率	#
 attribute.name.generic.chopEfficiency=挖掘效率	#
-item.map.exploration.abandoned_camp_dappled_forest.name=斑驳森林废弃营地地图	#
-item.map.exploration.abandoned_camp_bamboo_jungle.name=竹林废弃营地地图	#
-item.map.exploration.abandoned_camp_birch_forest.name=桦木森林废弃营地地图	#
-item.map.exploration.abandoned_camp_cherry_grove.name=樱花树林废弃营地地图	#
-item.map.exploration.abandoned_camp_extreme_hills_plus_trees.name=风袭森林废弃营地地图	#
-item.map.exploration.abandoned_camp_flower_forest.name=繁花森林废弃营地地图	#
-item.map.exploration.abandoned_camp_pale_garden.name=苍白之园废弃营地地图	#
-item.map.exploration.abandoned_camp_swampland.name=沼泽废弃营地地图	#
-item.map.exploration.buried_ancient_city.name=远古城市地图	#
-item.map.exploration.buried_mineshaft.name=废弃矿井地图	#
+item.map.exploration.abandoned_camp_dappled_forest.name=斑驳森林营地地图	#
+item.map.exploration.abandoned_camp_bamboo_jungle.name=竹林营地地图	#
+item.map.exploration.abandoned_camp_birch_forest.name=桦木森林营地地图	#
+item.map.exploration.abandoned_camp_cherry_grove.name=樱花树林营地地图	#
+item.map.exploration.abandoned_camp_extreme_hills_plus_trees.name=风袭森林营地地图	#
+item.map.exploration.abandoned_camp_flower_forest.name=繁花森林营地地图	#
+item.map.exploration.abandoned_camp_pale_garden.name=苍白之园营地地图	#
+item.map.exploration.abandoned_camp_swampland.name=沼泽营地地图	#
+item.map.exploration.buried_ancient_city.name=埋藏的远古城市地图	#
+item.map.exploration.buried_mineshaft.name=埋藏的废弃矿井地图	#
 item.map.exploration.desert_temple.name=沙漠神殿地图	#
-item.map.exploration.warm_ocean_ruins.name=热带海底废墟地图	#
+item.map.exploration.warm_ocean_ruins.name=暖水海底废墟地图	#
 
 ## Minecraft译名修正
 ## Vanilla strings
